@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IESS - Career Path Predictor</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
+</head>
+<body class="bg-gray-100">
+    <!-- Navigation -->
+    <nav class="bg-white shadow-sm">
+        <div class="container mx-auto px-4 py-2 flex items-center justify-between">
+            <a href="#" class="text-blue-600 font-bold text-xl">IESS</a>
+            <div class="flex space-x-4">
+                <a href="#" class="nav-link active">Career Predictor</a>
+                <a href="#" class="nav-link">Career Advising</a>
+                <a href="#" class="nav-link">Sentiment Analyzer</a>
+                <a href="#" class="nav-link">Career Quest</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <div class="container mx-auto p-6">
+        <div class="bg-white rounded-lg shadow-md p-8">
+            <h1 class="text-2xl font-bold text-center mb-8">Career Path Predictor</h1>
+            
+            <!-- Form Section -->
+            <div class="space-y-6 max-w-lg mx-auto">
+               
+                <div>
+                    <label for="Gender" class="block text-sm font-medium text-gray-700 mb-1">Gender</label>
+                    <div class="relative">
+                        <select id="Gender" class="w-full border border-gray-300 rounded-md px-3 py-2 appearance-none">
+                            <option selected>Male</option>
+                            <option>Female</option>
+                            <option>Binary</option>
+                            <option>Others</option>
+                            
+                        </select>
+                        <div class="absolute inset-y-0 right-0 flex items-center px-2 pointer-events-none">
+                            <svg class="h-4 w-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+
+                
+                <!-- Skills & Expertise -->
+                <div>
+                    <label for="skills" class="block text-sm font-medium text-gray-700 mb-1">Skills & Expertise</label>
+                    <div class="relative">
+                        <select id="skills" class="w-full border border-gray-300 rounded-md px-3 py-2 appearance-none">
+                            <option selected>Logical</option>
+                            <option>Technical</option>
+                            <option>Creative</option>
+                            <option>Analytical</option>
+                            
+                        </select>
+                        <div class="absolute inset-y-0 right-0 flex items-center px-2 pointer-events-none">
+                            <svg class="h-4 w-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <label for="Favorite_Subjects" class="block text-sm font-medium text-gray-700 mb-1">Favorite Subjects</label>
+                    <div class="relative">
+                        <select id="Favorite_Subjects" class="w-full border border-gray-300 rounded-md px-3 py-2 appearance-none">
+                            <option selected>Math</option>
+                            <option>Science</option>
+                            <option>History</option>
+                            <option>Programming</option>
+                            <option>Arts</option>
+                        </select>
+                        <div class="absolute inset-y-0 right-0 flex items-center px-2 pointer-events-none">
+                            <svg class="h-4 w-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+
+                
+                <div>
+                    <label for="Extracurricular_Activities" class="block text-sm font-medium text-gray-700 mb-1">Extracurricular Activity</label>
+                    <div class="relative">
+                        <select id="Extracurricular_Activities" class="w-full border border-gray-300 rounded-md px-3 py-2 appearance-none">
+                            <option selected>Sport</option>
+                            <option>Debate</option>
+                            <option>Volunteering</option>
+                            <option>Music</option>
+                            
+                        </select>
+                        <div class="absolute inset-y-0 right-0 flex items-center px-2 pointer-events-none">
+                            <svg class="h-4 w-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+
+                 
+                <div>
+                    <label for="Personality_Traits" class="block text-sm font-medium text-gray-700 mb-1">Personality Traits</label>
+                    <div class="relative">
+                        <select id="Personality_Traits" class="w-full border border-gray-300 rounded-md px-3 py-2 appearance-none">
+                            <option selected>Extrovert</option>
+                            <option>Ambivert</option>
+                            <option>Introvert</option>
+                            
+                        </select>
+                        <div class="absolute inset-y-0 right-0 flex items-center px-2 pointer-events-none">
+                            <svg class="h-4 w-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <label for="Preferred_Work_Style" class="block text-sm font-medium text-gray-700 mb-1">Preferred Work Style</label>
+                    <div class="relative">
+                        <select id="Preferred_Work_Style" class="w-full border border-gray-300 rounded-md px-3 py-2 appearance-none">
+                            <option selected>Flexible</option>
+                            <option>Team Oriented</option>
+                            <option>Independent</option>
+                            
+                            
+                        </select>
+                        <div class="absolute inset-y-0 right-0 flex items-center px-2 pointer-events-none">
+                            <svg class="h-4 w-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="md:col-span-5 text-right">
+                    <div class="inline-flex items-center">
+                        <button type="submit" 
+                            class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+                            Get Recommendation
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+
+
+
+
+
+
+               
+
+            <!-- Career Recommendations -->
+            <div class="mt-10">
+                <h2 class="text-lg font-semibold mb-4">Recommended Career Paths</h2>
+                
+                <!-- Software Developer -->
+                <div class="border border-gray-200 rounded-md p-4 mb-4">
+                    <div class="flex justify-between items-center">
+                        <h3 class="font-medium">Software Developer</h3>
+                        <span class="text-green-500 text-sm">95% Match</span>
+                    </div>
+                    <p class="text-gray-600 text-sm mt-1">Design and develop software solutions for enterprise clients</p>
+                </div>
+                
+                <!-- Data Scientist -->
+                <div class="border border-gray-200 rounded-md p-4 mb-4">
+                    <div class="flex justify-between items-center">
+                        <h3 class="font-medium">Data Scientist</h3>
+                        <span class="text-green-500 text-sm">88% Match</span>
+                    </div>
+                    <p class="text-gray-600 text-sm mt-1">Analyze complex data sets to drive business decisions</p>
+                </div>
+                
+                <!-- Product Manager -->
+                <div class="border border-gray-200 rounded-md p-4">
+                    <div class="flex justify-between items-center">
+                        <h3 class="font-medium">Product Manager</h3>
+                        <span class="text-green-500 text-sm">82% Match</span>
+                    </div>
+                    <p class="text-gray-600 text-sm mt-1">Lead product development and strategy implementation</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

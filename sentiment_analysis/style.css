@@ -1,0 +1,59 @@
+/* Custom styles for Emotion Analyzer */
+
+/* Navigation styles */
+.nav-link {
+    color: #4B5563;
+    padding: 0.5rem 1rem;
+    border-radius: 0.25rem;
+    font-weight: 500;
+    transition: all 0.2s ease;
+}
+
+.nav-link.active {
+    background-color: #2563EB;
+    color: white;
+}
+
+.nav-link:hover:not(.active) {
+    background-color: #F3F4F6;
+}
+
+/* Textarea focus styles */
+textarea:focus {
+    outline: none;
+    border-color: #818CF8;
+    box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.2);
+}
+
+/* Button animations */
+button {
+    transition: all 0.2s ease;
+}
+
+button:hover {
+    transform: translateY(-1px);
+}
+
+button:active {
+    transform: translateY(1px);
+}
+
+/* Insight cards hover effect */
+.border-l-4 {
+    transition: all 0.2s ease;
+}
+
+.border-l-4:hover {
+    transform: translateX(2px);
+}
+
+/* Results animation */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+#resultsSection.show {
+    display: grid;
+    animation: fadeIn 0.5s ease forwards;
+}

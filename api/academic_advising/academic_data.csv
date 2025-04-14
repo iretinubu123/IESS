@@ -1,0 +1,1001 @@
+GPA,Study_Hours,Preferred_Subject,Learning_Style,Career_Aspiration,Interest_Area,Interest_in_Subjects,Recommended_Course,Study_Habits
+3.31,40,History,Visual,Entrepreneur,Arts,High,Education,Consistent
+2.27,14,Art,Visual,Engineer,Finance,Low,Graphic Design,Last-Minute
+2.94,27,History,Visual,Engineer,Education,Low,Medicine,Organized
+3.02,35,Business,Auditory,Artist,Health,Medium,Finance,Irregular
+1.37,32,Math,Reading/Writing,Doctor,Health,Medium,Finance,Irregular
+2.2,9,Math,Kinesthetic,Entrepreneur,Education,Low,Medicine,Consistent
+3.37,33,History,Visual,Doctor,Education,High,Education,Last-Minute
+2.46,29,Business,Reading/Writing,Engineer,Health,Medium,Finance,Needs Improvement
+3.0,40,History,Kinesthetic,Doctor,Arts,Medium,Finance,Last-Minute
+2.32,7,Science,Auditory,Scientist,Finance,Low,Graphic Design,Last-Minute
+2.12,18,Art,Reading/Writing,Doctor,Finance,Medium,Education,Needs Improvement
+1.07,38,Art,Visual,Doctor,Technology,Low,Data Science,Consistent
+1.41,10,Math,Auditory,Doctor,Health,Low,Data Science,Consistent
+2.42,7,Art,Reading/Writing,Doctor,Arts,Medium,Data Science,Organized
+3.12,14,Art,Reading/Writing,Engineer,Technology,High,Education,Last-Minute
+1.84,9,Science,Visual,Entrepreneur,Arts,High,Graphic Design,Consistent
+2.62,6,Science,Visual,Entrepreneur,Technology,Medium,Data Science,Irregular
+3.17,16,Science,Kinesthetic,Doctor,Health,Low,Data Science,Last-Minute
+3.77,29,Math,Auditory,Artist,Health,Medium,Finance,Needs Improvement
+2.78,24,Math,Auditory,Engineer,Education,Low,Finance,Needs Improvement
+3.12,25,Art,Auditory,Artist,Technology,Medium,Finance,Irregular
+2.63,6,Science,Reading/Writing,Scientist,Finance,High,Education,Needs Improvement
+1.55,12,Science,Auditory,Artist,Technology,Medium,Graphic Design,Consistent
+1.77,31,Science,Reading/Writing,Engineer,Education,Low,Graphic Design,Needs Improvement
+3.41,22,Art,Reading/Writing,Doctor,Arts,Low,Graphic Design,Organized
+2.86,30,History,Kinesthetic,Artist,Arts,High,Medicine,Organized
+1.72,39,Business,Auditory,Engineer,Education,Low,Data Science,Irregular
+2.79,32,Business,Auditory,Engineer,Education,Low,Data Science,Needs Improvement
+2.37,33,Business,Reading/Writing,Doctor,Finance,Medium,Finance,Irregular
+2.86,17,Math,Visual,Doctor,Education,Medium,Medicine,Needs Improvement
+1.14,9,History,Kinesthetic,Entrepreneur,Health,High,Graphic Design,Consistent
+1.86,15,Business,Reading/Writing,Entrepreneur,Education,Low,Graphic Design,Irregular
+2.69,22,History,Auditory,Doctor,Health,Medium,Data Science,Organized
+3.63,31,Math,Kinesthetic,Scientist,Technology,Medium,Data Science,Consistent
+3.11,38,Business,Kinesthetic,Entrepreneur,Health,High,Education,Last-Minute
+3.02,25,Business,Visual,Doctor,Arts,Medium,Finance,Last-Minute
+3.49,16,Business,Kinesthetic,Artist,Technology,Low,Medicine,Irregular
+1.2,15,Business,Auditory,Artist,Arts,Medium,Education,Consistent
+2.83,16,History,Reading/Writing,Doctor,Finance,Low,Data Science,Irregular
+3.61,26,Science,Auditory,Artist,Technology,Medium,Finance,Organized
+2.62,11,Math,Reading/Writing,Engineer,Arts,Low,Data Science,Organized
+3.94,26,Business,Reading/Writing,Scientist,Technology,Low,Education,Organized
+1.71,10,Science,Kinesthetic,Engineer,Arts,Medium,Finance,Consistent
+1.01,37,Art,Auditory,Artist,Finance,High,Finance,Organized
+1.63,13,Science,Reading/Writing,Entrepreneur,Health,High,Data Science,Irregular
+2.48,20,Business,Visual,Doctor,Arts,Medium,Data Science,Last-Minute
+3.02,20,History,Reading/Writing,Entrepreneur,Arts,Medium,Graphic Design,Organized
+2.16,23,History,Visual,Artist,Education,Low,Finance,Last-Minute
+2.64,14,Business,Auditory,Doctor,Finance,High,Finance,Needs Improvement
+2.74,30,History,Visual,Doctor,Education,Low,Education,Consistent
+3.71,21,History,Visual,Engineer,Finance,Medium,Finance,Irregular
+1.97,14,Business,Kinesthetic,Scientist,Technology,Low,Graphic Design,Consistent
+3.29,15,Science,Kinesthetic,Scientist,Health,Low,Data Science,Needs Improvement
+1.43,5,Art,Reading/Writing,Doctor,Education,Medium,Medicine,Irregular
+2.32,38,History,Kinesthetic,Entrepreneur,Technology,Low,Data Science,Last-Minute
+2.63,21,History,Kinesthetic,Entrepreneur,Education,High,Data Science,Organized
+3.33,9,History,Reading/Writing,Entrepreneur,Education,Medium,Data Science,Needs Improvement
+2.23,20,Science,Visual,Scientist,Arts,High,Data Science,Consistent
+3.35,10,Math,Visual,Scientist,Technology,Medium,Education,Consistent
+3.53,27,History,Reading/Writing,Entrepreneur,Finance,High,Data Science,Consistent
+3.85,16,Science,Visual,Engineer,Arts,Low,Finance,Organized
+3.52,23,History,Reading/Writing,Artist,Education,Medium,Data Science,Irregular
+2.53,38,Business,Auditory,Entrepreneur,Education,High,Data Science,Irregular
+1.75,19,History,Auditory,Entrepreneur,Arts,High,Data Science,Irregular
+1.87,20,Business,Visual,Artist,Education,Low,Education,Organized
+2.62,31,Art,Auditory,Doctor,Health,High,Education,Organized
+3.56,30,Art,Kinesthetic,Entrepreneur,Health,Low,Medicine,Irregular
+2.82,12,Science,Reading/Writing,Artist,Arts,High,Graphic Design,Needs Improvement
+1.81,10,Business,Kinesthetic,Artist,Finance,Low,Education,Irregular
+3.97,14,Business,Kinesthetic,Doctor,Finance,High,Finance,Organized
+1.34,34,Business,Kinesthetic,Engineer,Technology,Medium,Finance,Irregular
+3.56,17,Business,Kinesthetic,Engineer,Technology,High,Finance,Organized
+1.73,30,History,Kinesthetic,Entrepreneur,Arts,High,Graphic Design,Needs Improvement
+3.78,35,Math,Kinesthetic,Doctor,Technology,Medium,Data Science,Organized
+1.92,39,Art,Visual,Entrepreneur,Health,High,Data Science,Needs Improvement
+3.02,34,Science,Kinesthetic,Engineer,Arts,Medium,Graphic Design,Last-Minute
+1.1,11,Math,Auditory,Engineer,Education,Medium,Education,Irregular
+2.05,32,History,Reading/Writing,Artist,Education,High,Finance,Consistent
+1.39,14,Math,Visual,Doctor,Health,Low,Data Science,Needs Improvement
+3.37,36,Business,Visual,Entrepreneur,Education,Low,Medicine,Irregular
+1.1,17,Business,Auditory,Scientist,Arts,Low,Graphic Design,Needs Improvement
+2.37,25,Art,Visual,Engineer,Finance,Medium,Finance,Consistent
+1.34,35,Art,Reading/Writing,Doctor,Health,Medium,Medicine,Irregular
+2.96,30,Science,Reading/Writing,Scientist,Health,High,Graphic Design,Irregular
+1.28,11,Science,Auditory,Entrepreneur,Education,Medium,Data Science,Needs Improvement
+2.83,40,Math,Kinesthetic,Engineer,Health,Low,Data Science,Last-Minute
+2.63,5,Art,Visual,Engineer,Education,High,Finance,Last-Minute
+1.65,6,Art,Kinesthetic,Doctor,Technology,High,Finance,Last-Minute
+1.22,34,Business,Kinesthetic,Artist,Arts,High,Graphic Design,Consistent
+3.72,32,History,Visual,Scientist,Education,Low,Graphic Design,Needs Improvement
+2.04,38,Business,Visual,Entrepreneur,Technology,Medium,Education,Irregular
+2.28,30,Art,Reading/Writing,Doctor,Education,Low,Data Science,Consistent
+2.85,9,Math,Reading/Writing,Entrepreneur,Health,High,Graphic Design,Consistent
+1.98,24,Art,Visual,Artist,Health,Medium,Finance,Needs Improvement
+1.52,5,Business,Visual,Engineer,Technology,High,Graphic Design,Needs Improvement
+3.43,12,History,Reading/Writing,Scientist,Technology,Low,Finance,Consistent
+1.21,18,History,Auditory,Entrepreneur,Finance,Low,Finance,Last-Minute
+2.78,25,Art,Reading/Writing,Artist,Education,Low,Data Science,Needs Improvement
+3.84,38,History,Reading/Writing,Artist,Technology,Medium,Education,Needs Improvement
+3.21,15,History,Kinesthetic,Scientist,Finance,Medium,Finance,Consistent
+3.92,29,Art,Kinesthetic,Scientist,Education,Low,Medicine,Needs Improvement
+2.24,8,Business,Reading/Writing,Artist,Finance,Low,Graphic Design,Needs Improvement
+1.77,16,Science,Kinesthetic,Doctor,Technology,Low,Data Science,Last-Minute
+3.74,27,Business,Reading/Writing,Engineer,Education,High,Graphic Design,Organized
+3.1,16,History,Reading/Writing,Artist,Health,Medium,Data Science,Consistent
+3.94,23,Science,Visual,Scientist,Technology,Medium,Education,Needs Improvement
+3.35,31,Art,Reading/Writing,Engineer,Finance,Low,Medicine,Consistent
+3.79,6,Business,Reading/Writing,Scientist,Finance,High,Graphic Design,Organized
+3.67,29,Science,Kinesthetic,Engineer,Finance,High,Finance,Organized
+1.58,28,History,Reading/Writing,Artist,Arts,High,Data Science,Last-Minute
+2.07,36,Art,Kinesthetic,Engineer,Education,Low,Data Science,Organized
+1.22,22,Science,Kinesthetic,Scientist,Education,Medium,Data Science,Organized
+1.61,5,Science,Auditory,Artist,Education,Medium,Graphic Design,Organized
+1.3,35,Science,Auditory,Entrepreneur,Technology,High,Finance,Consistent
+2.58,14,Art,Reading/Writing,Doctor,Technology,High,Finance,Needs Improvement
+1.42,30,Art,Kinesthetic,Engineer,Technology,Medium,Data Science,Organized
+2.89,38,History,Auditory,Doctor,Technology,High,Graphic Design,Consistent
+1.94,32,History,Kinesthetic,Doctor,Education,Medium,Medicine,Needs Improvement
+2.14,21,Science,Auditory,Scientist,Technology,Medium,Data Science,Organized
+1.45,22,Math,Kinesthetic,Engineer,Health,Low,Data Science,Last-Minute
+3.43,7,History,Auditory,Scientist,Finance,High,Education,Irregular
+1.36,40,Art,Kinesthetic,Artist,Health,Medium,Data Science,Organized
+2.19,39,Science,Kinesthetic,Engineer,Technology,High,Data Science,Organized
+1.26,18,History,Kinesthetic,Engineer,Technology,High,Data Science,Irregular
+2.12,20,Math,Auditory,Engineer,Health,Medium,Medicine,Last-Minute
+1.84,17,Math,Kinesthetic,Entrepreneur,Finance,Medium,Data Science,Last-Minute
+1.94,33,Business,Reading/Writing,Doctor,Arts,Medium,Medicine,Last-Minute
+1.78,18,Business,Reading/Writing,Engineer,Technology,Medium,Education,Irregular
+2.33,6,Science,Reading/Writing,Engineer,Technology,Medium,Medicine,Last-Minute
+1.64,15,History,Auditory,Engineer,Arts,Low,Medicine,Organized
+3.09,18,Art,Auditory,Doctor,Education,Low,Medicine,Last-Minute
+2.31,16,Business,Auditory,Scientist,Finance,Medium,Education,Consistent
+1.05,36,Science,Kinesthetic,Doctor,Health,Low,Education,Organized
+1.01,39,Math,Kinesthetic,Doctor,Technology,Low,Finance,Irregular
+1.5,11,History,Auditory,Scientist,Education,Medium,Education,Organized
+3.35,21,Math,Kinesthetic,Doctor,Education,Medium,Data Science,Organized
+2.46,19,Business,Visual,Doctor,Technology,High,Education,Consistent
+3.36,19,History,Kinesthetic,Doctor,Health,High,Medicine,Needs Improvement
+2.21,30,Business,Visual,Artist,Technology,High,Graphic Design,Consistent
+3.35,23,Science,Visual,Engineer,Technology,Low,Medicine,Consistent
+2.63,25,History,Kinesthetic,Doctor,Technology,Low,Graphic Design,Consistent
+3.4,32,Business,Visual,Scientist,Health,Medium,Finance,Organized
+2.26,30,Business,Kinesthetic,Scientist,Arts,Low,Education,Irregular
+1.88,15,Business,Visual,Scientist,Arts,High,Finance,Organized
+2.87,6,Science,Reading/Writing,Scientist,Arts,Medium,Finance,Consistent
+2.44,30,History,Kinesthetic,Doctor,Arts,Low,Finance,Consistent
+2.99,33,Art,Visual,Scientist,Finance,Low,Education,Needs Improvement
+2.69,26,Business,Auditory,Entrepreneur,Finance,Medium,Education,Last-Minute
+1.99,30,History,Auditory,Artist,Health,Low,Education,Organized
+2.48,30,Art,Kinesthetic,Entrepreneur,Technology,Medium,Medicine,Needs Improvement
+1.04,35,Art,Auditory,Scientist,Education,Low,Graphic Design,Organized
+3.5,14,Science,Visual,Doctor,Technology,Low,Data Science,Organized
+1.81,37,Art,Reading/Writing,Engineer,Education,High,Data Science,Organized
+2.89,24,Business,Kinesthetic,Entrepreneur,Education,Low,Medicine,Irregular
+1.01,31,Art,Kinesthetic,Engineer,Education,High,Graphic Design,Irregular
+1.22,15,Math,Kinesthetic,Scientist,Health,Medium,Medicine,Last-Minute
+3.35,32,Science,Auditory,Scientist,Education,High,Education,Irregular
+2.34,14,Math,Kinesthetic,Scientist,Arts,Low,Graphic Design,Last-Minute
+3.27,6,Math,Visual,Scientist,Arts,Medium,Graphic Design,Irregular
+2.53,7,Business,Visual,Doctor,Technology,Low,Education,Consistent
+3.65,26,Science,Kinesthetic,Artist,Finance,High,Education,Needs Improvement
+1.92,26,Science,Auditory,Doctor,Education,Low,Graphic Design,Last-Minute
+1.21,12,Art,Reading/Writing,Doctor,Finance,Low,Data Science,Consistent
+1.34,18,Science,Visual,Entrepreneur,Arts,Low,Graphic Design,Last-Minute
+1.54,32,History,Auditory,Doctor,Technology,Medium,Graphic Design,Last-Minute
+2.17,31,Art,Reading/Writing,Engineer,Technology,High,Data Science,Irregular
+1.65,18,Math,Reading/Writing,Engineer,Education,High,Finance,Needs Improvement
+1.9,8,Science,Reading/Writing,Engineer,Finance,Low,Finance,Organized
+1.51,20,Business,Visual,Entrepreneur,Finance,Medium,Data Science,Last-Minute
+2.96,27,Math,Kinesthetic,Scientist,Finance,Low,Finance,Organized
+2.54,35,Math,Auditory,Doctor,Finance,Low,Medicine,Last-Minute
+2.85,31,Science,Visual,Entrepreneur,Arts,Low,Medicine,Last-Minute
+2.78,36,Math,Kinesthetic,Doctor,Education,Medium,Graphic Design,Irregular
+3.45,34,Business,Reading/Writing,Entrepreneur,Arts,Medium,Finance,Last-Minute
+1.17,10,History,Visual,Entrepreneur,Arts,High,Education,Last-Minute
+2.4,17,History,Auditory,Artist,Health,Low,Data Science,Last-Minute
+3.03,5,History,Reading/Writing,Entrepreneur,Education,Medium,Graphic Design,Organized
+2.91,11,History,Reading/Writing,Engineer,Education,Low,Data Science,Consistent
+3.71,13,Business,Kinesthetic,Engineer,Technology,Low,Data Science,Needs Improvement
+2.12,5,Business,Auditory,Scientist,Finance,Medium,Education,Organized
+3.11,26,History,Kinesthetic,Engineer,Finance,Low,Finance,Last-Minute
+2.82,36,Math,Visual,Engineer,Technology,Medium,Graphic Design,Needs Improvement
+3.76,12,Business,Reading/Writing,Entrepreneur,Arts,Medium,Education,Irregular
+2.09,33,Business,Kinesthetic,Entrepreneur,Technology,High,Graphic Design,Irregular
+3.85,12,Art,Reading/Writing,Doctor,Education,Low,Finance,Irregular
+2.33,40,Business,Kinesthetic,Entrepreneur,Health,High,Education,Irregular
+1.9,16,History,Reading/Writing,Entrepreneur,Arts,High,Medicine,Irregular
+2.14,35,Science,Reading/Writing,Scientist,Health,High,Graphic Design,Consistent
+1.76,14,Math,Auditory,Doctor,Health,High,Graphic Design,Last-Minute
+2.27,32,Science,Reading/Writing,Artist,Arts,High,Graphic Design,Consistent
+1.97,40,Business,Kinesthetic,Doctor,Arts,High,Data Science,Needs Improvement
+1.75,18,Science,Auditory,Scientist,Arts,Medium,Graphic Design,Last-Minute
+1.71,34,Math,Auditory,Engineer,Finance,High,Data Science,Last-Minute
+1.38,24,Math,Auditory,Artist,Education,High,Finance,Consistent
+1.43,26,Science,Reading/Writing,Scientist,Arts,Low,Education,Needs Improvement
+3.07,8,Business,Reading/Writing,Artist,Education,Low,Finance,Last-Minute
+2.24,36,History,Visual,Engineer,Education,Medium,Education,Last-Minute
+4.0,23,Math,Reading/Writing,Engineer,Health,High,Medicine,Needs Improvement
+1.12,5,Math,Reading/Writing,Artist,Education,Low,Finance,Needs Improvement
+3.41,16,Business,Visual,Scientist,Education,Low,Data Science,Last-Minute
+3.52,5,Art,Visual,Entrepreneur,Finance,Medium,Medicine,Needs Improvement
+3.53,30,History,Kinesthetic,Artist,Technology,High,Finance,Last-Minute
+2.23,23,Business,Reading/Writing,Engineer,Arts,Medium,Education,Organized
+1.09,35,Art,Auditory,Entrepreneur,Education,High,Education,Organized
+1.21,15,Business,Visual,Artist,Education,High,Graphic Design,Irregular
+3.3,12,Art,Visual,Scientist,Health,High,Finance,Organized
+1.0,20,History,Reading/Writing,Scientist,Arts,Medium,Finance,Organized
+3.78,37,History,Kinesthetic,Doctor,Finance,High,Graphic Design,Irregular
+1.83,8,Art,Auditory,Scientist,Arts,High,Education,Last-Minute
+2.08,40,Science,Kinesthetic,Artist,Education,Medium,Education,Organized
+2.3,38,Business,Kinesthetic,Artist,Health,Medium,Finance,Organized
+3.14,23,Math,Visual,Artist,Health,Low,Graphic Design,Irregular
+3.15,6,Art,Auditory,Scientist,Arts,Medium,Medicine,Organized
+3.76,29,Math,Reading/Writing,Engineer,Finance,Medium,Finance,Consistent
+3.43,11,Science,Visual,Doctor,Education,Medium,Graphic Design,Organized
+3.31,13,Science,Reading/Writing,Doctor,Health,Low,Data Science,Consistent
+1.69,22,Art,Auditory,Engineer,Education,Low,Graphic Design,Irregular
+1.5,8,History,Visual,Scientist,Arts,High,Education,Last-Minute
+2.68,36,Math,Reading/Writing,Entrepreneur,Health,Medium,Finance,Organized
+1.24,21,History,Auditory,Engineer,Arts,Medium,Medicine,Irregular
+3.7,12,History,Visual,Scientist,Health,High,Graphic Design,Last-Minute
+3.17,13,History,Kinesthetic,Doctor,Health,High,Data Science,Needs Improvement
+1.42,18,Math,Reading/Writing,Scientist,Health,Medium,Education,Last-Minute
+3.34,22,Science,Kinesthetic,Doctor,Finance,Medium,Finance,Last-Minute
+3.94,27,History,Kinesthetic,Entrepreneur,Finance,Medium,Medicine,Consistent
+2.55,9,History,Reading/Writing,Entrepreneur,Finance,Low,Graphic Design,Last-Minute
+3.97,22,History,Auditory,Artist,Arts,High,Data Science,Irregular
+3.31,33,Science,Reading/Writing,Doctor,Health,Medium,Graphic Design,Organized
+2.35,27,Art,Auditory,Engineer,Arts,High,Medicine,Needs Improvement
+3.78,22,History,Auditory,Engineer,Arts,Medium,Education,Irregular
+3.7,24,Business,Reading/Writing,Scientist,Health,Medium,Data Science,Irregular
+3.76,40,Science,Visual,Doctor,Education,Low,Finance,Irregular
+3.49,36,Science,Kinesthetic,Doctor,Finance,High,Graphic Design,Consistent
+2.24,11,History,Reading/Writing,Entrepreneur,Arts,High,Medicine,Irregular
+1.63,24,Math,Auditory,Entrepreneur,Arts,Low,Medicine,Consistent
+1.17,25,Science,Kinesthetic,Engineer,Technology,High,Data Science,Last-Minute
+3.63,25,Math,Reading/Writing,Entrepreneur,Technology,Low,Education,Last-Minute
+1.93,14,Business,Kinesthetic,Doctor,Technology,Low,Graphic Design,Irregular
+3.17,20,Business,Auditory,Engineer,Arts,Medium,Medicine,Irregular
+1.39,18,Science,Visual,Doctor,Finance,High,Medicine,Irregular
+2.28,14,Science,Reading/Writing,Artist,Arts,Medium,Education,Irregular
+2.0,25,History,Kinesthetic,Entrepreneur,Arts,High,Graphic Design,Last-Minute
+1.7,6,Science,Visual,Artist,Technology,High,Data Science,Last-Minute
+1.5,31,History,Reading/Writing,Doctor,Finance,Medium,Finance,Needs Improvement
+3.43,35,Math,Auditory,Artist,Education,Low,Data Science,Last-Minute
+1.43,31,Business,Reading/Writing,Doctor,Education,Low,Medicine,Organized
+4.0,29,Science,Kinesthetic,Artist,Arts,Low,Education,Irregular
+2.04,33,History,Reading/Writing,Scientist,Technology,Medium,Data Science,Organized
+1.41,27,Business,Auditory,Artist,Technology,Medium,Education,Irregular
+2.81,13,Math,Auditory,Engineer,Education,High,Finance,Organized
+3.45,19,Art,Auditory,Engineer,Technology,High,Medicine,Last-Minute
+3.27,6,Science,Reading/Writing,Scientist,Education,Low,Data Science,Needs Improvement
+3.31,32,Science,Kinesthetic,Doctor,Health,High,Graphic Design,Organized
+2.08,40,Art,Reading/Writing,Doctor,Arts,High,Finance,Organized
+3.2,31,Art,Reading/Writing,Entrepreneur,Finance,High,Finance,Needs Improvement
+1.89,18,Art,Reading/Writing,Scientist,Finance,Medium,Education,Irregular
+3.13,24,Business,Visual,Artist,Health,Low,Graphic Design,Needs Improvement
+2.99,8,Math,Visual,Entrepreneur,Education,Medium,Data Science,Organized
+3.15,19,Art,Visual,Engineer,Health,Medium,Graphic Design,Last-Minute
+2.17,5,Science,Visual,Doctor,Education,High,Medicine,Organized
+2.99,40,Math,Reading/Writing,Artist,Technology,Low,Finance,Consistent
+1.44,16,History,Reading/Writing,Entrepreneur,Arts,High,Medicine,Consistent
+1.18,30,Math,Reading/Writing,Entrepreneur,Technology,High,Finance,Needs Improvement
+1.36,25,Art,Auditory,Entrepreneur,Education,High,Data Science,Organized
+3.16,16,Art,Auditory,Entrepreneur,Health,Low,Data Science,Irregular
+3.98,38,Math,Visual,Doctor,Finance,Low,Finance,Organized
+2.59,25,Business,Kinesthetic,Artist,Arts,High,Graphic Design,Needs Improvement
+1.72,28,Math,Visual,Entrepreneur,Health,High,Education,Irregular
+1.55,38,Business,Reading/Writing,Engineer,Technology,Low,Medicine,Last-Minute
+2.15,38,Math,Kinesthetic,Entrepreneur,Technology,Medium,Graphic Design,Last-Minute
+3.82,21,Science,Reading/Writing,Artist,Arts,High,Data Science,Last-Minute
+1.03,19,Math,Auditory,Scientist,Education,High,Graphic Design,Consistent
+2.74,40,Business,Kinesthetic,Artist,Education,Medium,Graphic Design,Last-Minute
+3.21,28,Business,Kinesthetic,Engineer,Arts,High,Medicine,Needs Improvement
+2.58,17,Science,Auditory,Artist,Technology,Low,Finance,Irregular
+1.74,36,Science,Auditory,Entrepreneur,Arts,Medium,Data Science,Organized
+3.2,16,Math,Auditory,Doctor,Health,Low,Data Science,Last-Minute
+3.61,34,Business,Kinesthetic,Artist,Technology,Low,Medicine,Consistent
+3.04,23,History,Visual,Artist,Health,Medium,Medicine,Organized
+2.14,27,Science,Kinesthetic,Engineer,Health,Medium,Education,Organized
+2.14,9,Science,Auditory,Artist,Education,Medium,Graphic Design,Needs Improvement
+3.05,26,History,Reading/Writing,Artist,Finance,Medium,Education,Needs Improvement
+3.12,7,Business,Visual,Engineer,Education,High,Education,Irregular
+3.18,17,Science,Visual,Doctor,Education,Low,Graphic Design,Irregular
+1.23,6,Business,Kinesthetic,Entrepreneur,Technology,High,Education,Needs Improvement
+2.56,28,History,Reading/Writing,Artist,Health,High,Data Science,Needs Improvement
+3.67,14,Math,Kinesthetic,Entrepreneur,Health,Medium,Medicine,Organized
+1.24,20,Science,Kinesthetic,Scientist,Education,Medium,Medicine,Organized
+3.31,13,Business,Auditory,Engineer,Arts,Medium,Graphic Design,Last-Minute
+1.93,24,Science,Kinesthetic,Entrepreneur,Education,Medium,Finance,Irregular
+3.62,31,Business,Reading/Writing,Artist,Health,Medium,Medicine,Organized
+1.04,12,History,Kinesthetic,Scientist,Health,Medium,Data Science,Consistent
+3.79,35,Math,Visual,Engineer,Finance,High,Data Science,Irregular
+2.1,29,History,Kinesthetic,Scientist,Education,Medium,Education,Last-Minute
+2.08,34,History,Visual,Entrepreneur,Technology,High,Data Science,Organized
+3.21,23,Science,Auditory,Artist,Technology,Low,Graphic Design,Organized
+3.32,38,Business,Kinesthetic,Scientist,Health,Low,Graphic Design,Needs Improvement
+2.26,10,Science,Reading/Writing,Engineer,Technology,Low,Medicine,Last-Minute
+2.41,18,History,Reading/Writing,Artist,Technology,High,Finance,Last-Minute
+1.41,33,Art,Kinesthetic,Artist,Education,Low,Education,Organized
+3.94,21,History,Visual,Entrepreneur,Finance,Medium,Finance,Last-Minute
+2.44,25,Science,Kinesthetic,Scientist,Finance,High,Graphic Design,Organized
+1.02,17,History,Auditory,Entrepreneur,Arts,Medium,Education,Organized
+3.73,32,Business,Reading/Writing,Scientist,Health,Low,Medicine,Last-Minute
+1.21,40,Science,Auditory,Doctor,Finance,Medium,Education,Last-Minute
+2.07,37,Business,Reading/Writing,Artist,Health,Medium,Education,Consistent
+1.58,24,Business,Reading/Writing,Artist,Finance,Low,Education,Irregular
+2.53,29,Business,Kinesthetic,Engineer,Technology,Medium,Medicine,Irregular
+1.57,37,History,Reading/Writing,Doctor,Finance,Medium,Medicine,Needs Improvement
+3.41,18,Art,Visual,Artist,Finance,High,Graphic Design,Organized
+2.58,13,Business,Auditory,Entrepreneur,Arts,Medium,Education,Consistent
+3.65,21,Math,Reading/Writing,Artist,Health,Low,Graphic Design,Consistent
+3.55,22,Business,Kinesthetic,Artist,Education,Medium,Finance,Consistent
+2.53,40,Art,Visual,Doctor,Education,Low,Finance,Irregular
+3.94,29,Business,Kinesthetic,Artist,Finance,Medium,Education,Irregular
+3.43,19,Art,Reading/Writing,Engineer,Arts,Low,Finance,Needs Improvement
+3.81,40,History,Reading/Writing,Entrepreneur,Education,Medium,Medicine,Irregular
+1.11,6,Math,Kinesthetic,Scientist,Technology,High,Education,Consistent
+3.87,40,History,Kinesthetic,Entrepreneur,Arts,Medium,Finance,Organized
+1.25,8,Art,Auditory,Engineer,Arts,Low,Data Science,Organized
+2.65,35,Art,Reading/Writing,Scientist,Finance,High,Medicine,Last-Minute
+1.53,37,Art,Auditory,Entrepreneur,Health,Low,Medicine,Consistent
+2.16,9,Business,Auditory,Engineer,Arts,Low,Finance,Last-Minute
+2.9,12,Science,Kinesthetic,Doctor,Health,Low,Medicine,Consistent
+3.8,23,Business,Auditory,Artist,Technology,Low,Medicine,Needs Improvement
+1.72,25,Business,Visual,Scientist,Health,Medium,Finance,Needs Improvement
+2.37,8,Business,Kinesthetic,Doctor,Education,Medium,Finance,Consistent
+3.79,20,Math,Visual,Artist,Health,Medium,Medicine,Last-Minute
+2.39,40,Math,Reading/Writing,Doctor,Health,Low,Data Science,Consistent
+2.64,36,Art,Kinesthetic,Entrepreneur,Health,Medium,Medicine,Last-Minute
+1.94,37,Business,Auditory,Entrepreneur,Finance,Medium,Education,Last-Minute
+1.13,33,Math,Kinesthetic,Scientist,Finance,Low,Medicine,Irregular
+1.94,16,Art,Reading/Writing,Engineer,Technology,Medium,Education,Irregular
+1.23,8,History,Reading/Writing,Doctor,Finance,Low,Data Science,Irregular
+1.81,25,Math,Reading/Writing,Scientist,Technology,High,Data Science,Organized
+2.97,24,Art,Kinesthetic,Engineer,Finance,Low,Data Science,Irregular
+3.53,11,History,Reading/Writing,Scientist,Technology,Low,Graphic Design,Irregular
+1.46,13,Art,Auditory,Artist,Finance,Low,Medicine,Irregular
+1.08,38,Art,Kinesthetic,Artist,Health,Low,Finance,Last-Minute
+2.22,35,Business,Reading/Writing,Doctor,Technology,Medium,Medicine,Irregular
+2.71,29,History,Visual,Scientist,Finance,Medium,Data Science,Organized
+1.4,27,Business,Visual,Engineer,Education,High,Education,Irregular
+2.4,21,Math,Kinesthetic,Doctor,Technology,Low,Medicine,Needs Improvement
+2.66,32,History,Kinesthetic,Doctor,Technology,Low,Education,Consistent
+2.49,19,Art,Auditory,Doctor,Health,Medium,Medicine,Needs Improvement
+1.85,20,Math,Kinesthetic,Scientist,Finance,High,Education,Needs Improvement
+1.03,28,Math,Kinesthetic,Artist,Technology,Low,Graphic Design,Irregular
+3.98,14,Science,Reading/Writing,Scientist,Education,Medium,Education,Needs Improvement
+1.87,32,History,Kinesthetic,Scientist,Technology,Medium,Finance,Last-Minute
+1.68,12,History,Visual,Engineer,Education,Low,Medicine,Irregular
+1.97,16,Science,Visual,Scientist,Finance,Medium,Finance,Consistent
+2.91,5,Business,Reading/Writing,Engineer,Finance,High,Graphic Design,Consistent
+2.27,18,Science,Visual,Entrepreneur,Health,High,Finance,Needs Improvement
+2.7,6,Math,Auditory,Scientist,Education,High,Finance,Irregular
+1.28,34,History,Kinesthetic,Doctor,Arts,High,Medicine,Consistent
+2.83,25,Art,Auditory,Scientist,Health,High,Data Science,Last-Minute
+1.9,24,Math,Visual,Doctor,Education,Medium,Medicine,Needs Improvement
+1.04,28,Math,Reading/Writing,Scientist,Education,Low,Finance,Needs Improvement
+3.01,10,Art,Kinesthetic,Entrepreneur,Arts,Low,Graphic Design,Consistent
+3.9,16,Math,Reading/Writing,Entrepreneur,Health,High,Education,Consistent
+3.25,10,History,Visual,Scientist,Finance,High,Medicine,Last-Minute
+1.41,17,Math,Reading/Writing,Artist,Health,High,Data Science,Irregular
+2.36,34,History,Auditory,Entrepreneur,Finance,Medium,Finance,Consistent
+2.47,22,History,Reading/Writing,Scientist,Education,Low,Graphic Design,Consistent
+1.79,25,Math,Reading/Writing,Engineer,Education,High,Data Science,Needs Improvement
+3.89,29,History,Auditory,Entrepreneur,Arts,Low,Education,Last-Minute
+3.17,6,Math,Auditory,Artist,Finance,High,Data Science,Irregular
+3.31,7,Business,Kinesthetic,Artist,Finance,Low,Finance,Needs Improvement
+1.62,20,History,Visual,Doctor,Education,Medium,Medicine,Needs Improvement
+2.43,26,Business,Reading/Writing,Scientist,Technology,Medium,Finance,Consistent
+3.9,18,Art,Auditory,Artist,Technology,Medium,Medicine,Consistent
+2.78,11,Business,Reading/Writing,Scientist,Education,Medium,Data Science,Needs Improvement
+3.88,21,Business,Auditory,Engineer,Education,High,Education,Last-Minute
+2.89,25,Art,Auditory,Engineer,Health,High,Finance,Irregular
+3.04,20,Business,Auditory,Entrepreneur,Health,Medium,Education,Organized
+2.14,36,Art,Visual,Doctor,Education,Medium,Education,Irregular
+3.72,13,Art,Auditory,Artist,Arts,High,Finance,Consistent
+2.23,7,Art,Visual,Entrepreneur,Technology,High,Education,Consistent
+3.76,37,History,Auditory,Engineer,Health,Low,Finance,Consistent
+3.18,40,Business,Kinesthetic,Entrepreneur,Arts,Medium,Data Science,Consistent
+2.64,37,Science,Reading/Writing,Artist,Technology,Medium,Finance,Irregular
+1.29,18,Business,Reading/Writing,Engineer,Education,Low,Data Science,Organized
+3.0,21,Math,Visual,Scientist,Education,Low,Education,Organized
+2.45,23,Science,Reading/Writing,Doctor,Arts,Medium,Medicine,Irregular
+1.89,5,Math,Reading/Writing,Doctor,Health,Medium,Data Science,Needs Improvement
+3.59,16,Business,Reading/Writing,Artist,Education,High,Medicine,Last-Minute
+2.09,33,Math,Auditory,Entrepreneur,Education,Low,Data Science,Needs Improvement
+3.35,13,Math,Reading/Writing,Scientist,Technology,Low,Education,Consistent
+3.7,39,History,Visual,Entrepreneur,Health,Medium,Finance,Last-Minute
+2.48,21,Science,Kinesthetic,Artist,Technology,High,Education,Irregular
+3.89,30,Math,Kinesthetic,Entrepreneur,Health,High,Graphic Design,Needs Improvement
+1.21,18,History,Kinesthetic,Scientist,Education,High,Finance,Consistent
+1.85,34,History,Auditory,Artist,Education,Low,Medicine,Consistent
+1.34,33,Math,Kinesthetic,Scientist,Finance,Low,Finance,Consistent
+2.29,14,Business,Kinesthetic,Scientist,Technology,Low,Medicine,Last-Minute
+1.19,19,History,Kinesthetic,Artist,Health,Low,Data Science,Irregular
+1.85,36,Art,Visual,Doctor,Technology,Medium,Data Science,Consistent
+2.34,23,Business,Kinesthetic,Engineer,Technology,Medium,Education,Organized
+3.86,26,Science,Reading/Writing,Doctor,Health,Low,Data Science,Consistent
+2.61,5,Math,Kinesthetic,Scientist,Finance,Medium,Data Science,Irregular
+3.32,22,Art,Visual,Artist,Finance,Low,Data Science,Organized
+3.05,5,Math,Visual,Engineer,Education,Medium,Education,Irregular
+1.48,9,Art,Reading/Writing,Artist,Health,Medium,Medicine,Consistent
+2.75,23,History,Reading/Writing,Doctor,Health,High,Graphic Design,Organized
+3.26,37,History,Visual,Entrepreneur,Technology,Medium,Medicine,Last-Minute
+2.09,35,History,Kinesthetic,Doctor,Technology,Medium,Finance,Organized
+1.43,29,History,Reading/Writing,Entrepreneur,Education,High,Finance,Needs Improvement
+3.46,15,Science,Visual,Engineer,Arts,High,Finance,Organized
+2.19,29,History,Kinesthetic,Engineer,Health,Medium,Data Science,Irregular
+1.17,36,Business,Visual,Entrepreneur,Finance,Low,Medicine,Consistent
+1.71,32,Science,Auditory,Entrepreneur,Finance,Low,Finance,Needs Improvement
+3.58,33,History,Auditory,Engineer,Health,High,Graphic Design,Needs Improvement
+1.72,32,Science,Reading/Writing,Engineer,Education,High,Medicine,Consistent
+2.51,34,Science,Auditory,Entrepreneur,Education,High,Education,Irregular
+1.92,12,Art,Visual,Scientist,Health,Low,Education,Consistent
+3.82,32,Business,Auditory,Entrepreneur,Education,Medium,Finance,Consistent
+2.58,38,Math,Auditory,Engineer,Finance,Medium,Graphic Design,Organized
+3.67,39,Science,Kinesthetic,Scientist,Finance,Low,Medicine,Needs Improvement
+3.25,18,Art,Auditory,Doctor,Finance,Medium,Graphic Design,Consistent
+1.2,30,Math,Kinesthetic,Doctor,Finance,High,Finance,Last-Minute
+1.53,38,Business,Kinesthetic,Entrepreneur,Technology,Medium,Education,Needs Improvement
+1.48,28,History,Visual,Entrepreneur,Technology,Low,Finance,Organized
+1.33,22,Business,Visual,Artist,Health,High,Data Science,Irregular
+1.0,37,History,Kinesthetic,Scientist,Arts,Medium,Data Science,Organized
+1.73,40,Business,Visual,Scientist,Education,High,Finance,Last-Minute
+2.81,7,Art,Visual,Scientist,Finance,High,Data Science,Organized
+2.07,40,Business,Reading/Writing,Artist,Arts,High,Graphic Design,Last-Minute
+3.64,34,Business,Reading/Writing,Doctor,Arts,Medium,Data Science,Organized
+3.45,38,Business,Kinesthetic,Doctor,Arts,Low,Graphic Design,Organized
+2.12,35,Business,Auditory,Scientist,Finance,Medium,Graphic Design,Needs Improvement
+3.0,6,Art,Visual,Scientist,Finance,Medium,Finance,Last-Minute
+2.89,23,Art,Visual,Entrepreneur,Finance,High,Data Science,Last-Minute
+1.39,30,Math,Kinesthetic,Scientist,Health,High,Education,Consistent
+2.18,39,Math,Auditory,Artist,Health,Low,Medicine,Last-Minute
+2.21,9,Science,Visual,Entrepreneur,Education,Low,Education,Last-Minute
+3.94,7,Business,Visual,Artist,Arts,Low,Education,Last-Minute
+2.63,19,Math,Visual,Artist,Education,Medium,Data Science,Last-Minute
+2.72,25,Art,Kinesthetic,Scientist,Arts,High,Education,Consistent
+2.32,28,Art,Reading/Writing,Doctor,Arts,High,Graphic Design,Needs Improvement
+3.25,40,Business,Auditory,Doctor,Education,Medium,Finance,Needs Improvement
+2.27,19,Art,Reading/Writing,Entrepreneur,Arts,High,Graphic Design,Consistent
+3.93,11,Business,Kinesthetic,Artist,Arts,Low,Education,Consistent
+1.95,11,Business,Reading/Writing,Engineer,Technology,Medium,Data Science,Organized
+3.23,14,Business,Auditory,Engineer,Education,Low,Education,Last-Minute
+3.94,20,History,Auditory,Engineer,Education,Medium,Data Science,Last-Minute
+3.29,11,Science,Auditory,Artist,Finance,High,Medicine,Organized
+3.12,23,Math,Auditory,Artist,Education,High,Medicine,Needs Improvement
+3.96,13,Science,Kinesthetic,Doctor,Education,Low,Finance,Last-Minute
+3.6,28,Math,Reading/Writing,Artist,Health,Low,Finance,Last-Minute
+3.25,17,History,Kinesthetic,Scientist,Education,Medium,Medicine,Irregular
+1.96,11,History,Auditory,Doctor,Arts,Low,Finance,Needs Improvement
+2.78,6,Business,Kinesthetic,Doctor,Finance,High,Education,Irregular
+2.06,37,History,Visual,Entrepreneur,Health,High,Education,Consistent
+3.6,22,Art,Reading/Writing,Engineer,Arts,Medium,Graphic Design,Irregular
+3.83,36,History,Reading/Writing,Doctor,Technology,High,Medicine,Irregular
+1.96,29,History,Kinesthetic,Doctor,Education,High,Graphic Design,Needs Improvement
+3.17,34,History,Visual,Engineer,Education,High,Data Science,Needs Improvement
+2.35,19,History,Auditory,Scientist,Health,High,Education,Needs Improvement
+2.56,10,History,Visual,Engineer,Education,High,Medicine,Consistent
+2.0,27,Art,Kinesthetic,Entrepreneur,Arts,Low,Education,Irregular
+3.2,32,History,Auditory,Artist,Arts,High,Data Science,Consistent
+2.01,38,History,Kinesthetic,Entrepreneur,Arts,Medium,Medicine,Consistent
+2.84,12,Art,Reading/Writing,Doctor,Education,High,Data Science,Irregular
+1.92,33,Science,Auditory,Scientist,Technology,High,Medicine,Last-Minute
+3.21,8,Math,Kinesthetic,Entrepreneur,Finance,Medium,Education,Organized
+3.81,40,History,Auditory,Entrepreneur,Arts,Low,Finance,Last-Minute
+2.89,12,Art,Reading/Writing,Artist,Education,Low,Finance,Last-Minute
+2.77,22,Business,Visual,Scientist,Health,Medium,Graphic Design,Organized
+3.7,11,Business,Auditory,Artist,Finance,Low,Finance,Needs Improvement
+2.87,24,Business,Visual,Engineer,Health,High,Finance,Irregular
+1.48,13,Math,Auditory,Doctor,Finance,High,Finance,Last-Minute
+2.49,27,Math,Auditory,Scientist,Health,Low,Finance,Last-Minute
+2.89,12,History,Kinesthetic,Scientist,Health,Low,Education,Consistent
+2.53,5,History,Auditory,Scientist,Finance,High,Graphic Design,Consistent
+2.05,31,Math,Reading/Writing,Artist,Education,Low,Medicine,Needs Improvement
+1.37,13,Math,Reading/Writing,Doctor,Technology,Medium,Medicine,Needs Improvement
+2.44,28,Art,Kinesthetic,Scientist,Health,Medium,Data Science,Organized
+3.23,13,Business,Visual,Artist,Arts,High,Medicine,Last-Minute
+2.01,25,Business,Auditory,Scientist,Technology,Medium,Finance,Last-Minute
+2.41,6,History,Auditory,Scientist,Arts,Low,Data Science,Needs Improvement
+3.67,27,Business,Visual,Doctor,Education,Low,Graphic Design,Organized
+3.61,30,Science,Kinesthetic,Entrepreneur,Technology,Low,Graphic Design,Organized
+1.78,27,Art,Kinesthetic,Doctor,Technology,Medium,Data Science,Consistent
+1.72,13,Business,Auditory,Entrepreneur,Education,Low,Finance,Needs Improvement
+3.81,16,Business,Auditory,Artist,Health,Medium,Graphic Design,Last-Minute
+3.3,22,Math,Kinesthetic,Entrepreneur,Education,Low,Graphic Design,Irregular
+1.95,31,Art,Reading/Writing,Doctor,Health,Low,Finance,Last-Minute
+2.55,28,Business,Reading/Writing,Artist,Technology,Low,Finance,Consistent
+1.33,22,Science,Auditory,Scientist,Technology,Medium,Medicine,Needs Improvement
+3.71,6,Math,Kinesthetic,Artist,Finance,Medium,Data Science,Needs Improvement
+2.01,8,Business,Auditory,Scientist,Education,High,Graphic Design,Irregular
+2.77,32,Art,Visual,Engineer,Technology,Medium,Graphic Design,Last-Minute
+3.44,18,Math,Auditory,Artist,Arts,High,Graphic Design,Organized
+3.97,7,Art,Kinesthetic,Doctor,Health,Medium,Graphic Design,Irregular
+1.2,37,Art,Reading/Writing,Entrepreneur,Education,Medium,Education,Needs Improvement
+1.34,25,History,Kinesthetic,Artist,Finance,Medium,Data Science,Needs Improvement
+1.65,30,Science,Kinesthetic,Scientist,Technology,High,Education,Irregular
+1.43,21,Science,Kinesthetic,Engineer,Education,Medium,Finance,Needs Improvement
+2.19,23,Math,Visual,Doctor,Education,Medium,Graphic Design,Consistent
+1.43,38,Business,Auditory,Doctor,Arts,Medium,Medicine,Consistent
+3.69,12,Science,Auditory,Engineer,Technology,Low,Medicine,Needs Improvement
+1.1,28,Math,Auditory,Artist,Health,High,Graphic Design,Organized
+3.91,22,History,Auditory,Engineer,Finance,Low,Graphic Design,Last-Minute
+1.65,28,Science,Kinesthetic,Artist,Education,Medium,Graphic Design,Last-Minute
+2.25,9,Math,Kinesthetic,Doctor,Finance,High,Medicine,Consistent
+2.03,40,Science,Reading/Writing,Entrepreneur,Finance,Low,Data Science,Last-Minute
+3.87,32,Math,Auditory,Doctor,Health,High,Medicine,Irregular
+3.03,11,Business,Auditory,Entrepreneur,Technology,High,Medicine,Last-Minute
+2.72,10,Math,Reading/Writing,Doctor,Technology,High,Medicine,Consistent
+1.78,11,History,Auditory,Scientist,Finance,Low,Medicine,Last-Minute
+3.26,14,Art,Kinesthetic,Entrepreneur,Education,High,Graphic Design,Irregular
+2.6,17,Art,Kinesthetic,Engineer,Arts,High,Medicine,Consistent
+3.52,38,Business,Visual,Entrepreneur,Arts,High,Graphic Design,Consistent
+3.21,17,History,Visual,Artist,Technology,Low,Graphic Design,Consistent
+2.9,40,Business,Visual,Engineer,Arts,Medium,Graphic Design,Consistent
+1.72,15,Art,Kinesthetic,Doctor,Technology,Low,Education,Needs Improvement
+3.28,22,Science,Kinesthetic,Artist,Education,Low,Finance,Consistent
+3.66,19,Science,Visual,Entrepreneur,Education,Medium,Graphic Design,Needs Improvement
+3.96,26,Math,Auditory,Doctor,Health,Low,Finance,Consistent
+2.36,14,Art,Auditory,Doctor,Education,Medium,Graphic Design,Needs Improvement
+2.32,32,Business,Reading/Writing,Scientist,Technology,High,Medicine,Last-Minute
+1.76,25,Art,Visual,Artist,Finance,Low,Finance,Needs Improvement
+3.66,28,Art,Kinesthetic,Doctor,Technology,High,Finance,Consistent
+2.57,21,History,Visual,Entrepreneur,Education,High,Medicine,Consistent
+1.81,7,History,Auditory,Engineer,Arts,Medium,Medicine,Needs Improvement
+2.45,7,Math,Reading/Writing,Doctor,Finance,High,Education,Last-Minute
+3.51,32,Math,Reading/Writing,Engineer,Finance,High,Education,Consistent
+2.01,16,Art,Visual,Engineer,Arts,Medium,Education,Needs Improvement
+2.01,36,Business,Auditory,Engineer,Arts,Low,Graphic Design,Consistent
+1.61,34,Art,Reading/Writing,Engineer,Technology,Low,Graphic Design,Consistent
+1.76,8,Math,Reading/Writing,Doctor,Finance,Low,Education,Consistent
+2.95,29,Business,Auditory,Doctor,Health,Low,Finance,Consistent
+3.86,38,Business,Reading/Writing,Scientist,Technology,Low,Medicine,Consistent
+2.65,11,Math,Auditory,Artist,Health,Medium,Finance,Consistent
+3.11,24,Business,Visual,Artist,Arts,Medium,Graphic Design,Consistent
+3.14,12,Math,Kinesthetic,Artist,Finance,Medium,Medicine,Organized
+1.13,10,Art,Visual,Doctor,Technology,Medium,Data Science,Needs Improvement
+2.65,21,Science,Reading/Writing,Artist,Health,Low,Finance,Organized
+2.54,27,History,Auditory,Doctor,Health,High,Finance,Irregular
+1.27,11,Math,Reading/Writing,Entrepreneur,Education,Low,Data Science,Last-Minute
+1.77,12,Business,Auditory,Scientist,Arts,High,Data Science,Last-Minute
+3.97,37,Math,Kinesthetic,Scientist,Health,Medium,Data Science,Irregular
+1.98,13,Science,Auditory,Artist,Finance,Medium,Medicine,Last-Minute
+2.2,20,Business,Visual,Entrepreneur,Finance,Medium,Finance,Consistent
+3.7,33,Science,Kinesthetic,Doctor,Finance,Medium,Data Science,Last-Minute
+1.24,9,Art,Reading/Writing,Doctor,Technology,High,Finance,Irregular
+1.59,37,Art,Kinesthetic,Artist,Arts,Low,Education,Needs Improvement
+1.08,27,Science,Kinesthetic,Scientist,Technology,Low,Education,Needs Improvement
+3.15,6,Business,Reading/Writing,Entrepreneur,Arts,Medium,Education,Irregular
+1.16,35,Science,Kinesthetic,Doctor,Technology,Medium,Medicine,Last-Minute
+3.12,36,Math,Kinesthetic,Entrepreneur,Education,Low,Education,Consistent
+3.93,14,Math,Reading/Writing,Doctor,Finance,High,Finance,Consistent
+3.23,20,Science,Kinesthetic,Artist,Technology,High,Graphic Design,Consistent
+2.42,9,Art,Reading/Writing,Scientist,Health,High,Medicine,Irregular
+1.06,25,Science,Kinesthetic,Engineer,Technology,Low,Graphic Design,Needs Improvement
+2.08,8,Business,Kinesthetic,Engineer,Education,Low,Graphic Design,Consistent
+3.79,29,Business,Kinesthetic,Entrepreneur,Education,Medium,Graphic Design,Last-Minute
+2.93,24,Art,Kinesthetic,Scientist,Technology,High,Finance,Consistent
+2.82,23,Science,Visual,Doctor,Arts,Low,Data Science,Organized
+1.17,16,Business,Kinesthetic,Scientist,Finance,Low,Education,Organized
+1.57,24,History,Reading/Writing,Artist,Finance,High,Medicine,Needs Improvement
+1.38,10,Science,Auditory,Doctor,Education,Low,Data Science,Irregular
+3.29,40,History,Reading/Writing,Engineer,Finance,Medium,Data Science,Organized
+1.48,16,Science,Auditory,Entrepreneur,Arts,Low,Graphic Design,Last-Minute
+1.46,31,Business,Reading/Writing,Doctor,Finance,High,Medicine,Consistent
+1.52,14,Art,Reading/Writing,Scientist,Health,High,Education,Irregular
+3.95,12,Science,Reading/Writing,Artist,Health,High,Education,Consistent
+2.92,6,Business,Kinesthetic,Doctor,Technology,High,Finance,Irregular
+3.06,11,Science,Visual,Scientist,Arts,High,Medicine,Irregular
+2.81,9,Science,Visual,Doctor,Arts,Low,Graphic Design,Organized
+3.82,28,Math,Visual,Entrepreneur,Health,High,Data Science,Last-Minute
+2.59,13,Science,Visual,Artist,Education,Low,Data Science,Last-Minute
+1.95,36,History,Visual,Doctor,Education,High,Graphic Design,Organized
+1.14,27,Art,Auditory,Artist,Education,High,Medicine,Organized
+3.33,39,Science,Reading/Writing,Entrepreneur,Arts,Low,Graphic Design,Last-Minute
+1.6,30,Science,Kinesthetic,Artist,Health,Medium,Data Science,Last-Minute
+1.52,37,Art,Visual,Artist,Technology,Low,Education,Needs Improvement
+2.22,37,History,Auditory,Doctor,Education,High,Finance,Organized
+1.84,26,Art,Auditory,Doctor,Health,Medium,Data Science,Last-Minute
+2.67,5,Science,Auditory,Doctor,Education,Low,Medicine,Last-Minute
+1.22,14,History,Kinesthetic,Entrepreneur,Education,High,Finance,Organized
+3.8,23,Business,Kinesthetic,Entrepreneur,Health,Medium,Medicine,Irregular
+1.08,15,Science,Auditory,Scientist,Education,High,Finance,Last-Minute
+1.73,38,Art,Auditory,Artist,Finance,Medium,Finance,Last-Minute
+3.24,13,History,Reading/Writing,Engineer,Finance,Low,Data Science,Consistent
+2.67,40,Business,Visual,Artist,Arts,Medium,Graphic Design,Consistent
+2.84,6,Business,Auditory,Doctor,Finance,High,Medicine,Consistent
+2.7,10,Art,Auditory,Scientist,Technology,Low,Data Science,Organized
+1.91,39,Science,Reading/Writing,Artist,Technology,Low,Data Science,Organized
+3.05,38,Science,Visual,Doctor,Technology,High,Data Science,Needs Improvement
+2.61,21,Math,Auditory,Doctor,Arts,Low,Finance,Irregular
+3.63,22,Art,Visual,Artist,Health,High,Data Science,Last-Minute
+2.59,26,Math,Auditory,Artist,Arts,High,Data Science,Needs Improvement
+3.63,8,Math,Kinesthetic,Engineer,Technology,Medium,Data Science,Last-Minute
+2.22,35,Business,Visual,Scientist,Arts,Medium,Education,Last-Minute
+3.79,35,Science,Reading/Writing,Doctor,Arts,High,Data Science,Last-Minute
+1.42,9,History,Kinesthetic,Artist,Health,Low,Graphic Design,Consistent
+3.64,19,Math,Auditory,Entrepreneur,Technology,Low,Data Science,Irregular
+1.48,12,Art,Reading/Writing,Artist,Technology,Low,Medicine,Needs Improvement
+1.8,24,Art,Reading/Writing,Doctor,Finance,Medium,Data Science,Irregular
+2.92,36,History,Visual,Artist,Education,Medium,Graphic Design,Last-Minute
+1.54,17,History,Reading/Writing,Doctor,Finance,Medium,Medicine,Consistent
+2.63,35,Business,Reading/Writing,Scientist,Health,Low,Graphic Design,Consistent
+1.48,19,Science,Visual,Artist,Health,Low,Medicine,Organized
+3.03,36,Science,Visual,Doctor,Education,Low,Data Science,Needs Improvement
+3.98,14,Business,Auditory,Entrepreneur,Finance,Low,Data Science,Needs Improvement
+1.7,22,Math,Kinesthetic,Doctor,Arts,Medium,Medicine,Needs Improvement
+3.36,25,Business,Reading/Writing,Doctor,Health,Low,Education,Last-Minute
+2.81,5,Business,Kinesthetic,Artist,Health,Low,Data Science,Consistent
+2.99,10,History,Auditory,Engineer,Technology,Low,Education,Organized
+2.42,20,Math,Auditory,Engineer,Health,Medium,Education,Consistent
+1.0,33,History,Reading/Writing,Doctor,Education,High,Data Science,Last-Minute
+2.68,37,Art,Visual,Entrepreneur,Technology,High,Graphic Design,Irregular
+1.38,9,Business,Reading/Writing,Artist,Health,High,Education,Last-Minute
+1.55,12,Business,Auditory,Doctor,Health,Medium,Finance,Organized
+2.84,37,Science,Reading/Writing,Doctor,Education,Medium,Medicine,Consistent
+3.34,30,History,Reading/Writing,Doctor,Technology,Low,Graphic Design,Organized
+2.49,34,Art,Reading/Writing,Scientist,Finance,High,Finance,Organized
+2.87,16,Math,Visual,Artist,Health,Low,Education,Organized
+2.78,37,Art,Visual,Doctor,Arts,Medium,Finance,Organized
+1.33,5,Art,Reading/Writing,Doctor,Education,Low,Education,Consistent
+2.28,8,History,Visual,Scientist,Finance,Low,Graphic Design,Irregular
+1.42,25,Art,Auditory,Scientist,Health,Medium,Education,Irregular
+2.41,25,Art,Kinesthetic,Doctor,Technology,Medium,Education,Last-Minute
+1.09,8,Science,Auditory,Artist,Finance,High,Graphic Design,Consistent
+2.68,13,Art,Kinesthetic,Entrepreneur,Finance,High,Graphic Design,Consistent
+2.35,17,Math,Reading/Writing,Engineer,Arts,Medium,Graphic Design,Needs Improvement
+2.18,30,Art,Auditory,Scientist,Arts,High,Education,Last-Minute
+3.54,36,Science,Kinesthetic,Doctor,Arts,Medium,Data Science,Needs Improvement
+1.59,11,Business,Reading/Writing,Artist,Education,High,Finance,Last-Minute
+2.21,20,Science,Auditory,Doctor,Technology,Low,Education,Needs Improvement
+1.37,35,History,Reading/Writing,Entrepreneur,Finance,High,Education,Irregular
+3.42,33,Math,Auditory,Entrepreneur,Finance,High,Finance,Needs Improvement
+1.22,16,Science,Visual,Entrepreneur,Education,High,Graphic Design,Consistent
+2.52,36,History,Auditory,Entrepreneur,Health,Low,Education,Last-Minute
+2.84,19,Business,Kinesthetic,Doctor,Health,Low,Graphic Design,Last-Minute
+2.49,29,Math,Auditory,Doctor,Arts,Medium,Data Science,Last-Minute
+3.44,9,Math,Reading/Writing,Engineer,Technology,High,Graphic Design,Consistent
+2.83,36,Science,Auditory,Scientist,Arts,High,Education,Irregular
+1.37,23,Business,Visual,Entrepreneur,Technology,Low,Medicine,Consistent
+1.38,11,Business,Auditory,Entrepreneur,Education,High,Finance,Needs Improvement
+2.29,31,History,Reading/Writing,Entrepreneur,Technology,Low,Finance,Organized
+3.21,5,History,Visual,Scientist,Education,Low,Finance,Needs Improvement
+3.26,11,Art,Reading/Writing,Entrepreneur,Finance,Low,Data Science,Last-Minute
+1.73,14,Math,Reading/Writing,Engineer,Technology,High,Education,Irregular
+1.94,23,Science,Reading/Writing,Artist,Arts,Medium,Medicine,Consistent
+3.49,29,History,Kinesthetic,Entrepreneur,Education,Low,Finance,Irregular
+3.89,23,History,Auditory,Artist,Education,Low,Finance,Last-Minute
+3.4,32,Math,Kinesthetic,Engineer,Technology,High,Graphic Design,Needs Improvement
+3.28,28,History,Visual,Engineer,Technology,High,Graphic Design,Organized
+2.64,27,History,Visual,Doctor,Finance,High,Graphic Design,Last-Minute
+3.18,18,Math,Auditory,Doctor,Finance,Low,Education,Irregular
+3.26,19,History,Kinesthetic,Scientist,Finance,High,Finance,Irregular
+3.1,33,Business,Auditory,Scientist,Finance,Medium,Graphic Design,Consistent
+2.92,38,Science,Auditory,Entrepreneur,Technology,Medium,Education,Irregular
+3.87,26,Art,Auditory,Scientist,Technology,Low,Data Science,Last-Minute
+1.08,5,Art,Visual,Artist,Health,High,Finance,Needs Improvement
+2.4,14,Business,Kinesthetic,Artist,Health,Medium,Finance,Last-Minute
+2.06,16,Science,Kinesthetic,Doctor,Health,Medium,Finance,Organized
+2.35,7,Art,Visual,Artist,Finance,Low,Graphic Design,Organized
+1.32,23,Math,Auditory,Artist,Education,High,Data Science,Irregular
+2.4,16,Science,Kinesthetic,Scientist,Technology,Medium,Graphic Design,Needs Improvement
+3.1,15,Art,Visual,Entrepreneur,Health,Low,Medicine,Organized
+2.69,21,Art,Reading/Writing,Artist,Arts,Medium,Medicine,Irregular
+3.92,34,History,Reading/Writing,Scientist,Finance,Medium,Education,Organized
+3.62,33,Business,Reading/Writing,Doctor,Education,Medium,Education,Consistent
+2.4,16,Art,Reading/Writing,Scientist,Finance,Medium,Finance,Irregular
+2.35,10,History,Kinesthetic,Engineer,Health,Low,Data Science,Organized
+3.08,13,Science,Auditory,Scientist,Finance,High,Education,Needs Improvement
+2.91,25,Math,Auditory,Engineer,Education,High,Finance,Irregular
+3.54,35,Art,Kinesthetic,Scientist,Arts,High,Data Science,Irregular
+3.46,13,Math,Visual,Engineer,Arts,Low,Data Science,Organized
+3.2,36,History,Auditory,Doctor,Health,High,Finance,Organized
+3.18,19,Math,Reading/Writing,Artist,Education,Low,Finance,Consistent
+3.09,30,Science,Visual,Entrepreneur,Health,High,Data Science,Last-Minute
+3.9,16,Science,Kinesthetic,Doctor,Education,High,Data Science,Irregular
+3.36,8,Science,Reading/Writing,Artist,Technology,High,Education,Irregular
+2.42,6,Art,Reading/Writing,Artist,Finance,Medium,Medicine,Organized
+2.37,9,Math,Reading/Writing,Entrepreneur,Arts,Low,Data Science,Last-Minute
+3.54,25,Art,Visual,Engineer,Health,Low,Education,Last-Minute
+3.05,35,Business,Visual,Artist,Technology,High,Graphic Design,Last-Minute
+2.77,29,Science,Reading/Writing,Entrepreneur,Technology,Low,Graphic Design,Irregular
+3.41,8,History,Kinesthetic,Artist,Health,Low,Medicine,Needs Improvement
+1.06,9,Science,Kinesthetic,Doctor,Education,Low,Education,Consistent
+2.93,26,Science,Auditory,Entrepreneur,Finance,Low,Graphic Design,Last-Minute
+3.95,30,History,Reading/Writing,Artist,Finance,Low,Graphic Design,Needs Improvement
+2.95,26,History,Auditory,Engineer,Education,High,Data Science,Last-Minute
+2.48,11,Business,Reading/Writing,Doctor,Education,Low,Finance,Irregular
+1.73,36,Math,Visual,Doctor,Education,Low,Finance,Last-Minute
+1.17,9,Business,Kinesthetic,Engineer,Finance,Medium,Medicine,Consistent
+1.18,14,Science,Reading/Writing,Scientist,Education,Low,Finance,Needs Improvement
+2.85,33,Math,Kinesthetic,Engineer,Technology,High,Graphic Design,Irregular
+4.0,14,History,Kinesthetic,Scientist,Health,High,Education,Needs Improvement
+2.51,32,Math,Kinesthetic,Scientist,Technology,Medium,Graphic Design,Consistent
+3.38,13,Business,Auditory,Scientist,Health,High,Data Science,Last-Minute
+1.15,38,History,Kinesthetic,Doctor,Finance,Low,Graphic Design,Consistent
+1.01,36,Science,Reading/Writing,Engineer,Arts,Low,Data Science,Consistent
+2.9,13,Science,Kinesthetic,Artist,Health,Low,Graphic Design,Consistent
+3.69,19,Art,Auditory,Scientist,Education,Medium,Medicine,Irregular
+1.75,19,Business,Reading/Writing,Entrepreneur,Technology,Medium,Data Science,Needs Improvement
+3.52,37,History,Reading/Writing,Artist,Arts,High,Medicine,Consistent
+1.95,24,Business,Reading/Writing,Artist,Arts,Medium,Graphic Design,Needs Improvement
+3.17,9,Math,Reading/Writing,Doctor,Finance,High,Medicine,Irregular
+3.41,12,History,Visual,Scientist,Education,High,Data Science,Needs Improvement
+3.24,24,History,Auditory,Doctor,Arts,Low,Education,Irregular
+2.99,13,Art,Auditory,Artist,Technology,Medium,Medicine,Last-Minute
+1.49,12,History,Kinesthetic,Doctor,Finance,Medium,Data Science,Needs Improvement
+3.7,16,History,Visual,Doctor,Finance,Low,Finance,Organized
+1.55,22,Science,Kinesthetic,Scientist,Arts,Medium,Graphic Design,Needs Improvement
+1.25,12,Art,Auditory,Scientist,Technology,Medium,Medicine,Organized
+1.01,9,Math,Auditory,Engineer,Arts,High,Medicine,Irregular
+2.94,27,Science,Visual,Artist,Arts,Low,Data Science,Organized
+1.64,40,Business,Kinesthetic,Artist,Arts,High,Graphic Design,Last-Minute
+2.23,6,Art,Reading/Writing,Artist,Arts,High,Graphic Design,Last-Minute
+2.0,29,Art,Kinesthetic,Artist,Health,Medium,Graphic Design,Irregular
+3.73,7,Art,Kinesthetic,Scientist,Arts,Medium,Medicine,Irregular
+2.39,27,Business,Auditory,Artist,Arts,Medium,Graphic Design,Consistent
+2.56,22,Science,Visual,Entrepreneur,Finance,Medium,Graphic Design,Irregular
+2.42,11,Math,Kinesthetic,Scientist,Education,High,Data Science,Consistent
+3.09,38,Business,Visual,Doctor,Finance,High,Finance,Organized
+2.44,17,Math,Visual,Doctor,Education,Medium,Data Science,Irregular
+1.35,28,Art,Reading/Writing,Engineer,Finance,Medium,Education,Last-Minute
+3.16,18,Business,Visual,Scientist,Finance,High,Graphic Design,Irregular
+3.98,24,Math,Auditory,Entrepreneur,Technology,Medium,Data Science,Needs Improvement
+1.87,24,Math,Visual,Artist,Technology,Medium,Education,Organized
+1.67,8,Business,Kinesthetic,Scientist,Arts,Medium,Medicine,Last-Minute
+2.56,38,Business,Reading/Writing,Artist,Education,Low,Education,Needs Improvement
+1.59,18,Science,Auditory,Artist,Health,High,Finance,Last-Minute
+2.47,26,Math,Reading/Writing,Entrepreneur,Arts,High,Education,Irregular
+3.62,20,Math,Visual,Scientist,Arts,High,Finance,Irregular
+3.6,24,Science,Kinesthetic,Scientist,Technology,High,Medicine,Irregular
+2.38,22,History,Visual,Scientist,Health,Medium,Education,Consistent
+2.21,36,Art,Visual,Artist,Arts,High,Graphic Design,Organized
+1.32,13,History,Visual,Entrepreneur,Health,High,Medicine,Irregular
+2.1,25,Math,Auditory,Artist,Technology,Low,Medicine,Last-Minute
+2.94,11,Business,Auditory,Doctor,Arts,Low,Finance,Consistent
+1.33,29,History,Reading/Writing,Entrepreneur,Arts,Low,Finance,Last-Minute
+2.57,11,Science,Kinesthetic,Engineer,Education,Medium,Medicine,Consistent
+2.65,39,Business,Kinesthetic,Scientist,Health,High,Data Science,Organized
+3.04,10,Science,Reading/Writing,Scientist,Finance,Low,Finance,Organized
+1.94,10,Science,Reading/Writing,Scientist,Arts,Medium,Finance,Irregular
+2.97,20,Math,Reading/Writing,Entrepreneur,Finance,Medium,Graphic Design,Last-Minute
+3.0,40,Art,Kinesthetic,Doctor,Arts,Medium,Data Science,Last-Minute
+3.34,31,Math,Reading/Writing,Artist,Technology,Medium,Medicine,Last-Minute
+2.86,15,Art,Reading/Writing,Engineer,Health,High,Data Science,Needs Improvement
+1.98,24,Math,Kinesthetic,Engineer,Technology,High,Finance,Consistent
+2.5,17,Art,Kinesthetic,Artist,Finance,High,Finance,Needs Improvement
+1.25,19,Art,Visual,Doctor,Technology,Medium,Data Science,Needs Improvement
+2.81,5,History,Reading/Writing,Scientist,Finance,Low,Data Science,Organized
+3.42,25,Math,Reading/Writing,Artist,Technology,Medium,Education,Last-Minute
+2.99,26,Art,Auditory,Scientist,Arts,High,Graphic Design,Last-Minute
+2.98,37,Business,Reading/Writing,Doctor,Finance,Medium,Medicine,Needs Improvement
+1.87,17,Business,Visual,Doctor,Arts,Medium,Finance,Irregular
+1.77,34,Math,Kinesthetic,Artist,Health,Medium,Graphic Design,Organized
+3.56,8,History,Kinesthetic,Entrepreneur,Finance,Medium,Finance,Consistent
+2.07,22,Math,Visual,Doctor,Education,Low,Finance,Irregular
+3.67,20,Math,Auditory,Engineer,Technology,Medium,Education,Irregular
+1.54,18,Business,Reading/Writing,Scientist,Health,Medium,Medicine,Irregular
+3.59,10,Science,Reading/Writing,Doctor,Health,Low,Medicine,Irregular
+3.14,29,Math,Kinesthetic,Doctor,Technology,High,Finance,Organized
+2.45,26,History,Auditory,Engineer,Arts,High,Finance,Last-Minute
+1.78,8,Art,Kinesthetic,Doctor,Finance,Low,Education,Irregular
+1.65,21,Science,Auditory,Engineer,Finance,Medium,Finance,Needs Improvement
+1.61,8,Science,Visual,Engineer,Arts,Low,Medicine,Last-Minute
+1.24,23,Business,Visual,Artist,Arts,Medium,Graphic Design,Consistent
+3.4,10,Math,Kinesthetic,Entrepreneur,Arts,Medium,Data Science,Consistent
+3.14,22,Science,Visual,Engineer,Technology,High,Finance,Irregular
+3.97,33,Art,Visual,Engineer,Technology,Low,Data Science,Needs Improvement
+3.83,13,Science,Reading/Writing,Artist,Technology,High,Finance,Irregular
+1.16,27,History,Auditory,Entrepreneur,Finance,Medium,Data Science,Consistent
+3.28,8,Business,Kinesthetic,Engineer,Education,Medium,Graphic Design,Organized
+3.71,37,History,Reading/Writing,Artist,Finance,High,Education,Needs Improvement
+3.41,28,Math,Auditory,Artist,Education,Low,Medicine,Last-Minute
+2.89,5,History,Auditory,Doctor,Health,Medium,Graphic Design,Consistent
+3.7,16,Science,Visual,Entrepreneur,Technology,Low,Finance,Irregular
+1.56,7,Math,Reading/Writing,Doctor,Arts,High,Graphic Design,Needs Improvement
+1.67,35,Business,Kinesthetic,Engineer,Health,High,Finance,Needs Improvement
+1.81,28,Art,Visual,Engineer,Finance,High,Medicine,Consistent
+2.36,24,Business,Auditory,Scientist,Technology,Medium,Graphic Design,Consistent
+3.26,33,Art,Visual,Engineer,Finance,High,Finance,Organized
+3.66,7,Science,Reading/Writing,Engineer,Arts,High,Medicine,Last-Minute
+2.87,9,Math,Kinesthetic,Entrepreneur,Finance,Medium,Medicine,Consistent
+1.89,36,Science,Auditory,Engineer,Finance,Medium,Medicine,Irregular
+3.83,39,Math,Kinesthetic,Artist,Finance,Medium,Finance,Organized
+3.86,34,Math,Auditory,Entrepreneur,Finance,Medium,Finance,Consistent
+1.18,33,History,Reading/Writing,Doctor,Finance,Low,Finance,Last-Minute
+2.28,18,Math,Visual,Engineer,Arts,Low,Education,Consistent
+1.01,39,Art,Kinesthetic,Engineer,Technology,High,Education,Organized
+2.99,36,Art,Reading/Writing,Engineer,Finance,Medium,Medicine,Consistent
+1.01,22,Math,Kinesthetic,Entrepreneur,Education,Medium,Education,Last-Minute
+2.21,17,Science,Kinesthetic,Entrepreneur,Arts,Medium,Finance,Organized
+2.86,10,History,Visual,Artist,Technology,Medium,Education,Consistent
+2.29,20,Math,Reading/Writing,Doctor,Technology,High,Education,Irregular
+2.87,39,History,Auditory,Doctor,Technology,Low,Education,Irregular
+1.5,35,Science,Auditory,Entrepreneur,Health,Medium,Finance,Last-Minute
+3.23,37,Math,Kinesthetic,Doctor,Education,High,Finance,Irregular
+1.85,31,Art,Auditory,Doctor,Health,High,Data Science,Needs Improvement
+3.17,22,Business,Kinesthetic,Engineer,Health,Low,Data Science,Consistent
+1.39,22,Science,Kinesthetic,Entrepreneur,Arts,Medium,Medicine,Last-Minute
+1.58,9,Art,Kinesthetic,Engineer,Technology,Medium,Finance,Consistent
+3.8,7,Art,Auditory,Engineer,Arts,Medium,Finance,Needs Improvement
+2.47,11,Math,Visual,Artist,Technology,Medium,Data Science,Last-Minute
+1.05,34,Science,Kinesthetic,Entrepreneur,Education,Medium,Data Science,Irregular
+1.28,39,Art,Reading/Writing,Engineer,Education,Medium,Finance,Consistent
+3.31,37,History,Reading/Writing,Artist,Technology,Medium,Graphic Design,Organized
+2.37,11,Art,Reading/Writing,Entrepreneur,Finance,Low,Finance,Organized
+3.05,5,Math,Kinesthetic,Artist,Education,Medium,Finance,Consistent
+2.21,9,Science,Visual,Scientist,Education,Medium,Finance,Last-Minute
+2.13,11,Art,Visual,Scientist,Arts,Low,Finance,Last-Minute
+2.07,27,History,Visual,Engineer,Health,High,Finance,Needs Improvement
+2.25,30,Math,Reading/Writing,Engineer,Technology,High,Data Science,Needs Improvement
+3.4,15,Science,Visual,Doctor,Technology,Low,Finance,Consistent
+3.92,38,History,Reading/Writing,Scientist,Arts,Medium,Data Science,Consistent
+1.32,15,Math,Kinesthetic,Engineer,Health,Medium,Finance,Needs Improvement
+1.3,24,History,Visual,Artist,Finance,High,Education,Irregular
+3.49,27,Math,Reading/Writing,Entrepreneur,Education,Medium,Education,Irregular
+2.08,14,History,Kinesthetic,Entrepreneur,Education,High,Education,Irregular
+3.21,29,Math,Reading/Writing,Engineer,Health,Low,Education,Last-Minute
+2.82,12,History,Auditory,Scientist,Arts,Low,Data Science,Consistent
+1.42,27,Art,Visual,Entrepreneur,Arts,High,Education,Organized
+1.32,22,Science,Reading/Writing,Doctor,Education,High,Medicine,Consistent
+2.47,11,Business,Auditory,Doctor,Finance,High,Data Science,Needs Improvement
+2.01,9,Science,Kinesthetic,Entrepreneur,Education,High,Finance,Consistent
+1.15,29,Business,Auditory,Scientist,Arts,Low,Education,Organized
+3.01,29,Business,Reading/Writing,Entrepreneur,Education,Low,Graphic Design,Consistent
+3.58,24,Business,Kinesthetic,Doctor,Finance,Low,Data Science,Last-Minute
+2.06,10,Science,Auditory,Doctor,Health,High,Finance,Consistent
+1.13,9,History,Kinesthetic,Entrepreneur,Education,Low,Graphic Design,Needs Improvement
+1.6,23,History,Kinesthetic,Engineer,Arts,High,Graphic Design,Consistent
+1.14,5,Business,Auditory,Engineer,Technology,High,Data Science,Needs Improvement
+2.79,7,History,Visual,Scientist,Technology,Medium,Medicine,Needs Improvement
+1.16,24,Math,Kinesthetic,Doctor,Finance,Medium,Data Science,Irregular
+2.82,11,Math,Reading/Writing,Engineer,Technology,High,Data Science,Consistent
+3.97,17,Science,Auditory,Engineer,Technology,Medium,Medicine,Organized
+1.53,7,Art,Auditory,Engineer,Education,Low,Graphic Design,Irregular
+1.21,23,History,Reading/Writing,Scientist,Finance,Low,Graphic Design,Irregular
+3.13,16,History,Auditory,Artist,Finance,High,Finance,Irregular
+1.47,7,Science,Auditory,Engineer,Arts,Low,Data Science,Irregular
+1.87,17,Business,Kinesthetic,Doctor,Technology,High,Finance,Consistent
+2.73,24,Science,Reading/Writing,Artist,Education,Medium,Medicine,Needs Improvement
+1.28,25,Business,Visual,Artist,Finance,High,Data Science,Last-Minute
+3.88,35,History,Visual,Scientist,Finance,Low,Data Science,Needs Improvement
+3.11,21,History,Kinesthetic,Entrepreneur,Finance,Low,Data Science,Needs Improvement
+2.15,37,Science,Visual,Doctor,Education,High,Finance,Organized
+1.08,34,Math,Reading/Writing,Artist,Technology,High,Finance,Last-Minute
+3.04,26,Art,Auditory,Scientist,Finance,Medium,Education,Needs Improvement
+3.8,23,Science,Reading/Writing,Entrepreneur,Technology,High,Finance,Irregular
+2.03,26,History,Auditory,Scientist,Education,High,Data Science,Needs Improvement
+1.79,24,Business,Auditory,Doctor,Finance,Medium,Education,Consistent
+1.36,27,Science,Auditory,Artist,Finance,High,Medicine,Needs Improvement
+1.54,35,Business,Reading/Writing,Entrepreneur,Arts,Medium,Data Science,Consistent
+1.44,30,Business,Visual,Artist,Technology,High,Data Science,Irregular
+1.36,7,Math,Visual,Entrepreneur,Arts,Medium,Finance,Irregular
+1.83,5,Business,Kinesthetic,Artist,Health,High,Medicine,Organized
+1.45,35,Art,Kinesthetic,Scientist,Education,Medium,Finance,Irregular
+2.27,24,Business,Reading/Writing,Artist,Arts,Low,Graphic Design,Organized
+3.39,26,History,Auditory,Artist,Health,Low,Graphic Design,Consistent
+1.15,14,Science,Visual,Doctor,Finance,Low,Finance,Needs Improvement
+1.87,22,Math,Auditory,Engineer,Technology,High,Graphic Design,Consistent
+2.01,33,Science,Visual,Artist,Health,High,Finance,Organized
+3.74,24,Science,Kinesthetic,Engineer,Arts,High,Data Science,Last-Minute
+2.5,36,Business,Visual,Scientist,Education,High,Data Science,Organized
+1.79,30,Art,Kinesthetic,Artist,Finance,High,Data Science,Last-Minute
+2.97,14,Math,Kinesthetic,Artist,Arts,High,Education,Needs Improvement
+2.99,38,Business,Auditory,Doctor,Technology,High,Education,Last-Minute
+3.24,26,Business,Visual,Scientist,Finance,High,Data Science,Needs Improvement
+1.47,33,Science,Reading/Writing,Entrepreneur,Education,High,Data Science,Last-Minute
+3.19,5,Math,Visual,Engineer,Health,High,Education,Last-Minute
+3.25,14,Art,Reading/Writing,Engineer,Health,Medium,Graphic Design,Irregular
+1.48,20,History,Reading/Writing,Doctor,Health,Low,Data Science,Consistent
+2.12,37,History,Auditory,Engineer,Education,Medium,Graphic Design,Consistent
+3.08,7,Art,Kinesthetic,Engineer,Technology,Low,Data Science,Consistent
+3.73,10,Art,Reading/Writing,Engineer,Education,Medium,Education,Last-Minute
+2.44,22,Business,Visual,Artist,Health,Low,Education,Last-Minute
+1.62,17,History,Reading/Writing,Doctor,Technology,High,Data Science,Last-Minute
+3.2,16,Business,Kinesthetic,Entrepreneur,Arts,Medium,Finance,Needs Improvement
+3.05,16,Art,Kinesthetic,Artist,Technology,Low,Finance,Irregular
+3.15,36,History,Kinesthetic,Artist,Technology,Low,Graphic Design,Needs Improvement
+2.79,26,History,Reading/Writing,Artist,Finance,Low,Medicine,Irregular
+3.25,8,History,Kinesthetic,Engineer,Finance,Medium,Graphic Design,Organized
+3.47,34,Science,Reading/Writing,Artist,Health,Low,Education,Last-Minute
+2.29,19,Art,Visual,Engineer,Technology,Medium,Finance,Last-Minute
+2.1,34,Business,Reading/Writing,Scientist,Technology,Low,Data Science,Irregular
+2.86,5,Science,Reading/Writing,Scientist,Health,Low,Finance,Needs Improvement
+2.33,9,History,Reading/Writing,Doctor,Finance,High,Graphic Design,Irregular
+3.38,39,History,Auditory,Engineer,Technology,Low,Finance,Needs Improvement
+3.03,16,Science,Auditory,Artist,Arts,High,Medicine,Organized
+3.68,19,History,Visual,Scientist,Education,Low,Medicine,Last-Minute
+3.93,39,Art,Auditory,Scientist,Finance,Low,Education,Consistent
+1.82,36,History,Visual,Scientist,Finance,Medium,Data Science,Consistent
+2.84,19,Math,Auditory,Scientist,Finance,Medium,Data Science,Last-Minute
+2.86,33,Science,Auditory,Doctor,Arts,Low,Graphic Design,Consistent
+3.35,32,Art,Reading/Writing,Entrepreneur,Arts,Low,Education,Consistent
+1.9,29,Business,Visual,Entrepreneur,Arts,High,Graphic Design,Organized
+1.96,12,Business,Kinesthetic,Entrepreneur,Finance,Medium,Medicine,Consistent
+3.07,27,Math,Kinesthetic,Scientist,Arts,Medium,Graphic Design,Last-Minute
+1.96,39,Business,Reading/Writing,Artist,Education,High,Graphic Design,Last-Minute
+3.77,5,Math,Kinesthetic,Engineer,Health,High,Medicine,Last-Minute
+3.32,11,Science,Visual,Artist,Technology,High,Data Science,Needs Improvement
+1.97,40,History,Kinesthetic,Artist,Education,Medium,Education,Last-Minute
+1.18,27,Art,Kinesthetic,Doctor,Finance,Medium,Data Science,Consistent
+1.9,11,Math,Auditory,Entrepreneur,Technology,Low,Finance,Consistent
+3.75,29,Business,Reading/Writing,Scientist,Arts,High,Data Science,Last-Minute
+2.22,36,History,Reading/Writing,Artist,Finance,Low,Education,Needs Improvement
+1.9,36,Art,Auditory,Scientist,Finance,High,Data Science,Consistent
+2.8,15,Business,Reading/Writing,Engineer,Technology,Low,Graphic Design,Irregular
+2.98,23,Science,Auditory,Doctor,Technology,High,Data Science,Needs Improvement
+3.33,17,Art,Auditory,Engineer,Arts,Low,Data Science,Consistent
+1.32,13,Art,Kinesthetic,Scientist,Education,Medium,Medicine,Last-Minute
+1.42,36,Science,Reading/Writing,Entrepreneur,Health,High,Education,Last-Minute
+2.65,24,Business,Kinesthetic,Doctor,Health,Low,Data Science,Consistent
+1.03,32,History,Kinesthetic,Artist,Arts,Low,Graphic Design,Irregular
+2.63,11,Art,Auditory,Engineer,Education,High,Data Science,Organized
+2.1,14,History,Reading/Writing,Engineer,Finance,Medium,Medicine,Irregular
+1.51,20,Science,Reading/Writing,Artist,Arts,Low,Graphic Design,Organized
+1.91,29,Business,Auditory,Engineer,Education,High,Data Science,Irregular
+1.41,18,Art,Auditory,Engineer,Technology,High,Medicine,Irregular
+3.85,13,Art,Visual,Doctor,Finance,Low,Finance,Consistent
+2.35,11,Science,Kinesthetic,Entrepreneur,Arts,High,Graphic Design,Needs Improvement
+1.62,14,History,Kinesthetic,Doctor,Health,Low,Medicine,Organized
+3.22,8,Math,Kinesthetic,Doctor,Finance,High,Education,Organized
+2.72,35,Business,Visual,Doctor,Technology,High,Graphic Design,Organized
+1.41,27,Math,Visual,Doctor,Health,High,Medicine,Organized
+1.82,14,Science,Kinesthetic,Scientist,Arts,High,Graphic Design,Consistent
+1.02,40,Art,Auditory,Doctor,Finance,Medium,Graphic Design,Consistent
+3.22,20,Math,Auditory,Engineer,Education,Low,Data Science,Organized
+3.88,27,Business,Auditory,Entrepreneur,Technology,High,Data Science,Last-Minute
+3.63,17,Business,Visual,Engineer,Finance,Medium,Graphic Design,Needs Improvement
+1.49,38,Math,Auditory,Scientist,Finance,High,Education,Irregular
+1.94,35,Business,Visual,Scientist,Health,High,Finance,Organized
+2.98,5,Math,Kinesthetic,Doctor,Education,High,Graphic Design,Needs Improvement
+3.91,23,Science,Kinesthetic,Doctor,Technology,Medium,Education,Last-Minute
+1.29,40,Math,Kinesthetic,Scientist,Health,High,Education,Organized
+3.05,21,History,Visual,Artist,Education,High,Medicine,Irregular
+1.29,30,Art,Visual,Entrepreneur,Technology,Medium,Finance,Consistent
+3.44,26,Business,Visual,Engineer,Arts,High,Graphic Design,Last-Minute
+2.79,13,Math,Auditory,Doctor,Finance,Medium,Medicine,Organized
+1.28,17,Art,Kinesthetic,Scientist,Technology,Low,Finance,Irregular
+3.91,7,Science,Auditory,Artist,Arts,Low,Graphic Design,Consistent
+2.91,23,History,Reading/Writing,Doctor,Education,Medium,Medicine,Consistent
+2.95,22,Math,Visual,Doctor,Health,Medium,Data Science,Organized
+1.86,18,Business,Visual,Entrepreneur,Education,High,Medicine,Consistent
+2.21,9,History,Kinesthetic,Entrepreneur,Finance,High,Medicine,Last-Minute
+2.9,38,Science,Kinesthetic,Artist,Education,Medium,Medicine,Needs Improvement
+2.39,17,Math,Kinesthetic,Doctor,Health,Medium,Finance,Consistent
+2.49,16,Art,Visual,Engineer,Finance,Medium,Data Science,Consistent
+1.77,6,History,Reading/Writing,Doctor,Technology,Medium,Finance,Irregular
+1.96,37,Art,Auditory,Scientist,Finance,High,Data Science,Irregular
+2.26,13,Math,Reading/Writing,Doctor,Education,Low,Graphic Design,Last-Minute
+1.87,37,Art,Kinesthetic,Engineer,Health,Low,Graphic Design,Organized
+3.21,30,Business,Reading/Writing,Engineer,Education,High,Graphic Design,Last-Minute
+2.18,39,Science,Visual,Artist,Health,High,Graphic Design,Irregular
+3.05,31,Math,Visual,Engineer,Finance,Medium,Education,Consistent
+3.29,11,Science,Reading/Writing,Entrepreneur,Education,Low,Graphic Design,Needs Improvement
+3.31,31,Business,Auditory,Artist,Education,Low,Finance,Irregular
+2.47,12,Art,Auditory,Doctor,Health,High,Data Science,Last-Minute
+1.24,23,History,Reading/Writing,Entrepreneur,Finance,Low,Data Science,Last-Minute
+2.53,20,History,Reading/Writing,Artist,Education,Medium,Graphic Design,Needs Improvement
+2.02,35,Art,Kinesthetic,Doctor,Health,Medium,Medicine,Consistent
+1.43,10,Science,Auditory,Engineer,Finance,Medium,Finance,Last-Minute
+1.31,12,Math,Reading/Writing,Entrepreneur,Technology,High,Graphic Design,Last-Minute
+3.8,5,Science,Visual,Artist,Health,Medium,Finance,Organized
+1.78,39,History,Visual,Engineer,Finance,Medium,Medicine,Organized
+1.95,31,History,Reading/Writing,Engineer,Health,Low,Medicine,Last-Minute
+3.45,7,Math,Kinesthetic,Entrepreneur,Technology,High,Data Science,Needs Improvement
+3.01,20,History,Visual,Entrepreneur,Arts,High,Data Science,Organized
+2.03,19,Science,Auditory,Artist,Arts,Medium,Data Science,Last-Minute
+3.12,25,Math,Kinesthetic,Scientist,Finance,High,Data Science,Needs Improvement
+1.73,22,Math,Reading/Writing,Artist,Education,High,Medicine,Organized
+3.32,37,Art,Reading/Writing,Scientist,Education,Low,Graphic Design,Irregular
+1.68,31,Science,Reading/Writing,Artist,Finance,High,Medicine,Consistent
+2.09,37,Art,Kinesthetic,Doctor,Arts,Medium,Data Science,Needs Improvement
+2.66,32,Math,Kinesthetic,Entrepreneur,Technology,Low,Medicine,Needs Improvement
+1.51,20,Math,Auditory,Entrepreneur,Arts,High,Graphic Design,Consistent
+1.68,22,History,Visual,Doctor,Finance,Low,Graphic Design,Last-Minute
+3.04,16,Science,Auditory,Doctor,Education,High,Finance,Organized
+1.09,31,Art,Kinesthetic,Scientist,Education,High,Data Science,Last-Minute
+1.74,37,Science,Auditory,Scientist,Arts,Low,Graphic Design,Consistent
+2.07,33,Business,Reading/Writing,Doctor,Education,High,Education,Irregular
+3.42,17,History,Kinesthetic,Entrepreneur,Technology,High,Education,Irregular
+3.05,23,History,Reading/Writing,Doctor,Education,Medium,Finance,Needs Improvement
+2.0,6,Math,Kinesthetic,Artist,Health,Low,Finance,Organized
+2.99,9,Science,Reading/Writing,Scientist,Education,Low,Graphic Design,Consistent
+1.41,8,History,Visual,Entrepreneur,Health,High,Graphic Design,Consistent
+3.41,7,Math,Auditory,Engineer,Health,Medium,Education,Last-Minute
+2.07,34,Art,Visual,Scientist,Education,High,Graphic Design,Last-Minute
+3.8,27,History,Kinesthetic,Engineer,Health,Low,Graphic Design,Organized
+2.79,28,Science,Visual,Scientist,Education,High,Data Science,Needs Improvement
+3.65,24,Business,Visual,Entrepreneur,Health,Low,Education,Consistent
+3.87,39,Science,Visual,Entrepreneur,Finance,Low,Data Science,Last-Minute
+1.02,37,Business,Visual,Scientist,Education,Low,Education,Irregular
+3.8,14,Art,Reading/Writing,Artist,Technology,High,Data Science,Last-Minute
+2.67,14,Business,Kinesthetic,Scientist,Finance,Low,Data Science,Needs Improvement
+3.13,29,Art,Auditory,Artist,Education,Low,Medicine,Last-Minute
+3.77,34,Math,Kinesthetic,Scientist,Finance,High,Finance,Consistent
+1.58,10,Math,Reading/Writing,Artist,Finance,Low,Graphic Design,Consistent
+1.12,18,Math,Reading/Writing,Scientist,Arts,High,Graphic Design,Organized
+2.25,7,Math,Auditory,Scientist,Health,Medium,Finance,Irregular
+3.32,19,Math,Visual,Entrepreneur,Technology,High,Graphic Design,Organized
+2.53,23,Business,Visual,Doctor,Health,Low,Medicine,Consistent

@@ -1,0 +1,58 @@
+/* Custom styles to enhance Tailwind */
+
+/* Navigation styles */
+.nav-link {
+    color: #4B5563;
+    padding: 0.5rem 1rem;
+    border-radius: 0.25rem;
+    font-weight: 500;
+}
+
+.nav-link.active {
+    background-color: #2563EB;
+    color: white;
+}
+
+/* Slider customization */
+.slider {
+    -webkit-appearance: none;
+    appearance: none;
+    height: 8px;
+    background: #E5E7EB;
+    border-radius: 5px;
+    outline: none;
+}
+
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background: #2563EB;
+    cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background: #2563EB;
+    cursor: pointer;
+    border: none;
+}
+
+/* Card hover effects */
+.border {
+    transition: all 0.2s ease;
+}
+
+.border:hover {
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    transform: translateY(-2px);
+}
+
+/* Match percentage colors */
+.text-green-500 {
+    font-weight: 600;
+}

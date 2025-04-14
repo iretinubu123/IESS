@@ -1,0 +1,1001 @@
+Student_ID,Age,Gender,GPA,Favorite_Subjects,Skills,Extracurricular_Activities,Personality_Traits,Preferred_Work_Style,Career_Outcome
+1,19,Non-binary,3.51,"Literature, Physics","Networking, JavaScript",Hackathons,Extroverted,Solo,Economist
+2,27,Female,3.05,"Economics, Literature","Lab Research, Graphic Design",Theater Club,Creative,Team,Software Engineer
+3,25,Male,2.67,"Computer Science, Economics","Data Analysis, Writing",Debate Club,Analytical,Hybrid,Economist
+4,21,Female,3.36,"Literature, Arts","Graphic Design, Public Speaking",Science Club,Creative,Team,Writer
+5,18,Female,3.46,"Biology, Math","Public Speaking, Networking",Sports Team,Introverted,Solo,Doctor
+6,30,Male,3.03,"Math, History","Data Analysis, Graphic Design",Debate Club,Creative,Team,Graphic Designer
+7,30,Non-binary,2.9,"Literature, Biology","Data Analysis, JavaScript",Sports Team,Analytical,Hybrid,Graphic Designer
+8,23,Male,3.33,"Physics, Computer Science","Writing, Public Speaking",Debate Club,Logical,Hybrid,Doctor
+9,29,Female,3.6,"Literature, History","Writing, Machine Learning",Sports Team,Logical,Hybrid,Data Scientist
+10,18,Male,3.61,"Math, Literature","JavaScript, Networking",Robotics Club,Creative,Hybrid,Data Scientist
+11,19,Female,2.62,"Physics, History","Graphic Design, Writing",Robotics Club,Analytical,Hybrid,Network Engineer
+12,25,Non-binary,2.98,"Literature, Computer Science","Python, Graphic Design",Sports Team,Extroverted,Team,Software Engineer
+13,24,Female,3.75,"Chemistry, Arts","Lab Research, Graphic Design",Robotics Club,Detail-Oriented,Solo,Research Scientist
+14,26,Female,3.92,"History, Literature","Lab Research, JavaScript",Sports Team,Extroverted,Hybrid,Writer
+15,26,Non-binary,3.81,"Arts, Math","Networking, Machine Learning",Sports Team,Logical,Team,Writer
+16,24,Male,3.13,"Chemistry, Biology","JavaScript, Networking",Science Club,Creative,Solo,Graphic Designer
+17,18,Male,2.86,"Chemistry, Physics","Networking, Public Speaking",Sports Team,Creative,Solo,Research Scientist
+18,23,Non-binary,2.82,"Economics, Chemistry","Writing, Public Speaking",Science Club,Analytical,Solo,Software Engineer
+19,24,Non-binary,3.3,"History, Computer Science","Data Analysis, Lab Research",Sports Team,Extroverted,Solo,Software Engineer
+20,23,Non-binary,3.82,"Economics, Arts","Networking, JavaScript",Hackathons,Detail-Oriented,Solo,Data Scientist
+21,27,Female,3.9,"Economics, Physics","Networking, Python",Sports Team,Introverted,Solo,Research Scientist
+22,22,Male,3.99,"Literature, History","Machine Learning, JavaScript",Robotics Club,Introverted,Team,Research Scientist
+23,28,Male,3.51,"History, Chemistry","Writing, Lab Research",Science Club,Detail-Oriented,Solo,Graphic Designer
+24,19,Female,3.95,"Biology, Math","Lab Research, Networking",Sports Team,Analytical,Team,Software Engineer
+25,24,Female,3.77,"Arts, Chemistry","Graphic Design, Machine Learning",Hackathons,Introverted,Hybrid,Economist
+26,23,Male,2.95,"Arts, Biology","Data Analysis, Python",Debate Club,Creative,Hybrid,Economist
+27,20,Non-binary,3.69,"Biology, Computer Science","Public Speaking, Writing",Sports Team,Detail-Oriented,Solo,Doctor
+28,24,Non-binary,3.7,"History, Physics","Networking, Lab Research",Theater Club,Analytical,Solo,Software Engineer
+29,24,Non-binary,2.93,"Biology, Chemistry","Machine Learning, JavaScript",Robotics Club,Logical,Hybrid,Writer
+30,28,Female,3.29,"Chemistry, Physics","Networking, JavaScript",Science Club,Extroverted,Team,Data Scientist
+31,19,Male,3.19,"Literature, Physics","Networking, Machine Learning",Hackathons,Analytical,Team,Doctor
+32,22,Non-binary,3.8,"Math, Physics","Lab Research, Public Speaking",Theater Club,Introverted,Solo,Doctor
+33,20,Non-binary,3.67,"Biology, Math","Public Speaking, Networking",Sports Team,Introverted,Hybrid,Software Engineer
+34,27,Female,3.77,"Physics, Biology","Machine Learning, Python",Sports Team,Introverted,Hybrid,Software Engineer
+35,19,Female,2.94,"Computer Science, Literature","Machine Learning, Networking",Hackathons,Detail-Oriented,Hybrid,Doctor
+36,29,Male,2.96,"Literature, Math","Public Speaking, JavaScript",Debate Club,Creative,Team,Network Engineer
+37,23,Female,3.23,"Literature, Arts","Machine Learning, Networking",Robotics Club,Extroverted,Hybrid,Software Engineer
+38,23,Female,2.96,"History, Arts","Writing, Python",Robotics Club,Creative,Solo,Writer
+39,29,Non-binary,2.74,"Literature, History","Writing, JavaScript",Hackathons,Extroverted,Solo,Graphic Designer
+40,27,Female,3.01,"Computer Science, Physics","Machine Learning, Networking",Theater Club,Introverted,Team,Data Scientist
+41,19,Male,3.56,"Computer Science, History","Lab Research, Public Speaking",Science Club,Creative,Solo,Writer
+42,30,Non-binary,3.56,"History, Chemistry","Public Speaking, Writing",Debate Club,Extroverted,Team,Research Scientist
+43,21,Non-binary,3.14,"Chemistry, Biology","Writing, Networking",Hackathons,Introverted,Solo,Economist
+44,24,Female,3.67,"Arts, Physics","JavaScript, Writing",Robotics Club,Introverted,Solo,Data Scientist
+45,27,Female,3.24,"Arts, Chemistry","Writing, Public Speaking",Debate Club,Logical,Team,Software Engineer
+46,30,Male,2.75,"Math, Chemistry","Machine Learning, JavaScript",Debate Club,Introverted,Team,Economist
+47,22,Male,3.4,"Literature, Arts","Python, Data Analysis",Sports Team,Extroverted,Team,Network Engineer
+48,26,Female,2.82,"Economics, Literature","Graphic Design, Public Speaking",Robotics Club,Extroverted,Solo,Software Engineer
+49,29,Male,3.13,"History, Chemistry","Python, Data Analysis",Science Club,Analytical,Hybrid,Graphic Designer
+50,25,Non-binary,2.53,"Chemistry, Math","Data Analysis, Graphic Design",Science Club,Detail-Oriented,Team,Software Engineer
+51,29,Non-binary,2.8,"Biology, History","Public Speaking, Graphic Design",Sports Team,Creative,Hybrid,Writer
+52,27,Female,2.76,"Math, Physics","Networking, Public Speaking",Hackathons,Extroverted,Solo,Software Engineer
+53,18,Female,3.13,"Chemistry, Literature","Writing, Networking",Science Club,Logical,Hybrid,Doctor
+54,28,Non-binary,2.82,"Arts, Physics","Machine Learning, Lab Research",Sports Team,Detail-Oriented,Team,Doctor
+55,24,Female,3.57,"Biology, Chemistry","Public Speaking, JavaScript",Hackathons,Detail-Oriented,Solo,Network Engineer
+56,23,Non-binary,3.07,"Arts, Chemistry","Python, Data Analysis",Robotics Club,Creative,Team,Writer
+57,22,Non-binary,3.88,"Physics, Computer Science","Lab Research, JavaScript",Robotics Club,Introverted,Hybrid,Doctor
+58,27,Non-binary,3.73,"History, Computer Science","Machine Learning, Graphic Design",Debate Club,Detail-Oriented,Team,Economist
+59,20,Non-binary,3.61,"Literature, Arts","Data Analysis, Public Speaking",Robotics Club,Creative,Team,Graphic Designer
+60,29,Female,3.44,"Economics, Biology","JavaScript, Graphic Design",Science Club,Detail-Oriented,Solo,Graphic Designer
+61,23,Female,3.19,"Literature, Biology","Writing, Machine Learning",Science Club,Analytical,Team,Research Scientist
+62,25,Male,2.98,"Arts, Literature","Data Analysis, Networking",Theater Club,Extroverted,Hybrid,Writer
+63,20,Male,3.47,"History, Computer Science","JavaScript, Networking",Science Club,Analytical,Team,Writer
+64,22,Non-binary,2.54,"Biology, Chemistry","Writing, Data Analysis",Theater Club,Extroverted,Solo,Graphic Designer
+65,27,Female,3.31,"Literature, Arts","Networking, Data Analysis",Theater Club,Introverted,Team,Writer
+66,21,Female,2.73,"Math, History","Lab Research, Writing",Theater Club,Analytical,Team,Data Scientist
+67,25,Female,2.58,"Computer Science, Physics","Data Analysis, Lab Research",Debate Club,Extroverted,Hybrid,Economist
+68,20,Female,2.76,"Math, Chemistry","Python, Public Speaking",Debate Club,Detail-Oriented,Solo,Economist
+69,19,Non-binary,2.83,"Math, Computer Science","Networking, Python",Science Club,Introverted,Solo,Doctor
+70,29,Female,2.58,"Arts, Computer Science","Public Speaking, Graphic Design",Science Club,Detail-Oriented,Hybrid,Research Scientist
+71,19,Male,3.58,"Chemistry, History","JavaScript, Data Analysis",Science Club,Introverted,Hybrid,Graphic Designer
+72,19,Female,3.39,"Arts, History","Python, Data Analysis",Debate Club,Analytical,Team,Graphic Designer
+73,19,Female,3.74,"Economics, Physics","Data Analysis, Graphic Design",Theater Club,Extroverted,Solo,Data Scientist
+74,28,Female,3.1,"Computer Science, Chemistry","Machine Learning, Data Analysis",Sports Team,Logical,Hybrid,Research Scientist
+75,25,Male,2.81,"Math, Economics","Graphic Design, Python",Debate Club,Creative,Team,Doctor
+76,21,Non-binary,3.87,"Economics, Biology","Writing, Public Speaking",Robotics Club,Creative,Solo,Economist
+77,23,Male,3.6,"Literature, Biology","Python, Lab Research",Sports Team,Logical,Hybrid,Research Scientist
+78,27,Non-binary,3.1,"Literature, Physics","Data Analysis, Graphic Design",Debate Club,Logical,Team,Data Scientist
+79,19,Male,3.28,"History, Computer Science","Graphic Design, Lab Research",Robotics Club,Extroverted,Team,Research Scientist
+80,26,Female,3.71,"Biology, Computer Science","Writing, Graphic Design",Debate Club,Extroverted,Hybrid,Research Scientist
+81,23,Non-binary,2.73,"Math, Arts","Public Speaking, Python",Debate Club,Creative,Hybrid,Network Engineer
+82,23,Non-binary,3.8,"Chemistry, Economics","Python, Networking",Hackathons,Detail-Oriented,Solo,Software Engineer
+83,29,Male,3.57,"Math, Biology","Machine Learning, Data Analysis",Robotics Club,Extroverted,Team,Network Engineer
+84,23,Female,3.83,"Computer Science, Physics","Writing, Graphic Design",Science Club,Introverted,Hybrid,Network Engineer
+85,21,Male,2.82,"History, Computer Science","Python, Graphic Design",Science Club,Introverted,Solo,Software Engineer
+86,27,Male,3.09,"Arts, Chemistry","Networking, Python",Theater Club,Analytical,Solo,Network Engineer
+87,21,Female,2.54,"Arts, Chemistry","JavaScript, Machine Learning",Sports Team,Extroverted,Solo,Network Engineer
+88,29,Female,2.9,"Chemistry, Physics","Graphic Design, Data Analysis",Robotics Club,Logical,Hybrid,Research Scientist
+89,30,Male,3.52,"Physics, Chemistry","Lab Research, Writing",Debate Club,Analytical,Hybrid,Economist
+90,25,Male,2.77,"Biology, Physics","Writing, Graphic Design",Debate Club,Analytical,Solo,Research Scientist
+91,18,Male,3.03,"Arts, Physics","Writing, Networking",Debate Club,Extroverted,Solo,Writer
+92,30,Female,2.96,"Chemistry, History","Python, Networking",Hackathons,Analytical,Solo,Doctor
+93,28,Male,3.56,"Math, Economics","JavaScript, Python",Robotics Club,Detail-Oriented,Hybrid,Data Scientist
+94,23,Non-binary,2.88,"Economics, Computer Science","Graphic Design, Writing",Hackathons,Logical,Team,Writer
+95,22,Female,2.78,"Biology, Computer Science","Machine Learning, Networking",Theater Club,Extroverted,Solo,Graphic Designer
+96,26,Male,3.23,"Arts, Math","Networking, JavaScript",Sports Team,Introverted,Hybrid,Software Engineer
+97,26,Non-binary,2.79,"Biology, Physics","Machine Learning, JavaScript",Theater Club,Extroverted,Solo,Economist
+98,26,Female,2.8,"History, Biology","Graphic Design, Lab Research",Sports Team,Creative,Team,Graphic Designer
+99,19,Male,3.78,"Computer Science, History","JavaScript, Machine Learning",Science Club,Extroverted,Team,Software Engineer
+100,27,Female,3.63,"Computer Science, Math","Public Speaking, Data Analysis",Debate Club,Introverted,Team,Writer
+101,30,Male,3.32,"Literature, Economics","Machine Learning, Graphic Design",Sports Team,Introverted,Solo,Software Engineer
+102,18,Female,3.11,"Chemistry, Math","Graphic Design, Public Speaking",Robotics Club,Extroverted,Hybrid,Doctor
+103,29,Female,2.67,"Literature, Economics","Networking, Public Speaking",Theater Club,Introverted,Hybrid,Writer
+104,21,Female,3.28,"Chemistry, Arts","Writing, Lab Research",Sports Team,Logical,Solo,Economist
+105,24,Female,3.89,"Economics, Computer Science","Data Analysis, Public Speaking",Debate Club,Extroverted,Solo,Software Engineer
+106,23,Male,2.95,"Computer Science, Arts","Machine Learning, Writing",Science Club,Introverted,Team,Network Engineer
+107,19,Non-binary,3.98,"Biology, History","Public Speaking, Graphic Design",Sports Team,Creative,Team,Graphic Designer
+108,21,Female,3.47,"Chemistry, Biology","Writing, Machine Learning",Sports Team,Creative,Solo,Writer
+109,25,Non-binary,2.62,"Math, History","Data Analysis, Writing",Robotics Club,Logical,Hybrid,Software Engineer
+110,22,Non-binary,3.82,"Biology, Chemistry","Python, Writing",Hackathons,Detail-Oriented,Hybrid,Economist
+111,23,Male,3.1,"History, Physics","Lab Research, Graphic Design",Robotics Club,Creative,Team,Graphic Designer
+112,23,Female,3.89,"Computer Science, Economics","Machine Learning, Public Speaking",Debate Club,Creative,Team,Research Scientist
+113,29,Female,2.91,"Arts, Biology","JavaScript, Graphic Design",Theater Club,Introverted,Solo,Doctor
+114,19,Male,3.02,"History, Chemistry","Data Analysis, Python",Debate Club,Detail-Oriented,Team,Research Scientist
+115,23,Male,3.1,"Physics, Economics","Networking, JavaScript",Robotics Club,Analytical,Hybrid,Research Scientist
+116,25,Female,3.66,"Literature, Arts","Writing, Networking",Hackathons,Creative,Solo,Software Engineer
+117,25,Male,3.3,"History, Chemistry","Writing, Lab Research",Science Club,Logical,Hybrid,Research Scientist
+118,18,Male,3.3,"Chemistry, Economics","Machine Learning, Graphic Design",Robotics Club,Detail-Oriented,Team,Economist
+119,28,Non-binary,3.56,"Math, Biology","Lab Research, Machine Learning",Robotics Club,Introverted,Solo,Research Scientist
+120,28,Male,3.66,"Arts, Physics","Writing, Lab Research",Robotics Club,Introverted,Hybrid,Graphic Designer
+121,29,Non-binary,2.99,"Chemistry, History","JavaScript, Writing",Hackathons,Analytical,Solo,Data Scientist
+122,26,Non-binary,3.48,"History, Physics","Data Analysis, Networking",Sports Team,Analytical,Solo,Economist
+123,27,Male,3.22,"Math, Chemistry","JavaScript, Data Analysis",Robotics Club,Creative,Solo,Data Scientist
+124,22,Non-binary,3.98,"Physics, Economics","Networking, Graphic Design",Science Club,Analytical,Hybrid,Data Scientist
+125,30,Female,3.99,"Math, History","Graphic Design, Networking",Science Club,Introverted,Hybrid,Software Engineer
+126,21,Female,3.75,"Physics, Math","Writing, Graphic Design",Hackathons,Logical,Solo,Writer
+127,19,Female,3.14,"History, Math","Public Speaking, Data Analysis",Theater Club,Extroverted,Solo,Economist
+128,24,Male,2.58,"Computer Science, History","Networking, Public Speaking",Debate Club,Analytical,Hybrid,Data Scientist
+129,18,Female,3.78,"History, Arts","Lab Research, Writing",Theater Club,Creative,Hybrid,Graphic Designer
+130,24,Non-binary,3.71,"Chemistry, Math","Machine Learning, Data Analysis",Sports Team,Detail-Oriented,Team,Economist
+131,30,Non-binary,3.85,"Physics, Chemistry","Writing, Data Analysis",Science Club,Creative,Hybrid,Software Engineer
+132,26,Male,3.4,"Literature, Physics","Data Analysis, Machine Learning",Debate Club,Introverted,Solo,Writer
+133,25,Female,2.64,"Math, Economics","Graphic Design, JavaScript",Hackathons,Logical,Hybrid,Doctor
+134,26,Female,2.64,"Biology, Math","Data Analysis, Networking",Sports Team,Analytical,Hybrid,Data Scientist
+135,23,Female,2.77,"Arts, Literature","JavaScript, Public Speaking",Theater Club,Extroverted,Team,Data Scientist
+136,28,Female,2.91,"Physics, Computer Science","Graphic Design, Networking",Science Club,Creative,Solo,Research Scientist
+137,30,Non-binary,2.89,"Literature, Arts","Graphic Design, Lab Research",Debate Club,Creative,Hybrid,Writer
+138,19,Non-binary,3.42,"Literature, History","Graphic Design, Networking",Theater Club,Introverted,Team,Network Engineer
+139,29,Female,2.68,"Computer Science, Chemistry","Data Analysis, Graphic Design",Debate Club,Creative,Solo,Research Scientist
+140,25,Female,3.09,"Arts, Literature","Machine Learning, Public Speaking",Theater Club,Detail-Oriented,Solo,Doctor
+141,24,Male,2.8,"Arts, Economics","Data Analysis, Writing",Hackathons,Detail-Oriented,Hybrid,Network Engineer
+142,19,Non-binary,3.14,"Computer Science, History","Data Analysis, Writing",Hackathons,Analytical,Team,Doctor
+143,30,Non-binary,3.63,"History, Biology","Data Analysis, Graphic Design",Robotics Club,Logical,Solo,Data Scientist
+144,26,Non-binary,3.6,"Arts, Computer Science","Data Analysis, Graphic Design",Theater Club,Logical,Hybrid,Graphic Designer
+145,22,Non-binary,2.72,"History, Literature","JavaScript, Networking",Robotics Club,Analytical,Hybrid,Graphic Designer
+146,27,Female,2.59,"Economics, Math","JavaScript, Machine Learning",Theater Club,Detail-Oriented,Team,Data Scientist
+147,27,Non-binary,3.68,"Economics, History","Python, Lab Research",Science Club,Detail-Oriented,Team,Writer
+148,27,Female,3.07,"Chemistry, Biology","Public Speaking, Lab Research",Debate Club,Extroverted,Team,Graphic Designer
+149,23,Non-binary,3.36,"Arts, Economics","Python, Writing",Debate Club,Analytical,Hybrid,Economist
+150,24,Female,3.81,"Math, Arts","Machine Learning, Writing",Theater Club,Creative,Hybrid,Doctor
+151,25,Non-binary,3.36,"History, Chemistry","Machine Learning, Graphic Design",Hackathons,Detail-Oriented,Hybrid,Research Scientist
+152,28,Non-binary,3.11,"Math, Physics","JavaScript, Machine Learning",Theater Club,Logical,Solo,Network Engineer
+153,26,Female,2.68,"Math, Chemistry","JavaScript, Data Analysis",Debate Club,Logical,Solo,Data Scientist
+154,26,Non-binary,2.59,"Computer Science, Economics","Python, Lab Research",Hackathons,Detail-Oriented,Hybrid,Economist
+155,28,Female,3.0,"Economics, Computer Science","Lab Research, Machine Learning",Science Club,Logical,Hybrid,Data Scientist
+156,30,Male,2.74,"Economics, Physics","Graphic Design, Lab Research",Sports Team,Detail-Oriented,Hybrid,Data Scientist
+157,21,Male,3.48,"Physics, Literature","Python, JavaScript",Hackathons,Detail-Oriented,Solo,Software Engineer
+158,22,Non-binary,3.22,"Math, History","Machine Learning, Public Speaking",Theater Club,Logical,Hybrid,Writer
+159,29,Non-binary,3.25,"Arts, Biology","Graphic Design, Lab Research",Debate Club,Logical,Team,Data Scientist
+160,30,Female,3.18,"Math, Computer Science","Python, Machine Learning",Science Club,Introverted,Hybrid,Graphic Designer
+161,24,Male,2.7,"Literature, Economics","JavaScript, Machine Learning",Science Club,Introverted,Hybrid,Doctor
+162,25,Male,3.48,"Economics, Computer Science","JavaScript, Python",Theater Club,Introverted,Team,Writer
+163,27,Female,3.6,"Chemistry, Biology","Graphic Design, JavaScript",Sports Team,Introverted,Hybrid,Graphic Designer
+164,24,Female,3.6,"Math, Biology","Machine Learning, Public Speaking",Robotics Club,Detail-Oriented,Team,Economist
+165,22,Male,2.81,"Math, Arts","Machine Learning, JavaScript",Debate Club,Introverted,Hybrid,Doctor
+166,21,Non-binary,2.72,"Biology, Physics","Data Analysis, JavaScript",Robotics Club,Analytical,Team,Writer
+167,26,Non-binary,3.85,"Economics, History","Public Speaking, Graphic Design",Hackathons,Extroverted,Hybrid,Data Scientist
+168,22,Female,2.66,"Biology, Computer Science","Networking, Graphic Design",Sports Team,Creative,Team,Graphic Designer
+169,23,Female,3.14,"Biology, Literature","Public Speaking, Writing",Robotics Club,Analytical,Hybrid,Research Scientist
+170,26,Non-binary,2.84,"Physics, History","Writing, Public Speaking",Science Club,Introverted,Solo,Software Engineer
+171,24,Non-binary,3.66,"Math, Arts","Graphic Design, JavaScript",Sports Team,Detail-Oriented,Solo,Economist
+172,26,Male,2.95,"Physics, Literature","Python, JavaScript",Hackathons,Detail-Oriented,Solo,Graphic Designer
+173,21,Female,2.95,"Computer Science, Literature","Writing, Public Speaking",Science Club,Introverted,Hybrid,Data Scientist
+174,18,Non-binary,3.02,"Economics, Computer Science","Machine Learning, JavaScript",Debate Club,Introverted,Hybrid,Economist
+175,28,Male,3.91,"Arts, Computer Science","Data Analysis, Writing",Theater Club,Logical,Hybrid,Doctor
+176,22,Non-binary,2.93,"Arts, Physics","Python, Data Analysis",Theater Club,Creative,Solo,Data Scientist
+177,19,Female,3.13,"Computer Science, Literature","Graphic Design, Machine Learning",Sports Team,Extroverted,Hybrid,Research Scientist
+178,25,Female,2.65,"Chemistry, Economics","Data Analysis, Machine Learning",Science Club,Introverted,Team,Research Scientist
+179,26,Non-binary,3.93,"Literature, History","Graphic Design, Lab Research",Sports Team,Creative,Solo,Data Scientist
+180,30,Female,3.77,"Chemistry, Math","Lab Research, Machine Learning",Sports Team,Introverted,Team,Doctor
+181,25,Female,3.61,"Computer Science, Economics","Machine Learning, Networking",Hackathons,Extroverted,Solo,Doctor
+182,27,Non-binary,3.28,"Computer Science, Biology","Data Analysis, Networking",Science Club,Logical,Solo,Research Scientist
+183,22,Male,3.83,"Biology, Arts","Data Analysis, Machine Learning",Science Club,Extroverted,Hybrid,Economist
+184,27,Female,3.58,"Literature, History","Data Analysis, Python",Theater Club,Detail-Oriented,Solo,Graphic Designer
+185,22,Male,2.52,"Math, Physics","Python, Networking",Robotics Club,Analytical,Hybrid,Writer
+186,26,Female,3.07,"Arts, Literature","Machine Learning, Data Analysis",Theater Club,Introverted,Team,Software Engineer
+187,27,Non-binary,3.56,"Physics, Arts","Lab Research, JavaScript",Robotics Club,Analytical,Hybrid,Doctor
+188,24,Non-binary,3.62,"Economics, Physics","Writing, Lab Research",Theater Club,Introverted,Solo,Graphic Designer
+189,30,Male,3.65,"Physics, Computer Science","JavaScript, Python",Theater Club,Creative,Team,Doctor
+190,30,Male,2.84,"Economics, Math","Graphic Design, Lab Research",Science Club,Analytical,Team,Writer
+191,19,Male,3.71,"Physics, History","Public Speaking, Lab Research",Debate Club,Detail-Oriented,Team,Research Scientist
+192,26,Non-binary,3.62,"Chemistry, Economics","Writing, Public Speaking",Debate Club,Creative,Hybrid,Network Engineer
+193,18,Non-binary,2.57,"Computer Science, Arts","Python, Data Analysis",Sports Team,Logical,Hybrid,Software Engineer
+194,28,Female,3.12,"Economics, Math","Lab Research, JavaScript",Science Club,Extroverted,Team,Software Engineer
+195,20,Non-binary,2.7,"Chemistry, Physics","Public Speaking, Python",Sports Team,Analytical,Team,Software Engineer
+196,29,Non-binary,2.52,"Chemistry, Biology","Networking, Machine Learning",Hackathons,Analytical,Solo,Doctor
+197,18,Female,3.71,"Biology, Literature","Python, Public Speaking",Hackathons,Extroverted,Hybrid,Research Scientist
+198,21,Non-binary,3.72,"History, Math","Python, Public Speaking",Debate Club,Introverted,Team,Data Scientist
+199,18,Female,2.6,"Computer Science, Economics","Lab Research, JavaScript",Sports Team,Logical,Hybrid,Network Engineer
+200,18,Female,2.61,"History, Computer Science","Writing, JavaScript",Theater Club,Analytical,Solo,Network Engineer
+201,25,Female,3.94,"Math, Arts","Machine Learning, Python",Theater Club,Creative,Hybrid,Software Engineer
+202,29,Non-binary,3.17,"Economics, Computer Science","Graphic Design, Writing",Science Club,Creative,Solo,Network Engineer
+203,26,Non-binary,3.03,"Literature, Math","Machine Learning, Graphic Design",Debate Club,Introverted,Hybrid,Doctor
+204,18,Non-binary,3.58,"Math, History","Networking, Lab Research",Robotics Club,Extroverted,Team,Research Scientist
+205,25,Non-binary,3.0,"Computer Science, Literature","Python, Graphic Design",Sports Team,Introverted,Team,Software Engineer
+206,30,Non-binary,2.76,"Physics, Chemistry","Graphic Design, Lab Research",Robotics Club,Extroverted,Team,Economist
+207,26,Non-binary,3.16,"Math, Physics","Lab Research, Python",Robotics Club,Analytical,Hybrid,Data Scientist
+208,30,Non-binary,3.85,"Arts, History","Graphic Design, Lab Research",Debate Club,Creative,Hybrid,Research Scientist
+209,24,Non-binary,3.14,"Biology, Math","Machine Learning, Data Analysis",Hackathons,Introverted,Team,Graphic Designer
+210,18,Male,3.93,"Computer Science, Math","Python, Lab Research",Debate Club,Analytical,Solo,Network Engineer
+211,29,Male,2.81,"Math, Biology","Data Analysis, Machine Learning",Debate Club,Extroverted,Solo,Network Engineer
+212,29,Non-binary,3.98,"Math, Chemistry","Lab Research, Networking",Robotics Club,Detail-Oriented,Hybrid,Economist
+213,21,Non-binary,2.94,"History, Physics","Machine Learning, Data Analysis",Debate Club,Extroverted,Solo,Data Scientist
+214,19,Non-binary,3.71,"Literature, Economics","Writing, Python",Robotics Club,Logical,Hybrid,Network Engineer
+215,18,Male,3.14,"Physics, Economics","Writing, Public Speaking",Theater Club,Introverted,Solo,Data Scientist
+216,22,Female,3.44,"Arts, Computer Science","JavaScript, Graphic Design",Theater Club,Introverted,Solo,Doctor
+217,28,Female,3.12,"Literature, Computer Science","Networking, Graphic Design",Hackathons,Logical,Team,Doctor
+218,18,Female,2.99,"Economics, Literature","Graphic Design, Data Analysis",Theater Club,Extroverted,Team,Economist
+219,19,Non-binary,3.0,"Math, Arts","JavaScript, Machine Learning",Science Club,Introverted,Solo,Writer
+220,20,Male,2.85,"Economics, Math","JavaScript, Writing",Science Club,Introverted,Hybrid,Network Engineer
+221,22,Male,2.97,"Literature, Physics","Machine Learning, Data Analysis",Robotics Club,Creative,Hybrid,Doctor
+222,24,Male,2.69,"Arts, History","JavaScript, Data Analysis",Debate Club,Detail-Oriented,Hybrid,Software Engineer
+223,20,Female,3.08,"Literature, Physics","Writing, Machine Learning",Robotics Club,Analytical,Solo,Graphic Designer
+224,23,Non-binary,3.78,"History, Economics","Graphic Design, JavaScript",Hackathons,Introverted,Hybrid,Doctor
+225,22,Female,3.56,"History, Biology","Python, Graphic Design",Robotics Club,Creative,Hybrid,Network Engineer
+226,29,Male,3.6,"Economics, Literature","Machine Learning, Networking",Robotics Club,Detail-Oriented,Team,Software Engineer
+227,23,Male,3.4,"Math, History","Networking, Public Speaking",Hackathons,Analytical,Solo,Research Scientist
+228,25,Male,2.84,"Biology, Chemistry","Data Analysis, JavaScript",Hackathons,Analytical,Solo,Doctor
+229,22,Non-binary,3.39,"Arts, History","JavaScript, Data Analysis",Sports Team,Detail-Oriented,Team,Doctor
+230,28,Male,2.59,"Chemistry, Arts","Public Speaking, Machine Learning",Sports Team,Extroverted,Team,Graphic Designer
+231,30,Female,2.74,"Arts, Chemistry","Lab Research, Public Speaking",Sports Team,Introverted,Solo,Network Engineer
+232,21,Female,3.92,"Economics, History","Data Analysis, Writing",Sports Team,Detail-Oriented,Solo,Network Engineer
+233,26,Female,2.7,"Biology, Physics","JavaScript, Graphic Design",Debate Club,Extroverted,Team,Software Engineer
+234,25,Male,2.8,"Physics, Literature","Public Speaking, JavaScript",Debate Club,Creative,Solo,Graphic Designer
+235,19,Non-binary,2.84,"Biology, Math","Writing, Machine Learning",Hackathons,Analytical,Hybrid,Doctor
+236,30,Non-binary,3.21,"Physics, Computer Science","Public Speaking, Machine Learning",Sports Team,Logical,Team,Economist
+237,29,Male,2.52,"Chemistry, Physics","Networking, Writing",Theater Club,Logical,Solo,Graphic Designer
+238,20,Non-binary,3.32,"Physics, Chemistry","Data Analysis, Writing",Sports Team,Extroverted,Hybrid,Research Scientist
+239,24,Female,3.72,"Computer Science, History","Graphic Design, Networking",Sports Team,Creative,Hybrid,Economist
+240,25,Female,3.29,"Computer Science, Physics","Public Speaking, Networking",Science Club,Analytical,Team,Research Scientist
+241,24,Male,3.39,"Biology, Math","Graphic Design, JavaScript",Theater Club,Creative,Team,Software Engineer
+242,28,Female,2.6,"Biology, Computer Science","JavaScript, Python",Debate Club,Creative,Team,Writer
+243,30,Non-binary,3.43,"Math, Biology","Graphic Design, JavaScript",Robotics Club,Analytical,Hybrid,Data Scientist
+244,30,Female,3.2,"Biology, Arts","Public Speaking, Python",Sports Team,Logical,Team,Economist
+245,19,Female,2.69,"Math, Physics","Public Speaking, Machine Learning",Hackathons,Logical,Solo,Software Engineer
+246,25,Non-binary,3.69,"Math, Biology","Writing, Graphic Design",Science Club,Logical,Team,Data Scientist
+247,23,Male,2.57,"Chemistry, Computer Science","Networking, Machine Learning",Debate Club,Analytical,Hybrid,Graphic Designer
+248,24,Male,2.71,"Math, Computer Science","JavaScript, Writing",Hackathons,Introverted,Solo,Research Scientist
+249,29,Female,2.99,"Literature, Biology","Lab Research, Networking",Science Club,Extroverted,Team,Data Scientist
+250,23,Female,3.94,"Math, Literature","Lab Research, Graphic Design",Theater Club,Creative,Solo,Writer
+251,23,Female,2.86,"Arts, Economics","JavaScript, Machine Learning",Sports Team,Logical,Hybrid,Research Scientist
+252,30,Male,3.09,"Physics, Computer Science","Machine Learning, Public Speaking",Debate Club,Analytical,Team,Research Scientist
+253,18,Female,2.79,"Economics, Arts","Machine Learning, Graphic Design",Hackathons,Extroverted,Hybrid,Graphic Designer
+254,29,Male,3.72,"Math, Literature","Python, Writing",Hackathons,Logical,Team,Research Scientist
+255,25,Male,3.88,"Arts, Literature","JavaScript, Python",Sports Team,Extroverted,Hybrid,Software Engineer
+256,21,Non-binary,3.8,"Economics, Arts","Public Speaking, Machine Learning",Science Club,Detail-Oriented,Team,Graphic Designer
+257,19,Non-binary,3.63,"Math, Arts","JavaScript, Networking",Hackathons,Detail-Oriented,Solo,Network Engineer
+258,18,Female,3.03,"Chemistry, History","Graphic Design, Public Speaking",Theater Club,Logical,Solo,Graphic Designer
+259,29,Male,3.51,"Biology, Arts","Writing, Networking",Science Club,Logical,Solo,Graphic Designer
+260,24,Male,3.43,"Chemistry, Economics","JavaScript, Networking",Debate Club,Introverted,Solo,Graphic Designer
+261,23,Non-binary,3.92,"Computer Science, Physics","Machine Learning, Python",Robotics Club,Detail-Oriented,Hybrid,Economist
+262,24,Non-binary,2.76,"Computer Science, Arts","Graphic Design, Lab Research",Hackathons,Detail-Oriented,Solo,Data Scientist
+263,21,Male,2.86,"Literature, Chemistry","Data Analysis, Graphic Design",Debate Club,Introverted,Solo,Software Engineer
+264,20,Non-binary,3.47,"History, Chemistry","Networking, Machine Learning",Debate Club,Creative,Hybrid,Writer
+265,30,Non-binary,2.52,"Chemistry, Computer Science","Lab Research, JavaScript",Robotics Club,Introverted,Hybrid,Software Engineer
+266,27,Male,2.95,"Biology, Math","Public Speaking, JavaScript",Hackathons,Logical,Team,Graphic Designer
+267,18,Male,3.35,"Economics, Computer Science","JavaScript, Machine Learning",Hackathons,Introverted,Team,Research Scientist
+268,18,Female,3.92,"Math, Arts","JavaScript, Lab Research",Science Club,Introverted,Hybrid,Software Engineer
+269,26,Female,3.4,"Arts, Math","Public Speaking, Networking",Sports Team,Introverted,Hybrid,Economist
+270,23,Female,3.26,"Computer Science, History","Graphic Design, Machine Learning",Robotics Club,Extroverted,Solo,Economist
+271,23,Female,3.02,"History, Arts","Data Analysis, Graphic Design",Sports Team,Analytical,Team,Network Engineer
+272,22,Non-binary,3.12,"Biology, Literature","Lab Research, Networking",Debate Club,Analytical,Solo,Graphic Designer
+273,20,Male,3.74,"Arts, Economics","Lab Research, Python",Science Club,Detail-Oriented,Solo,Data Scientist
+274,19,Female,2.9,"Physics, Biology","Python, Graphic Design",Theater Club,Logical,Solo,Graphic Designer
+275,18,Male,3.56,"Arts, Computer Science","Networking, Lab Research",Hackathons,Detail-Oriented,Team,Graphic Designer
+276,29,Non-binary,2.59,"Arts, Economics","Networking, Lab Research",Science Club,Logical,Team,Research Scientist
+277,25,Non-binary,2.9,"History, Arts","Lab Research, Writing",Sports Team,Detail-Oriented,Team,Network Engineer
+278,23,Female,3.07,"Chemistry, Literature","Graphic Design, Public Speaking",Hackathons,Extroverted,Solo,Economist
+279,20,Male,3.31,"Economics, History","Python, Writing",Sports Team,Extroverted,Solo,Research Scientist
+280,27,Female,3.65,"Computer Science, Literature","JavaScript, Lab Research",Sports Team,Introverted,Hybrid,Economist
+281,26,Non-binary,2.53,"Physics, Economics","Python, Graphic Design",Hackathons,Introverted,Team,Economist
+282,24,Non-binary,3.02,"Computer Science, Math","Writing, Graphic Design",Robotics Club,Creative,Team,Graphic Designer
+283,27,Non-binary,3.45,"Biology, Chemistry","Graphic Design, Writing",Debate Club,Detail-Oriented,Team,Network Engineer
+284,23,Non-binary,3.08,"Economics, Physics","Lab Research, Python",Robotics Club,Introverted,Solo,Software Engineer
+285,26,Male,3.11,"Biology, Physics","Lab Research, Networking",Debate Club,Introverted,Hybrid,Research Scientist
+286,22,Male,3.18,"Biology, Computer Science","Writing, Data Analysis",Hackathons,Detail-Oriented,Solo,Software Engineer
+287,24,Male,3.84,"Literature, History","Lab Research, Public Speaking",Sports Team,Creative,Team,Network Engineer
+288,19,Female,2.68,"Physics, Math","Networking, JavaScript",Hackathons,Logical,Solo,Data Scientist
+289,27,Male,3.75,"History, Arts","Public Speaking, Writing",Debate Club,Creative,Team,Economist
+290,26,Non-binary,2.55,"Chemistry, Arts","Lab Research, Networking",Theater Club,Introverted,Solo,Doctor
+291,19,Non-binary,2.84,"Computer Science, History","Machine Learning, Writing",Robotics Club,Extroverted,Solo,Graphic Designer
+292,25,Female,2.75,"Biology, Math","Lab Research, Public Speaking",Debate Club,Creative,Hybrid,Economist
+293,22,Male,2.73,"Math, Literature","JavaScript, Python",Science Club,Creative,Team,Data Scientist
+294,28,Non-binary,3.3,"Physics, Biology","Public Speaking, Writing",Robotics Club,Introverted,Hybrid,Economist
+295,21,Female,3.22,"Arts, Math","Graphic Design, Lab Research",Sports Team,Extroverted,Team,Software Engineer
+296,26,Non-binary,3.6,"Computer Science, Chemistry","Python, Networking",Robotics Club,Creative,Solo,Data Scientist
+297,19,Non-binary,3.45,"Literature, Math","Networking, Public Speaking",Theater Club,Extroverted,Hybrid,Graphic Designer
+298,21,Female,3.28,"Economics, History","JavaScript, Public Speaking",Sports Team,Extroverted,Solo,Research Scientist
+299,20,Female,3.08,"Physics, History","Machine Learning, Data Analysis",Robotics Club,Creative,Team,Writer
+300,18,Female,3.12,"Chemistry, History","Machine Learning, Data Analysis",Theater Club,Logical,Solo,Graphic Designer
+301,21,Non-binary,2.97,"History, Literature","Data Analysis, Graphic Design",Theater Club,Analytical,Team,Doctor
+302,28,Female,3.03,"Computer Science, Chemistry","Graphic Design, Machine Learning",Hackathons,Creative,Team,Data Scientist
+303,26,Male,3.73,"Arts, Math","Lab Research, Machine Learning",Theater Club,Introverted,Team,Doctor
+304,22,Female,2.53,"Physics, Literature","Python, Writing",Sports Team,Analytical,Solo,Network Engineer
+305,24,Male,3.4,"Literature, Computer Science","Networking, Writing",Science Club,Detail-Oriented,Hybrid,Doctor
+306,28,Female,2.92,"Literature, Arts","JavaScript, Networking",Sports Team,Extroverted,Team,Graphic Designer
+307,22,Non-binary,2.51,"Math, Literature","Machine Learning, Graphic Design",Robotics Club,Introverted,Hybrid,Software Engineer
+308,21,Female,3.03,"Biology, Computer Science","JavaScript, Python",Science Club,Introverted,Team,Doctor
+309,26,Female,3.18,"Chemistry, Biology","Data Analysis, JavaScript",Theater Club,Analytical,Hybrid,Economist
+310,29,Male,2.92,"Physics, Literature","Data Analysis, Writing",Debate Club,Extroverted,Solo,Software Engineer
+311,28,Male,2.74,"Biology, Math","Data Analysis, Writing",Sports Team,Extroverted,Hybrid,Economist
+312,29,Male,3.38,"Physics, Chemistry","Python, Writing",Hackathons,Analytical,Hybrid,Network Engineer
+313,20,Male,3.55,"Physics, Math","Machine Learning, Writing",Debate Club,Extroverted,Hybrid,Network Engineer
+314,18,Female,2.88,"Arts, Chemistry","Machine Learning, Graphic Design",Sports Team,Logical,Solo,Doctor
+315,19,Male,3.97,"Literature, Physics","Graphic Design, Networking",Hackathons,Logical,Hybrid,Graphic Designer
+316,25,Male,3.92,"History, Math","Data Analysis, Writing",Sports Team,Analytical,Solo,Network Engineer
+317,23,Non-binary,3.25,"Math, Chemistry","Lab Research, JavaScript",Robotics Club,Introverted,Team,Data Scientist
+318,29,Non-binary,3.29,"Arts, Literature","Python, Public Speaking",Theater Club,Analytical,Solo,Data Scientist
+319,23,Female,2.76,"Economics, Arts","Writing, Lab Research",Debate Club,Extroverted,Hybrid,Data Scientist
+320,28,Non-binary,3.17,"Physics, History","Writing, Graphic Design",Science Club,Analytical,Hybrid,Graphic Designer
+321,21,Female,3.83,"Economics, Arts","JavaScript, Public Speaking",Hackathons,Detail-Oriented,Hybrid,Data Scientist
+322,18,Male,3.28,"Math, Chemistry","Graphic Design, Data Analysis",Hackathons,Analytical,Solo,Doctor
+323,29,Female,3.5,"History, Economics","Machine Learning, Lab Research",Science Club,Logical,Solo,Research Scientist
+324,21,Male,2.65,"History, Physics","Networking, Data Analysis",Science Club,Extroverted,Team,Software Engineer
+325,30,Non-binary,2.78,"History, Literature","Python, Public Speaking",Theater Club,Introverted,Team,Doctor
+326,26,Non-binary,3.45,"Chemistry, Math","Machine Learning, JavaScript",Science Club,Creative,Solo,Research Scientist
+327,25,Non-binary,2.62,"Biology, Arts","Lab Research, JavaScript",Science Club,Introverted,Hybrid,Software Engineer
+328,27,Male,3.51,"Computer Science, Economics","JavaScript, Data Analysis",Robotics Club,Detail-Oriented,Solo,Doctor
+329,26,Non-binary,3.89,"History, Chemistry","Public Speaking, JavaScript",Hackathons,Analytical,Team,Network Engineer
+330,24,Male,2.56,"Economics, Arts","Data Analysis, Python",Science Club,Analytical,Solo,Doctor
+331,18,Non-binary,3.84,"Math, Computer Science","Data Analysis, Networking",Theater Club,Creative,Solo,Data Scientist
+332,28,Female,3.8,"History, Literature","Graphic Design, Lab Research",Debate Club,Logical,Team,Network Engineer
+333,26,Female,2.93,"Literature, Biology","Data Analysis, Public Speaking",Hackathons,Detail-Oriented,Solo,Doctor
+334,28,Male,2.58,"Economics, Physics","JavaScript, Lab Research",Science Club,Extroverted,Hybrid,Research Scientist
+335,26,Male,2.65,"Physics, Computer Science","Networking, Data Analysis",Hackathons,Creative,Hybrid,Writer
+336,20,Female,3.6,"Computer Science, Chemistry","Public Speaking, Lab Research",Hackathons,Detail-Oriented,Team,Software Engineer
+337,20,Non-binary,3.59,"Math, Literature","Graphic Design, Networking",Science Club,Creative,Hybrid,Data Scientist
+338,24,Female,3.35,"Economics, Physics","Machine Learning, Graphic Design",Debate Club,Analytical,Solo,Economist
+339,30,Female,3.33,"Arts, Math","Writing, Networking",Science Club,Creative,Hybrid,Writer
+340,24,Female,3.88,"Chemistry, Computer Science","Data Analysis, Machine Learning",Debate Club,Detail-Oriented,Hybrid,Doctor
+341,18,Female,3.98,"Math, Arts","Python, Data Analysis",Sports Team,Introverted,Hybrid,Economist
+342,30,Non-binary,3.07,"Chemistry, Physics","Python, Public Speaking",Debate Club,Logical,Hybrid,Research Scientist
+343,21,Non-binary,3.02,"Chemistry, Computer Science","Machine Learning, Lab Research",Sports Team,Creative,Team,Network Engineer
+344,22,Male,3.7,"Biology, Arts","Data Analysis, JavaScript",Science Club,Creative,Solo,Software Engineer
+345,22,Non-binary,3.84,"Computer Science, Chemistry","Writing, Machine Learning",Debate Club,Detail-Oriented,Solo,Data Scientist
+346,27,Male,3.22,"Arts, Chemistry","Data Analysis, JavaScript",Science Club,Detail-Oriented,Hybrid,Software Engineer
+347,27,Male,3.21,"History, Biology","Machine Learning, Public Speaking",Sports Team,Logical,Solo,Graphic Designer
+348,25,Non-binary,3.3,"Computer Science, Chemistry","Networking, Lab Research",Theater Club,Logical,Solo,Graphic Designer
+349,27,Male,2.79,"Chemistry, Arts","Writing, Graphic Design",Theater Club,Extroverted,Solo,Graphic Designer
+350,29,Non-binary,3.98,"Arts, Economics","Public Speaking, Lab Research",Debate Club,Detail-Oriented,Hybrid,Economist
+351,24,Female,3.76,"Chemistry, Arts","JavaScript, Machine Learning",Theater Club,Creative,Hybrid,Data Scientist
+352,24,Male,3.29,"Biology, Physics","Graphic Design, JavaScript",Sports Team,Creative,Solo,Research Scientist
+353,18,Female,2.78,"Chemistry, Math","Data Analysis, JavaScript",Robotics Club,Detail-Oriented,Team,Graphic Designer
+354,24,Non-binary,3.85,"Math, Physics","Machine Learning, Lab Research",Theater Club,Logical,Solo,Network Engineer
+355,21,Non-binary,2.86,"Physics, Biology","Networking, Data Analysis",Theater Club,Analytical,Team,Economist
+356,22,Male,3.81,"Economics, Arts","Machine Learning, JavaScript",Sports Team,Logical,Hybrid,Data Scientist
+357,21,Female,3.69,"Literature, Physics","Lab Research, Data Analysis",Debate Club,Analytical,Team,Data Scientist
+358,26,Female,2.58,"Arts, History","Graphic Design, Writing",Debate Club,Logical,Solo,Network Engineer
+359,23,Female,3.64,"Chemistry, Arts","Machine Learning, Writing",Science Club,Analytical,Hybrid,Writer
+360,30,Non-binary,2.66,"Computer Science, Physics","Public Speaking, Data Analysis",Hackathons,Extroverted,Team,Software Engineer
+361,29,Female,3.66,"Chemistry, Physics","Graphic Design, Lab Research",Theater Club,Logical,Hybrid,Network Engineer
+362,24,Female,3.31,"Economics, Biology","Writing, Graphic Design",Robotics Club,Detail-Oriented,Hybrid,Research Scientist
+363,22,Non-binary,3.57,"Computer Science, Biology","Writing, Public Speaking",Robotics Club,Detail-Oriented,Solo,Economist
+364,27,Male,3.84,"Arts, Computer Science","Graphic Design, Networking",Debate Club,Logical,Hybrid,Writer
+365,23,Female,2.6,"Literature, Biology","Data Analysis, Networking",Debate Club,Creative,Solo,Network Engineer
+366,28,Non-binary,3.37,"Literature, Physics","Machine Learning, JavaScript",Science Club,Introverted,Hybrid,Network Engineer
+367,27,Male,2.94,"Computer Science, Biology","Data Analysis, Machine Learning",Theater Club,Extroverted,Hybrid,Research Scientist
+368,27,Non-binary,3.06,"Biology, Math","Networking, JavaScript",Hackathons,Detail-Oriented,Solo,Economist
+369,18,Female,3.42,"History, Math","Lab Research, Machine Learning",Debate Club,Introverted,Team,Graphic Designer
+370,28,Male,3.43,"Computer Science, Math","JavaScript, Public Speaking",Sports Team,Analytical,Team,Research Scientist
+371,28,Female,3.64,"Biology, Computer Science","Machine Learning, JavaScript",Theater Club,Logical,Team,Software Engineer
+372,19,Non-binary,3.26,"Arts, Computer Science","Machine Learning, Public Speaking",Robotics Club,Logical,Solo,Data Scientist
+373,20,Female,2.91,"Biology, History","Data Analysis, Public Speaking",Sports Team,Analytical,Solo,Writer
+374,27,Female,3.35,"Economics, Biology","Data Analysis, Writing",Science Club,Logical,Team,Network Engineer
+375,29,Male,3.57,"Economics, Literature","Writing, Lab Research",Theater Club,Extroverted,Team,Research Scientist
+376,21,Female,3.62,"Arts, Literature","Public Speaking, Writing",Science Club,Introverted,Hybrid,Data Scientist
+377,28,Female,3.51,"Arts, Computer Science","JavaScript, Machine Learning",Robotics Club,Analytical,Hybrid,Data Scientist
+378,23,Non-binary,3.59,"Math, History","Data Analysis, Public Speaking",Hackathons,Introverted,Team,Software Engineer
+379,25,Female,2.86,"Math, Arts","Networking, JavaScript",Hackathons,Introverted,Hybrid,Data Scientist
+380,22,Female,3.64,"Literature, Physics","Graphic Design, Machine Learning",Debate Club,Detail-Oriented,Team,Graphic Designer
+381,25,Non-binary,3.17,"Biology, Physics","JavaScript, Public Speaking",Hackathons,Analytical,Team,Doctor
+382,18,Female,3.35,"History, Literature","Public Speaking, Graphic Design",Science Club,Creative,Team,Economist
+383,24,Female,2.65,"History, Literature","Machine Learning, JavaScript",Debate Club,Detail-Oriented,Hybrid,Research Scientist
+384,18,Female,3.65,"Computer Science, Biology","Python, Public Speaking",Theater Club,Detail-Oriented,Team,Software Engineer
+385,25,Non-binary,2.78,"Economics, Chemistry","Machine Learning, Lab Research",Debate Club,Creative,Hybrid,Data Scientist
+386,30,Male,3.08,"Computer Science, Biology","Lab Research, Writing",Sports Team,Logical,Team,Data Scientist
+387,25,Male,3.05,"Physics, Math","JavaScript, Networking",Robotics Club,Logical,Hybrid,Graphic Designer
+388,29,Non-binary,3.25,"Chemistry, Economics","Lab Research, Networking",Robotics Club,Analytical,Team,Doctor
+389,25,Male,2.9,"Math, Literature","Python, Data Analysis",Hackathons,Introverted,Hybrid,Graphic Designer
+390,19,Female,2.77,"Literature, Biology","Python, JavaScript",Theater Club,Introverted,Team,Software Engineer
+391,29,Male,3.75,"Arts, Computer Science","Data Analysis, Writing",Robotics Club,Detail-Oriented,Solo,Graphic Designer
+392,23,Non-binary,3.91,"Economics, Literature","Public Speaking, Data Analysis",Hackathons,Detail-Oriented,Hybrid,Data Scientist
+393,23,Non-binary,3.23,"Physics, History","Networking, Lab Research",Robotics Club,Extroverted,Hybrid,Research Scientist
+394,22,Female,3.48,"Biology, Chemistry","Graphic Design, Lab Research",Debate Club,Logical,Hybrid,Writer
+395,27,Female,3.5,"Computer Science, Physics","Public Speaking, Data Analysis",Debate Club,Logical,Solo,Network Engineer
+396,29,Female,2.98,"History, Chemistry","Data Analysis, Writing",Science Club,Extroverted,Hybrid,Writer
+397,25,Male,2.63,"Literature, Chemistry","JavaScript, Machine Learning",Sports Team,Detail-Oriented,Solo,Doctor
+398,18,Non-binary,2.94,"Physics, Economics","Networking, Writing",Sports Team,Detail-Oriented,Hybrid,Software Engineer
+399,30,Female,2.89,"Math, Economics","Python, JavaScript",Science Club,Logical,Solo,Graphic Designer
+400,26,Male,3.42,"Arts, Biology","Graphic Design, Networking",Theater Club,Analytical,Solo,Doctor
+401,25,Male,3.91,"Biology, Physics","Graphic Design, Lab Research",Sports Team,Logical,Hybrid,Doctor
+402,29,Female,3.33,"Chemistry, Literature","Lab Research, Python",Theater Club,Extroverted,Hybrid,Research Scientist
+403,18,Female,2.89,"Computer Science, Arts","JavaScript, Python",Robotics Club,Creative,Solo,Graphic Designer
+404,25,Non-binary,3.08,"History, Economics","Writing, Machine Learning",Theater Club,Logical,Hybrid,Graphic Designer
+405,21,Male,3.65,"Chemistry, Economics","Networking, Public Speaking",Hackathons,Analytical,Team,Network Engineer
+406,28,Non-binary,3.87,"Chemistry, History","Data Analysis, Machine Learning",Theater Club,Analytical,Hybrid,Writer
+407,20,Male,3.03,"Economics, Chemistry","JavaScript, Writing",Robotics Club,Detail-Oriented,Hybrid,Research Scientist
+408,27,Male,3.64,"Biology, Economics","Public Speaking, Lab Research",Robotics Club,Detail-Oriented,Team,Network Engineer
+409,25,Male,2.6,"History, Arts","Writing, Networking",Robotics Club,Logical,Solo,Doctor
+410,18,Non-binary,2.5,"Computer Science, Chemistry","Graphic Design, Networking",Hackathons,Analytical,Hybrid,Writer
+411,23,Male,2.62,"Literature, Chemistry","Public Speaking, Python",Robotics Club,Extroverted,Hybrid,Writer
+412,23,Non-binary,3.07,"Physics, History","Machine Learning, Lab Research",Science Club,Analytical,Team,Doctor
+413,29,Non-binary,2.91,"Computer Science, Chemistry","Lab Research, Graphic Design",Hackathons,Logical,Hybrid,Research Scientist
+414,27,Male,3.76,"Literature, Physics","Networking, Python",Debate Club,Introverted,Hybrid,Data Scientist
+415,20,Non-binary,3.37,"History, Chemistry","JavaScript, Python",Sports Team,Introverted,Hybrid,Network Engineer
+416,26,Non-binary,3.16,"Math, History","Data Analysis, Public Speaking",Sports Team,Extroverted,Team,Data Scientist
+417,20,Non-binary,3.17,"Biology, Computer Science","Python, Public Speaking",Hackathons,Logical,Team,Data Scientist
+418,25,Female,2.74,"Chemistry, Economics","Python, Lab Research",Theater Club,Analytical,Hybrid,Graphic Designer
+419,20,Non-binary,3.63,"Economics, Literature","Python, Lab Research",Sports Team,Detail-Oriented,Hybrid,Data Scientist
+420,18,Male,2.7,"Chemistry, Literature","Data Analysis, Public Speaking",Science Club,Detail-Oriented,Team,Doctor
+421,26,Female,2.66,"Biology, Chemistry","JavaScript, Public Speaking",Robotics Club,Creative,Team,Graphic Designer
+422,28,Non-binary,3.85,"Physics, Computer Science","Graphic Design, Machine Learning",Theater Club,Introverted,Solo,Data Scientist
+423,25,Non-binary,3.08,"History, Physics","JavaScript, Writing",Theater Club,Creative,Team,Economist
+424,21,Non-binary,2.68,"History, Arts","Lab Research, Python",Robotics Club,Extroverted,Team,Research Scientist
+425,30,Female,3.49,"Literature, History","Python, Graphic Design",Hackathons,Extroverted,Hybrid,Network Engineer
+426,18,Male,3.47,"History, Economics","Graphic Design, Data Analysis",Science Club,Creative,Team,Data Scientist
+427,20,Male,3.31,"Math, Literature","Python, Data Analysis",Debate Club,Creative,Hybrid,Software Engineer
+428,27,Female,3.18,"Computer Science, History","JavaScript, Graphic Design",Debate Club,Creative,Solo,Data Scientist
+429,29,Non-binary,3.95,"Economics, Arts","Networking, Machine Learning",Science Club,Analytical,Hybrid,Data Scientist
+430,25,Male,3.82,"Physics, Chemistry","Networking, JavaScript",Sports Team,Detail-Oriented,Hybrid,Writer
+431,30,Female,3.11,"Biology, Math","Lab Research, Python",Sports Team,Introverted,Team,Economist
+432,24,Female,2.72,"Biology, Literature","Public Speaking, Graphic Design",Hackathons,Logical,Hybrid,Research Scientist
+433,20,Male,3.04,"Math, Chemistry","Data Analysis, Writing",Debate Club,Introverted,Solo,Research Scientist
+434,23,Male,3.0,"Chemistry, Economics","JavaScript, Lab Research",Debate Club,Creative,Solo,Research Scientist
+435,19,Non-binary,3.82,"Literature, Economics","Public Speaking, JavaScript",Hackathons,Extroverted,Solo,Writer
+436,30,Female,3.57,"Arts, Math","JavaScript, Python",Robotics Club,Logical,Solo,Software Engineer
+437,25,Female,3.27,"Computer Science, Math","Writing, Python",Hackathons,Extroverted,Solo,Doctor
+438,25,Male,2.5,"Biology, Literature","JavaScript, Lab Research",Science Club,Analytical,Solo,Graphic Designer
+439,25,Male,3.69,"Computer Science, Biology","JavaScript, Data Analysis",Science Club,Logical,Team,Software Engineer
+440,19,Male,3.91,"Literature, Math","Public Speaking, Lab Research",Science Club,Detail-Oriented,Hybrid,Graphic Designer
+441,21,Male,3.43,"Math, History","Python, Graphic Design",Robotics Club,Logical,Team,Data Scientist
+442,27,Male,3.05,"Math, Chemistry","JavaScript, Machine Learning",Theater Club,Extroverted,Solo,Writer
+443,21,Male,3.44,"History, Arts","Graphic Design, Python",Sports Team,Detail-Oriented,Team,Doctor
+444,23,Female,3.47,"Chemistry, Computer Science","Lab Research, Graphic Design",Debate Club,Logical,Solo,Data Scientist
+445,29,Non-binary,3.76,"Chemistry, Biology","Writing, Python",Debate Club,Extroverted,Team,Software Engineer
+446,25,Non-binary,3.08,"Biology, Literature","Public Speaking, Writing",Hackathons,Creative,Hybrid,Network Engineer
+447,24,Female,3.61,"Biology, Chemistry","Public Speaking, Networking",Robotics Club,Introverted,Solo,Economist
+448,22,Male,3.24,"Math, Biology","Data Analysis, Writing",Sports Team,Logical,Solo,Data Scientist
+449,20,Non-binary,2.84,"Arts, Literature","JavaScript, Python",Theater Club,Extroverted,Team,Data Scientist
+450,26,Female,3.19,"Math, History","Public Speaking, JavaScript",Sports Team,Logical,Hybrid,Writer
+451,19,Female,3.59,"Arts, Math","Networking, Writing",Robotics Club,Logical,Team,Software Engineer
+452,25,Female,3.32,"History, Arts","Data Analysis, Writing",Robotics Club,Logical,Solo,Network Engineer
+453,30,Female,3.4,"Biology, Chemistry","Networking, Data Analysis",Theater Club,Creative,Solo,Economist
+454,27,Female,2.77,"Computer Science, Physics","Writing, Lab Research",Science Club,Introverted,Hybrid,Doctor
+455,24,Non-binary,2.67,"History, Computer Science","Networking, Public Speaking",Hackathons,Analytical,Hybrid,Software Engineer
+456,27,Female,3.16,"Physics, Computer Science","Data Analysis, Public Speaking",Sports Team,Logical,Team,Economist
+457,23,Female,3.63,"Literature, Economics","Networking, Writing",Science Club,Extroverted,Team,Graphic Designer
+458,23,Non-binary,3.79,"History, Literature","Lab Research, Networking",Debate Club,Creative,Hybrid,Data Scientist
+459,28,Male,2.7,"Economics, Arts","Graphic Design, Writing",Debate Club,Introverted,Solo,Data Scientist
+460,18,Male,3.58,"Chemistry, Arts","Public Speaking, Python",Theater Club,Creative,Team,Research Scientist
+461,24,Female,2.95,"Physics, Chemistry","Python, Graphic Design",Science Club,Detail-Oriented,Solo,Network Engineer
+462,21,Male,3.03,"Chemistry, Computer Science","Lab Research, Data Analysis",Sports Team,Logical,Solo,Network Engineer
+463,19,Male,3.67,"Math, Computer Science","Machine Learning, Python",Sports Team,Logical,Team,Doctor
+464,30,Non-binary,2.76,"Arts, History","Networking, JavaScript",Science Club,Introverted,Hybrid,Doctor
+465,19,Male,3.72,"Chemistry, Biology","Networking, Graphic Design",Robotics Club,Analytical,Hybrid,Writer
+466,27,Female,3.16,"Math, Literature","Lab Research, Networking",Debate Club,Detail-Oriented,Team,Data Scientist
+467,26,Non-binary,3.11,"Literature, Biology","Machine Learning, Lab Research",Debate Club,Creative,Hybrid,Graphic Designer
+468,19,Female,2.82,"Math, Literature","Machine Learning, Graphic Design",Science Club,Detail-Oriented,Team,Writer
+469,28,Male,2.87,"Physics, Chemistry","Networking, Data Analysis",Hackathons,Analytical,Solo,Graphic Designer
+470,29,Female,2.61,"Math, Arts","Graphic Design, Python",Science Club,Introverted,Team,Data Scientist
+471,24,Non-binary,3.03,"Biology, Economics","Networking, Writing",Debate Club,Extroverted,Solo,Writer
+472,19,Female,3.28,"Physics, Chemistry","Graphic Design, Data Analysis",Theater Club,Detail-Oriented,Solo,Graphic Designer
+473,29,Male,3.05,"History, Economics","Graphic Design, Lab Research",Science Club,Introverted,Solo,Network Engineer
+474,30,Female,2.85,"Computer Science, Economics","Graphic Design, JavaScript",Sports Team,Creative,Team,Research Scientist
+475,18,Non-binary,3.94,"Biology, Literature","Public Speaking, Networking",Sports Team,Introverted,Hybrid,Graphic Designer
+476,27,Female,3.92,"Math, Physics","Graphic Design, Public Speaking",Robotics Club,Introverted,Team,Graphic Designer
+477,26,Male,2.82,"Computer Science, Chemistry","Public Speaking, Data Analysis",Debate Club,Analytical,Team,Economist
+478,23,Non-binary,3.36,"Literature, Chemistry","Lab Research, JavaScript",Robotics Club,Detail-Oriented,Solo,Network Engineer
+479,21,Male,3.85,"Chemistry, Economics","Networking, Machine Learning",Science Club,Analytical,Solo,Economist
+480,28,Non-binary,2.59,"Computer Science, Arts","Data Analysis, Graphic Design",Theater Club,Introverted,Hybrid,Data Scientist
+481,20,Non-binary,3.11,"Physics, Math","Public Speaking, Writing",Theater Club,Detail-Oriented,Hybrid,Economist
+482,22,Female,2.62,"Math, Biology","Graphic Design, Machine Learning",Science Club,Analytical,Team,Economist
+483,22,Female,3.89,"History, Literature","JavaScript, Writing",Sports Team,Introverted,Hybrid,Economist
+484,19,Female,3.06,"Economics, Math","Machine Learning, Public Speaking",Robotics Club,Extroverted,Team,Writer
+485,27,Female,3.31,"Chemistry, Economics","Writing, Data Analysis",Robotics Club,Introverted,Hybrid,Doctor
+486,28,Male,2.92,"Math, Literature","Data Analysis, Python",Debate Club,Creative,Team,Graphic Designer
+487,24,Non-binary,3.11,"Literature, Physics","Machine Learning, Graphic Design",Sports Team,Analytical,Hybrid,Research Scientist
+488,27,Female,3.34,"Literature, Physics","Writing, Graphic Design",Sports Team,Extroverted,Solo,Software Engineer
+489,18,Male,3.22,"Math, Biology","Public Speaking, Networking",Science Club,Introverted,Team,Research Scientist
+490,21,Female,3.1,"Arts, Physics","Data Analysis, Lab Research",Sports Team,Logical,Hybrid,Economist
+491,27,Female,3.39,"Economics, Literature","Public Speaking, JavaScript",Theater Club,Logical,Hybrid,Economist
+492,19,Non-binary,3.62,"Computer Science, Literature","Lab Research, Data Analysis",Sports Team,Creative,Solo,Research Scientist
+493,28,Male,3.03,"Physics, Computer Science","Networking, Graphic Design",Debate Club,Analytical,Team,Data Scientist
+494,26,Male,2.85,"Math, History","Machine Learning, JavaScript",Robotics Club,Logical,Solo,Network Engineer
+495,18,Non-binary,3.67,"Literature, Computer Science","Machine Learning, Python",Robotics Club,Introverted,Team,Doctor
+496,23,Non-binary,3.52,"Arts, Biology","Data Analysis, JavaScript",Robotics Club,Extroverted,Team,Economist
+497,28,Non-binary,2.63,"Chemistry, Math","Graphic Design, Networking",Debate Club,Introverted,Team,Research Scientist
+498,25,Female,3.87,"Literature, History","Lab Research, Public Speaking",Hackathons,Extroverted,Solo,Data Scientist
+499,26,Non-binary,2.54,"Computer Science, Biology","Public Speaking, Lab Research",Science Club,Extroverted,Team,Software Engineer
+500,30,Non-binary,3.18,"Math, Physics","Writing, JavaScript",Hackathons,Analytical,Solo,Graphic Designer
+501,26,Female,2.98,"Arts, Economics","Machine Learning, Graphic Design",Hackathons,Creative,Solo,Software Engineer
+502,18,Female,2.71,"Physics, Economics","Python, JavaScript",Sports Team,Analytical,Solo,Writer
+503,23,Non-binary,3.38,"History, Arts","Public Speaking, Machine Learning",Theater Club,Analytical,Solo,Economist
+504,24,Female,3.78,"Physics, History","Graphic Design, Machine Learning",Robotics Club,Logical,Hybrid,Network Engineer
+505,27,Male,3.4,"Math, Biology","JavaScript, Python",Sports Team,Analytical,Solo,Data Scientist
+506,26,Female,3.68,"Arts, Computer Science","Data Analysis, Python",Sports Team,Analytical,Team,Research Scientist
+507,19,Male,3.61,"Arts, Biology","Data Analysis, Python",Theater Club,Introverted,Team,Network Engineer
+508,18,Non-binary,3.01,"Chemistry, Literature","Public Speaking, Python",Theater Club,Detail-Oriented,Team,Graphic Designer
+509,28,Male,2.8,"Literature, History","Writing, Python",Theater Club,Introverted,Solo,Graphic Designer
+510,29,Non-binary,3.47,"Computer Science, Math","Public Speaking, Python",Debate Club,Analytical,Hybrid,Graphic Designer
+511,19,Non-binary,2.93,"Math, Arts","Python, Data Analysis",Debate Club,Introverted,Team,Research Scientist
+512,19,Female,2.84,"Computer Science, Biology","JavaScript, Writing",Hackathons,Logical,Team,Data Scientist
+513,19,Female,3.74,"Biology, Arts","Writing, Data Analysis",Hackathons,Introverted,Hybrid,Writer
+514,22,Non-binary,3.92,"Math, Economics","Machine Learning, Lab Research",Hackathons,Extroverted,Team,Graphic Designer
+515,30,Male,3.16,"Chemistry, Biology","Lab Research, JavaScript",Science Club,Extroverted,Hybrid,Graphic Designer
+516,25,Male,2.67,"Arts, Chemistry","Public Speaking, Writing",Theater Club,Analytical,Hybrid,Economist
+517,25,Non-binary,3.87,"Arts, Physics","Python, Data Analysis",Robotics Club,Introverted,Solo,Writer
+518,29,Non-binary,3.13,"Computer Science, Literature","Graphic Design, Data Analysis",Robotics Club,Detail-Oriented,Solo,Doctor
+519,22,Non-binary,3.53,"Arts, Economics","Machine Learning, Graphic Design",Hackathons,Creative,Solo,Software Engineer
+520,24,Non-binary,2.75,"Physics, History","Python, Graphic Design",Theater Club,Detail-Oriented,Hybrid,Software Engineer
+521,29,Female,3.0,"Arts, Math","Writing, Machine Learning",Robotics Club,Extroverted,Team,Software Engineer
+522,26,Female,3.5,"Physics, Arts","Writing, Lab Research",Science Club,Creative,Solo,Network Engineer
+523,20,Female,3.73,"Computer Science, Arts","Networking, Machine Learning",Theater Club,Detail-Oriented,Hybrid,Network Engineer
+524,28,Male,3.01,"Physics, Math","Python, Networking",Science Club,Extroverted,Hybrid,Doctor
+525,21,Female,2.74,"Biology, History","Python, Graphic Design",Hackathons,Logical,Team,Network Engineer
+526,30,Non-binary,2.83,"Physics, Biology","Networking, Machine Learning",Sports Team,Analytical,Solo,Economist
+527,29,Female,2.85,"Chemistry, Economics","Public Speaking, Machine Learning",Theater Club,Creative,Team,Network Engineer
+528,20,Male,4.0,"Physics, Biology","Machine Learning, Writing",Debate Club,Analytical,Solo,Writer
+529,24,Non-binary,3.76,"Physics, Biology","Lab Research, Data Analysis",Debate Club,Introverted,Solo,Writer
+530,24,Non-binary,3.23,"Physics, Economics","Machine Learning, Python",Robotics Club,Introverted,Team,Software Engineer
+531,18,Non-binary,3.04,"Computer Science, Literature","Networking, Data Analysis",Debate Club,Introverted,Hybrid,Research Scientist
+532,18,Non-binary,3.49,"Biology, Computer Science","Graphic Design, Public Speaking",Robotics Club,Extroverted,Hybrid,Economist
+533,30,Male,3.45,"Economics, Biology","Python, Graphic Design",Science Club,Detail-Oriented,Hybrid,Software Engineer
+534,19,Female,3.56,"Chemistry, Computer Science","Graphic Design, Data Analysis",Sports Team,Logical,Team,Graphic Designer
+535,26,Female,3.96,"History, Chemistry","Lab Research, Machine Learning",Sports Team,Creative,Team,Economist
+536,27,Male,2.78,"Biology, Arts","Public Speaking, Lab Research",Debate Club,Detail-Oriented,Solo,Software Engineer
+537,26,Male,3.3,"Economics, Math","Data Analysis, Networking",Debate Club,Logical,Team,Writer
+538,28,Male,2.61,"Biology, Computer Science","Writing, Machine Learning",Robotics Club,Analytical,Hybrid,Software Engineer
+539,22,Male,3.03,"Literature, Computer Science","Public Speaking, Machine Learning",Science Club,Detail-Oriented,Hybrid,Research Scientist
+540,22,Female,3.58,"Math, Physics","Python, Writing",Sports Team,Logical,Team,Graphic Designer
+541,21,Male,2.86,"Economics, Arts","Public Speaking, Lab Research",Robotics Club,Logical,Hybrid,Network Engineer
+542,22,Male,3.85,"History, Literature","Machine Learning, Data Analysis",Sports Team,Analytical,Hybrid,Software Engineer
+543,22,Non-binary,3.67,"Biology, History","Networking, Data Analysis",Science Club,Logical,Hybrid,Doctor
+544,27,Female,3.67,"Math, Literature","JavaScript, Networking",Debate Club,Logical,Hybrid,Doctor
+545,21,Female,3.26,"Biology, Math","JavaScript, Networking",Robotics Club,Analytical,Hybrid,Graphic Designer
+546,29,Male,3.08,"Chemistry, History","Lab Research, Data Analysis",Theater Club,Analytical,Team,Software Engineer
+547,20,Non-binary,3.33,"Physics, History","Graphic Design, Python",Hackathons,Logical,Team,Research Scientist
+548,19,Non-binary,3.6,"Arts, Computer Science","Data Analysis, Python",Theater Club,Logical,Solo,Research Scientist
+549,21,Male,3.69,"Chemistry, Physics","Machine Learning, Graphic Design",Hackathons,Introverted,Team,Software Engineer
+550,22,Male,3.52,"Physics, Computer Science","Python, Public Speaking",Robotics Club,Detail-Oriented,Solo,Research Scientist
+551,29,Non-binary,3.46,"Economics, Biology","Networking, JavaScript",Hackathons,Creative,Solo,Doctor
+552,29,Non-binary,3.05,"Computer Science, Physics","Lab Research, Graphic Design",Sports Team,Extroverted,Team,Writer
+553,21,Female,3.76,"Physics, Economics","Python, Writing",Sports Team,Creative,Hybrid,Software Engineer
+554,20,Non-binary,2.96,"Biology, History","JavaScript, Python",Debate Club,Detail-Oriented,Team,Software Engineer
+555,18,Male,3.48,"Economics, Arts","Public Speaking, Networking",Theater Club,Analytical,Team,Software Engineer
+556,24,Female,3.05,"Math, Literature","Writing, Networking",Debate Club,Extroverted,Solo,Research Scientist
+557,25,Female,2.69,"Computer Science, Literature","Graphic Design, JavaScript",Debate Club,Creative,Hybrid,Software Engineer
+558,20,Non-binary,2.92,"Biology, Literature","Machine Learning, Data Analysis",Science Club,Detail-Oriented,Hybrid,Economist
+559,20,Non-binary,2.8,"Arts, Math","Networking, Writing",Theater Club,Detail-Oriented,Hybrid,Software Engineer
+560,29,Female,3.94,"Physics, Biology","Data Analysis, JavaScript",Theater Club,Detail-Oriented,Hybrid,Economist
+561,29,Female,2.81,"Arts, Chemistry","Data Analysis, Python",Science Club,Detail-Oriented,Hybrid,Writer
+562,21,Female,3.25,"Literature, Chemistry","Machine Learning, JavaScript",Theater Club,Extroverted,Team,Software Engineer
+563,21,Male,3.74,"Biology, Math","JavaScript, Machine Learning",Hackathons,Analytical,Team,Data Scientist
+564,25,Female,2.84,"History, Economics","Public Speaking, Lab Research",Debate Club,Creative,Solo,Software Engineer
+565,22,Non-binary,2.65,"Economics, Chemistry","Machine Learning, Networking",Hackathons,Detail-Oriented,Team,Economist
+566,23,Non-binary,3.06,"History, Math","Graphic Design, JavaScript",Hackathons,Detail-Oriented,Hybrid,Graphic Designer
+567,20,Male,3.46,"Biology, Literature","Machine Learning, Public Speaking",Science Club,Logical,Team,Economist
+568,22,Male,3.47,"Biology, Chemistry","Machine Learning, Graphic Design",Science Club,Logical,Hybrid,Writer
+569,22,Female,2.65,"Computer Science, Chemistry","Graphic Design, Machine Learning",Science Club,Introverted,Hybrid,Writer
+570,21,Female,2.61,"Literature, Physics","Python, Networking",Science Club,Extroverted,Solo,Graphic Designer
+571,21,Male,2.51,"Biology, Math","Data Analysis, JavaScript",Robotics Club,Analytical,Team,Data Scientist
+572,26,Female,2.85,"History, Economics","Python, JavaScript",Sports Team,Introverted,Hybrid,Research Scientist
+573,18,Male,3.82,"Arts, Biology","Networking, Data Analysis",Debate Club,Creative,Hybrid,Writer
+574,18,Female,3.96,"Literature, Physics","Python, Graphic Design",Debate Club,Creative,Solo,Doctor
+575,22,Non-binary,2.54,"Math, Arts","Writing, Public Speaking",Theater Club,Detail-Oriented,Hybrid,Graphic Designer
+576,30,Male,2.97,"Chemistry, History","JavaScript, Writing",Science Club,Detail-Oriented,Hybrid,Network Engineer
+577,25,Non-binary,2.64,"Literature, History","JavaScript, Data Analysis",Sports Team,Creative,Solo,Research Scientist
+578,29,Male,3.37,"Physics, Chemistry","Writing, JavaScript",Sports Team,Extroverted,Hybrid,Data Scientist
+579,23,Non-binary,3.73,"Physics, Computer Science","Machine Learning, Public Speaking",Theater Club,Introverted,Solo,Writer
+580,20,Female,2.54,"Math, Literature","JavaScript, Machine Learning",Robotics Club,Logical,Hybrid,Graphic Designer
+581,18,Non-binary,2.57,"Computer Science, Physics","Lab Research, Networking",Debate Club,Detail-Oriented,Team,Writer
+582,30,Non-binary,2.69,"Computer Science, Math","Machine Learning, Python",Hackathons,Extroverted,Team,Research Scientist
+583,24,Non-binary,3.26,"Math, Chemistry","Machine Learning, JavaScript",Sports Team,Creative,Solo,Graphic Designer
+584,24,Male,3.92,"History, Economics","JavaScript, Graphic Design",Science Club,Introverted,Team,Doctor
+585,30,Female,3.68,"Arts, Economics","Public Speaking, Python",Theater Club,Creative,Team,Graphic Designer
+586,24,Non-binary,3.53,"Literature, Economics","Lab Research, Data Analysis",Science Club,Analytical,Solo,Doctor
+587,24,Male,3.05,"Physics, Biology","Lab Research, JavaScript",Debate Club,Logical,Team,Research Scientist
+588,26,Male,3.79,"Physics, Economics","JavaScript, Public Speaking",Debate Club,Analytical,Team,Research Scientist
+589,22,Non-binary,3.41,"Economics, Physics","Writing, JavaScript",Sports Team,Logical,Team,Doctor
+590,26,Female,2.67,"Physics, Chemistry","Public Speaking, Graphic Design",Sports Team,Extroverted,Team,Doctor
+591,27,Female,2.84,"Literature, Computer Science","Lab Research, Machine Learning",Hackathons,Analytical,Solo,Data Scientist
+592,28,Non-binary,3.48,"History, Math","Lab Research, Python",Debate Club,Creative,Solo,Software Engineer
+593,22,Non-binary,2.6,"Math, Chemistry","Python, Data Analysis",Science Club,Detail-Oriented,Hybrid,Doctor
+594,25,Non-binary,3.42,"Physics, Arts","Lab Research, Public Speaking",Hackathons,Detail-Oriented,Solo,Writer
+595,28,Male,3.99,"Math, Literature","Graphic Design, Networking",Robotics Club,Detail-Oriented,Hybrid,Graphic Designer
+596,20,Female,3.77,"Physics, Literature","Machine Learning, Python",Hackathons,Creative,Team,Doctor
+597,20,Non-binary,2.84,"Computer Science, Math","Data Analysis, Writing",Science Club,Detail-Oriented,Team,Economist
+598,28,Non-binary,3.17,"Literature, Biology","Writing, JavaScript",Sports Team,Creative,Hybrid,Economist
+599,25,Male,3.02,"Computer Science, Chemistry","Writing, Graphic Design",Theater Club,Detail-Oriented,Solo,Network Engineer
+600,19,Female,3.39,"Literature, Biology","Python, Lab Research",Robotics Club,Logical,Team,Data Scientist
+601,21,Non-binary,3.81,"Physics, Biology","JavaScript, Data Analysis",Theater Club,Creative,Solo,Doctor
+602,18,Non-binary,3.69,"Physics, Literature","Machine Learning, Python",Science Club,Detail-Oriented,Hybrid,Economist
+603,18,Male,3.94,"Math, Physics","Networking, Graphic Design",Science Club,Analytical,Solo,Software Engineer
+604,20,Male,3.59,"Math, Biology","Networking, Writing",Sports Team,Analytical,Team,Economist
+605,21,Female,3.48,"Arts, Economics","Data Analysis, Writing",Science Club,Analytical,Solo,Economist
+606,27,Non-binary,3.18,"Arts, Economics","Lab Research, Writing",Debate Club,Logical,Hybrid,Software Engineer
+607,18,Non-binary,3.37,"Computer Science, Arts","Python, JavaScript",Hackathons,Detail-Oriented,Solo,Writer
+608,22,Male,3.5,"History, Math","JavaScript, Writing",Science Club,Analytical,Solo,Network Engineer
+609,28,Non-binary,3.16,"Chemistry, Computer Science","Graphic Design, JavaScript",Hackathons,Logical,Solo,Graphic Designer
+610,20,Male,2.97,"Arts, Literature","Writing, JavaScript",Sports Team,Extroverted,Solo,Data Scientist
+611,28,Male,3.73,"Math, Literature","Networking, JavaScript",Hackathons,Analytical,Team,Doctor
+612,25,Female,3.48,"Math, Economics","Public Speaking, JavaScript",Debate Club,Analytical,Hybrid,Graphic Designer
+613,30,Non-binary,3.92,"Math, Physics","Data Analysis, Writing",Hackathons,Detail-Oriented,Solo,Data Scientist
+614,29,Non-binary,2.59,"Biology, Literature","Machine Learning, Lab Research",Hackathons,Creative,Hybrid,Network Engineer
+615,19,Female,2.66,"History, Economics","Machine Learning, Writing",Theater Club,Introverted,Solo,Doctor
+616,20,Female,3.58,"Arts, Chemistry","Python, Public Speaking",Sports Team,Introverted,Solo,Doctor
+617,28,Female,3.47,"Math, Chemistry","Lab Research, Public Speaking",Robotics Club,Analytical,Hybrid,Writer
+618,30,Female,3.29,"Literature, Economics","Writing, JavaScript",Science Club,Extroverted,Hybrid,Economist
+619,27,Female,2.91,"Arts, Economics","Lab Research, Public Speaking",Theater Club,Extroverted,Team,Data Scientist
+620,26,Male,3.04,"Computer Science, Literature","Data Analysis, Python",Science Club,Detail-Oriented,Team,Graphic Designer
+621,20,Female,2.79,"History, Economics","Python, JavaScript",Hackathons,Extroverted,Hybrid,Doctor
+622,27,Male,3.48,"Economics, Chemistry","Networking, Python",Theater Club,Logical,Hybrid,Network Engineer
+623,29,Non-binary,3.4,"Math, Economics","Lab Research, Networking",Hackathons,Logical,Solo,Research Scientist
+624,25,Male,3.21,"Math, Biology","Public Speaking, Graphic Design",Science Club,Creative,Solo,Research Scientist
+625,20,Non-binary,2.65,"Biology, Economics","Writing, JavaScript",Debate Club,Introverted,Team,Research Scientist
+626,19,Female,2.92,"Chemistry, Arts","Python, Machine Learning",Robotics Club,Creative,Team,Data Scientist
+627,26,Male,2.61,"Arts, Math","Writing, Public Speaking",Robotics Club,Logical,Solo,Doctor
+628,25,Female,3.31,"History, Arts","Machine Learning, Graphic Design",Debate Club,Analytical,Solo,Network Engineer
+629,21,Male,2.77,"Biology, History","Public Speaking, Writing",Sports Team,Logical,Solo,Doctor
+630,18,Female,2.94,"Literature, Computer Science","Graphic Design, Python",Robotics Club,Creative,Solo,Economist
+631,21,Female,2.97,"Literature, Economics","Machine Learning, Public Speaking",Hackathons,Extroverted,Team,Graphic Designer
+632,30,Male,2.79,"Arts, Literature","Data Analysis, Networking",Debate Club,Analytical,Solo,Graphic Designer
+633,18,Female,2.84,"Math, Economics","Machine Learning, Data Analysis",Robotics Club,Logical,Team,Software Engineer
+634,21,Non-binary,3.62,"Arts, Biology","Graphic Design, Writing",Robotics Club,Detail-Oriented,Solo,Graphic Designer
+635,29,Female,3.62,"Economics, Chemistry","Python, Writing",Science Club,Creative,Team,Doctor
+636,29,Non-binary,3.61,"Chemistry, Computer Science","Lab Research, JavaScript",Debate Club,Creative,Hybrid,Network Engineer
+637,20,Male,2.81,"Biology, History","JavaScript, Machine Learning",Debate Club,Creative,Solo,Research Scientist
+638,30,Male,3.02,"Physics, Arts","Python, Graphic Design",Debate Club,Logical,Team,Graphic Designer
+639,28,Male,3.09,"Math, History","Machine Learning, Graphic Design",Theater Club,Analytical,Team,Doctor
+640,29,Male,2.77,"Biology, Literature","Graphic Design, Writing",Robotics Club,Analytical,Team,Doctor
+641,22,Male,2.6,"Physics, Math","Writing, Data Analysis",Robotics Club,Analytical,Hybrid,Software Engineer
+642,26,Female,3.81,"Computer Science, Economics","Public Speaking, Python",Theater Club,Logical,Hybrid,Doctor
+643,25,Non-binary,3.19,"Physics, Chemistry","Data Analysis, JavaScript",Sports Team,Extroverted,Team,Research Scientist
+644,26,Female,2.81,"Math, Arts","Networking, Machine Learning",Science Club,Introverted,Solo,Writer
+645,25,Female,3.09,"Physics, Math","Machine Learning, Lab Research",Sports Team,Extroverted,Solo,Graphic Designer
+646,22,Non-binary,2.67,"Math, Computer Science","Writing, JavaScript",Theater Club,Detail-Oriented,Hybrid,Software Engineer
+647,24,Female,3.8,"Literature, Computer Science","Graphic Design, JavaScript",Robotics Club,Extroverted,Hybrid,Software Engineer
+648,28,Non-binary,2.72,"Arts, Math","Public Speaking, Networking",Science Club,Analytical,Hybrid,Graphic Designer
+649,19,Female,3.52,"Arts, Economics","JavaScript, Data Analysis",Hackathons,Creative,Solo,Network Engineer
+650,27,Female,3.07,"Chemistry, Literature","Public Speaking, Lab Research",Hackathons,Introverted,Hybrid,Network Engineer
+651,23,Non-binary,3.13,"Chemistry, Physics","Lab Research, Python",Hackathons,Creative,Solo,Network Engineer
+652,22,Male,3.56,"History, Economics","Lab Research, Python",Theater Club,Logical,Hybrid,Data Scientist
+653,29,Female,3.86,"Physics, Math","Networking, Data Analysis",Theater Club,Detail-Oriented,Solo,Graphic Designer
+654,23,Non-binary,3.38,"Physics, Math","Writing, JavaScript",Robotics Club,Creative,Team,Writer
+655,23,Male,3.86,"Physics, Biology","Networking, Data Analysis",Hackathons,Extroverted,Hybrid,Data Scientist
+656,26,Male,3.43,"Biology, Math","Lab Research, Public Speaking",Science Club,Detail-Oriented,Team,Software Engineer
+657,18,Male,2.69,"History, Arts","Public Speaking, Data Analysis",Science Club,Extroverted,Solo,Network Engineer
+658,27,Non-binary,2.69,"Arts, Math","Machine Learning, Graphic Design",Debate Club,Analytical,Team,Network Engineer
+659,18,Non-binary,3.5,"Arts, Chemistry","Data Analysis, Graphic Design",Science Club,Analytical,Team,Writer
+660,26,Female,2.83,"Literature, History","Graphic Design, Public Speaking",Robotics Club,Creative,Solo,Graphic Designer
+661,23,Non-binary,3.62,"Physics, Arts","Machine Learning, Data Analysis",Sports Team,Introverted,Team,Writer
+662,24,Non-binary,2.58,"Physics, Biology","Python, Graphic Design",Science Club,Creative,Hybrid,Data Scientist
+663,19,Male,3.73,"Math, Physics","Machine Learning, Data Analysis",Science Club,Extroverted,Team,Doctor
+664,25,Female,3.49,"History, Math","Lab Research, JavaScript",Debate Club,Logical,Solo,Research Scientist
+665,18,Non-binary,3.29,"Economics, Computer Science","Data Analysis, Networking",Theater Club,Introverted,Team,Data Scientist
+666,23,Non-binary,2.87,"Math, Literature","Machine Learning, Data Analysis",Sports Team,Introverted,Team,Software Engineer
+667,22,Female,3.71,"Biology, Literature","JavaScript, Public Speaking",Hackathons,Logical,Hybrid,Graphic Designer
+668,22,Male,3.9,"History, Economics","JavaScript, Networking",Hackathons,Extroverted,Solo,Software Engineer
+669,24,Male,2.98,"Chemistry, Economics","Python, Writing",Hackathons,Creative,Team,Doctor
+670,18,Male,2.83,"Arts, Math","Networking, Python",Robotics Club,Analytical,Solo,Software Engineer
+671,30,Male,3.41,"Economics, Physics","Graphic Design, Lab Research",Robotics Club,Introverted,Hybrid,Doctor
+672,26,Female,3.01,"Math, Biology","Networking, Writing",Robotics Club,Extroverted,Team,Graphic Designer
+673,20,Non-binary,3.86,"History, Math","Networking, JavaScript",Hackathons,Creative,Hybrid,Network Engineer
+674,20,Male,3.69,"Computer Science, Economics","Writing, JavaScript",Science Club,Detail-Oriented,Hybrid,Research Scientist
+675,28,Male,3.4,"History, Math","Writing, Machine Learning",Sports Team,Introverted,Solo,Software Engineer
+676,30,Female,2.92,"Math, Computer Science","Networking, Lab Research",Science Club,Extroverted,Hybrid,Software Engineer
+677,20,Non-binary,3.33,"Math, Arts","Data Analysis, JavaScript",Hackathons,Analytical,Hybrid,Network Engineer
+678,20,Female,3.57,"Literature, Physics","Lab Research, Machine Learning",Hackathons,Extroverted,Hybrid,Writer
+679,18,Male,3.19,"Computer Science, Arts","Public Speaking, Graphic Design",Science Club,Analytical,Hybrid,Graphic Designer
+680,22,Non-binary,3.19,"Physics, History","Machine Learning, Graphic Design",Sports Team,Analytical,Team,Data Scientist
+681,27,Male,3.09,"History, Economics","Graphic Design, Python",Hackathons,Analytical,Solo,Doctor
+682,29,Female,2.78,"Biology, Math","Networking, Graphic Design",Theater Club,Detail-Oriented,Solo,Doctor
+683,29,Female,3.31,"Arts, Physics","Machine Learning, Writing",Sports Team,Creative,Solo,Research Scientist
+684,30,Male,3.49,"Biology, Economics","Machine Learning, JavaScript",Hackathons,Extroverted,Hybrid,Software Engineer
+685,22,Male,2.73,"Arts, Math","Data Analysis, JavaScript",Sports Team,Logical,Solo,Economist
+686,28,Female,3.03,"Physics, Biology","Public Speaking, Machine Learning",Sports Team,Analytical,Team,Economist
+687,26,Non-binary,3.97,"Biology, Physics","Lab Research, JavaScript",Debate Club,Detail-Oriented,Hybrid,Research Scientist
+688,22,Male,3.69,"History, Chemistry","Machine Learning, Python",Robotics Club,Analytical,Hybrid,Graphic Designer
+689,30,Non-binary,2.99,"Economics, Chemistry","Lab Research, Writing",Debate Club,Logical,Hybrid,Research Scientist
+690,22,Female,2.81,"Arts, Physics","JavaScript, Public Speaking",Hackathons,Logical,Team,Writer
+691,25,Female,3.42,"Biology, Chemistry","Lab Research, Data Analysis",Theater Club,Analytical,Solo,Doctor
+692,25,Non-binary,2.75,"Economics, History","Python, Public Speaking",Sports Team,Creative,Team,Doctor
+693,18,Female,3.24,"Economics, Math","JavaScript, Writing",Hackathons,Introverted,Team,Data Scientist
+694,18,Male,2.71,"Economics, Arts","Machine Learning, Python",Theater Club,Detail-Oriented,Solo,Economist
+695,22,Non-binary,3.46,"Literature, Physics","Graphic Design, Writing",Hackathons,Introverted,Hybrid,Writer
+696,18,Male,2.67,"History, Arts","Networking, Python",Robotics Club,Introverted,Team,Research Scientist
+697,28,Female,3.37,"Literature, Biology","Python, Networking",Sports Team,Logical,Solo,Graphic Designer
+698,20,Female,2.96,"Literature, Physics","Machine Learning, Data Analysis",Robotics Club,Detail-Oriented,Solo,Doctor
+699,28,Male,3.57,"Computer Science, Math","Networking, JavaScript",Robotics Club,Detail-Oriented,Solo,Graphic Designer
+700,24,Male,3.35,"Chemistry, History","Machine Learning, Public Speaking",Theater Club,Logical,Solo,Research Scientist
+701,21,Female,3.28,"Biology, Physics","Public Speaking, Data Analysis",Hackathons,Creative,Team,Network Engineer
+702,28,Female,3.06,"Biology, Economics","Graphic Design, Data Analysis",Science Club,Introverted,Hybrid,Graphic Designer
+703,21,Male,3.19,"History, Economics","Python, Writing",Sports Team,Logical,Team,Data Scientist
+704,29,Male,2.61,"Chemistry, History","Data Analysis, Public Speaking",Debate Club,Creative,Team,Economist
+705,27,Female,3.55,"Economics, Literature","Lab Research, Networking",Theater Club,Extroverted,Team,Network Engineer
+706,26,Female,3.33,"Physics, Arts","Machine Learning, Public Speaking",Hackathons,Creative,Team,Data Scientist
+707,24,Male,2.61,"History, Arts","Lab Research, Writing",Science Club,Detail-Oriented,Solo,Graphic Designer
+708,21,Male,3.76,"Computer Science, Math","JavaScript, Public Speaking",Theater Club,Logical,Team,Data Scientist
+709,20,Non-binary,2.99,"Chemistry, Literature","Networking, Python",Theater Club,Creative,Solo,Writer
+710,20,Female,3.36,"Computer Science, Math","Graphic Design, Machine Learning",Sports Team,Logical,Team,Economist
+711,21,Male,3.41,"Biology, Physics","Machine Learning, Python",Hackathons,Extroverted,Hybrid,Network Engineer
+712,20,Male,2.5,"Biology, Math","Graphic Design, JavaScript",Theater Club,Detail-Oriented,Team,Data Scientist
+713,25,Female,3.78,"Chemistry, Computer Science","Machine Learning, Lab Research",Hackathons,Detail-Oriented,Hybrid,Writer
+714,25,Non-binary,2.95,"Math, Biology","Python, Machine Learning",Science Club,Extroverted,Hybrid,Research Scientist
+715,21,Non-binary,3.43,"Computer Science, Math","JavaScript, Graphic Design",Debate Club,Logical,Hybrid,Doctor
+716,24,Non-binary,3.65,"Arts, Biology","Networking, Public Speaking",Sports Team,Logical,Hybrid,Doctor
+717,20,Non-binary,4.0,"Literature, Computer Science","Machine Learning, Networking",Robotics Club,Logical,Hybrid,Network Engineer
+718,18,Female,3.69,"History, Computer Science","Graphic Design, JavaScript",Hackathons,Logical,Hybrid,Network Engineer
+719,21,Male,3.6,"History, Biology","Public Speaking, Machine Learning",Sports Team,Analytical,Hybrid,Graphic Designer
+720,20,Male,3.42,"Arts, Literature","Python, Graphic Design",Debate Club,Creative,Team,Economist
+721,24,Female,2.61,"Chemistry, Math","Writing, Machine Learning",Robotics Club,Creative,Solo,Software Engineer
+722,18,Non-binary,3.8,"Economics, History","Data Analysis, Writing",Hackathons,Introverted,Solo,Economist
+723,25,Non-binary,3.94,"History, Literature","Public Speaking, Machine Learning",Hackathons,Logical,Solo,Economist
+724,20,Male,2.63,"Chemistry, History","Public Speaking, Data Analysis",Sports Team,Detail-Oriented,Team,Economist
+725,26,Female,2.68,"Economics, Arts","Writing, Data Analysis",Theater Club,Logical,Hybrid,Network Engineer
+726,24,Female,2.56,"Biology, Physics","Machine Learning, JavaScript",Sports Team,Analytical,Team,Research Scientist
+727,30,Male,3.31,"Chemistry, Computer Science","Lab Research, Data Analysis",Robotics Club,Analytical,Solo,Writer
+728,27,Male,3.79,"Literature, Physics","Data Analysis, Lab Research",Debate Club,Detail-Oriented,Team,Doctor
+729,30,Non-binary,3.29,"Computer Science, Biology","Public Speaking, Data Analysis",Sports Team,Extroverted,Team,Research Scientist
+730,21,Male,3.15,"Arts, Computer Science","Data Analysis, JavaScript",Robotics Club,Creative,Team,Software Engineer
+731,19,Female,3.24,"Math, Biology","JavaScript, Lab Research",Robotics Club,Creative,Solo,Writer
+732,24,Non-binary,3.65,"Physics, Chemistry","Writing, Lab Research",Debate Club,Detail-Oriented,Hybrid,Data Scientist
+733,27,Male,3.41,"Literature, Biology","Writing, Networking",Theater Club,Introverted,Hybrid,Economist
+734,18,Non-binary,2.83,"Physics, Chemistry","Lab Research, Public Speaking",Sports Team,Analytical,Solo,Software Engineer
+735,30,Non-binary,2.68,"Biology, Physics","Public Speaking, Lab Research",Hackathons,Introverted,Solo,Data Scientist
+736,22,Male,2.62,"Biology, Literature","Writing, JavaScript",Robotics Club,Analytical,Solo,Doctor
+737,29,Female,3.46,"Economics, History","Data Analysis, Machine Learning",Debate Club,Logical,Hybrid,Graphic Designer
+738,22,Female,2.61,"Math, Biology","Data Analysis, Machine Learning",Theater Club,Extroverted,Team,Writer
+739,20,Non-binary,2.51,"Literature, Computer Science","Graphic Design, Public Speaking",Sports Team,Extroverted,Hybrid,Network Engineer
+740,19,Male,2.77,"Chemistry, Biology","Writing, Machine Learning",Science Club,Detail-Oriented,Team,Writer
+741,30,Non-binary,3.95,"Economics, Literature","Networking, JavaScript",Sports Team,Detail-Oriented,Hybrid,Software Engineer
+742,22,Male,3.3,"Biology, Arts","Writing, Python",Science Club,Creative,Team,Research Scientist
+743,22,Female,2.61,"Economics, Arts","JavaScript, Public Speaking",Theater Club,Logical,Team,Network Engineer
+744,20,Female,2.92,"Biology, Physics","Writing, Networking",Theater Club,Analytical,Solo,Graphic Designer
+745,30,Female,3.22,"Biology, Economics","Networking, JavaScript",Sports Team,Logical,Team,Network Engineer
+746,19,Male,3.66,"Chemistry, Arts","Data Analysis, Writing",Debate Club,Extroverted,Hybrid,Software Engineer
+747,27,Male,3.34,"Literature, Math","Networking, Graphic Design",Science Club,Introverted,Solo,Doctor
+748,23,Non-binary,2.65,"Physics, Literature","Machine Learning, Graphic Design",Sports Team,Analytical,Hybrid,Software Engineer
+749,24,Male,2.56,"Computer Science, Chemistry","Graphic Design, Machine Learning",Sports Team,Detail-Oriented,Team,Research Scientist
+750,19,Male,2.75,"Arts, History","JavaScript, Machine Learning",Science Club,Logical,Hybrid,Data Scientist
+751,24,Non-binary,2.85,"Computer Science, Arts","Graphic Design, Lab Research",Sports Team,Logical,Team,Graphic Designer
+752,30,Female,3.05,"Physics, Math","Data Analysis, Python",Science Club,Logical,Solo,Writer
+753,20,Female,2.65,"Arts, Biology","Machine Learning, Graphic Design",Robotics Club,Introverted,Solo,Writer
+754,18,Non-binary,2.64,"Math, Chemistry","Data Analysis, Public Speaking",Debate Club,Logical,Team,Network Engineer
+755,26,Male,3.19,"History, Economics","Data Analysis, JavaScript",Robotics Club,Analytical,Solo,Software Engineer
+756,19,Female,3.13,"Physics, Computer Science","Public Speaking, Networking",Robotics Club,Logical,Team,Software Engineer
+757,20,Female,3.47,"Literature, Physics","Python, Graphic Design",Robotics Club,Extroverted,Hybrid,Data Scientist
+758,28,Non-binary,3.42,"Physics, Literature","Lab Research, Graphic Design",Debate Club,Introverted,Team,Research Scientist
+759,19,Male,3.07,"Economics, Arts","Networking, JavaScript",Hackathons,Introverted,Solo,Writer
+760,18,Non-binary,2.71,"Biology, Math","Python, Lab Research",Science Club,Analytical,Team,Network Engineer
+761,22,Female,3.43,"Economics, History","Public Speaking, Data Analysis",Theater Club,Extroverted,Hybrid,Research Scientist
+762,28,Male,2.5,"Biology, History","Machine Learning, Networking",Science Club,Logical,Team,Research Scientist
+763,22,Male,3.51,"Arts, Chemistry","Python, Lab Research",Sports Team,Creative,Team,Economist
+764,29,Female,3.8,"Economics, Biology","Machine Learning, Networking",Theater Club,Extroverted,Solo,Software Engineer
+765,24,Female,2.63,"Literature, Computer Science","Machine Learning, Lab Research",Robotics Club,Introverted,Solo,Data Scientist
+766,22,Female,3.72,"Arts, Physics","Python, Lab Research",Theater Club,Creative,Solo,Software Engineer
+767,26,Male,3.09,"Economics, Chemistry","Data Analysis, Machine Learning",Hackathons,Logical,Hybrid,Writer
+768,22,Male,3.77,"Computer Science, Physics","Graphic Design, Data Analysis",Science Club,Introverted,Team,Research Scientist
+769,22,Male,2.78,"Arts, History","Lab Research, Data Analysis",Theater Club,Analytical,Team,Data Scientist
+770,24,Male,2.72,"Biology, Computer Science","Networking, Graphic Design",Science Club,Extroverted,Team,Doctor
+771,21,Non-binary,3.06,"Math, Arts","Python, Data Analysis",Hackathons,Detail-Oriented,Solo,Economist
+772,21,Non-binary,3.84,"Computer Science, Economics","Graphic Design, Public Speaking",Hackathons,Creative,Team,Graphic Designer
+773,26,Male,3.92,"Math, History","Machine Learning, Graphic Design",Hackathons,Extroverted,Hybrid,Writer
+774,25,Female,3.17,"History, Biology","Machine Learning, Public Speaking",Robotics Club,Analytical,Solo,Graphic Designer
+775,20,Male,2.54,"Physics, Biology","Networking, Data Analysis",Science Club,Introverted,Hybrid,Graphic Designer
+776,18,Non-binary,3.24,"Arts, Chemistry","JavaScript, Public Speaking",Debate Club,Introverted,Solo,Research Scientist
+777,30,Female,3.14,"Math, Literature","Data Analysis, Machine Learning",Robotics Club,Logical,Solo,Software Engineer
+778,27,Female,3.57,"Physics, History","Python, JavaScript",Debate Club,Detail-Oriented,Hybrid,Software Engineer
+779,18,Female,2.56,"Arts, Computer Science","Networking, Python",Debate Club,Detail-Oriented,Team,Economist
+780,26,Male,3.66,"Math, History","Machine Learning, Graphic Design",Theater Club,Analytical,Team,Research Scientist
+781,26,Male,3.14,"Computer Science, Economics","Graphic Design, Writing",Debate Club,Extroverted,Team,Software Engineer
+782,26,Non-binary,3.18,"Computer Science, Arts","JavaScript, Public Speaking",Theater Club,Creative,Team,Writer
+783,27,Male,3.98,"Biology, Literature","Lab Research, Graphic Design",Debate Club,Detail-Oriented,Hybrid,Network Engineer
+784,22,Male,3.01,"Literature, Economics","Machine Learning, Data Analysis",Sports Team,Introverted,Solo,Graphic Designer
+785,18,Male,3.67,"Computer Science, Economics","Machine Learning, Public Speaking",Science Club,Detail-Oriented,Solo,Writer
+786,21,Non-binary,2.85,"Physics, Math","Machine Learning, Data Analysis",Hackathons,Analytical,Team,Data Scientist
+787,28,Male,2.55,"Computer Science, History","Networking, Writing",Science Club,Logical,Team,Writer
+788,21,Female,2.74,"Economics, Math","Networking, Data Analysis",Robotics Club,Analytical,Solo,Research Scientist
+789,29,Male,3.47,"Literature, Biology","Networking, Machine Learning",Sports Team,Extroverted,Team,Doctor
+790,29,Female,3.58,"Physics, Chemistry","Machine Learning, Graphic Design",Sports Team,Analytical,Solo,Network Engineer
+791,22,Male,2.81,"Physics, Computer Science","JavaScript, Graphic Design",Debate Club,Analytical,Hybrid,Doctor
+792,29,Non-binary,3.83,"Economics, Arts","Data Analysis, Lab Research",Science Club,Detail-Oriented,Team,Software Engineer
+793,25,Non-binary,3.46,"Physics, Economics","Machine Learning, Data Analysis",Robotics Club,Logical,Hybrid,Data Scientist
+794,26,Female,3.82,"Literature, Economics","Machine Learning, Writing",Debate Club,Detail-Oriented,Hybrid,Network Engineer
+795,20,Non-binary,2.83,"Biology, Math","Graphic Design, Public Speaking",Debate Club,Analytical,Team,Writer
+796,22,Non-binary,3.02,"Economics, Arts","JavaScript, Machine Learning",Debate Club,Detail-Oriented,Hybrid,Economist
+797,24,Non-binary,3.21,"Computer Science, Economics","JavaScript, Graphic Design",Science Club,Extroverted,Solo,Doctor
+798,29,Non-binary,3.51,"Economics, Chemistry","Lab Research, Graphic Design",Hackathons,Analytical,Solo,Writer
+799,22,Male,2.89,"Biology, Physics","Public Speaking, Lab Research",Theater Club,Detail-Oriented,Solo,Writer
+800,20,Female,3.52,"Computer Science, Literature","Writing, Graphic Design",Debate Club,Detail-Oriented,Hybrid,Economist
+801,20,Male,3.61,"Arts, Math","Lab Research, Public Speaking",Debate Club,Extroverted,Solo,Economist
+802,26,Non-binary,3.82,"Biology, Physics","Public Speaking, Networking",Science Club,Creative,Hybrid,Data Scientist
+803,24,Male,2.89,"Chemistry, Biology","Lab Research, Networking",Hackathons,Creative,Solo,Writer
+804,28,Female,2.92,"Computer Science, Physics","Python, JavaScript",Science Club,Extroverted,Solo,Writer
+805,18,Female,2.66,"History, Math","Python, Graphic Design",Debate Club,Analytical,Solo,Software Engineer
+806,21,Male,2.9,"Literature, Arts","Python, Machine Learning",Debate Club,Introverted,Team,Network Engineer
+807,19,Female,2.65,"History, Economics","Lab Research, Graphic Design",Hackathons,Introverted,Solo,Research Scientist
+808,26,Male,2.76,"Physics, Math","Networking, Public Speaking",Hackathons,Introverted,Hybrid,Economist
+809,22,Non-binary,3.74,"History, Economics","Public Speaking, Lab Research",Hackathons,Creative,Solo,Network Engineer
+810,29,Male,2.77,"Arts, Physics","Public Speaking, Writing",Science Club,Creative,Solo,Economist
+811,24,Non-binary,3.42,"History, Math","Data Analysis, Graphic Design",Theater Club,Introverted,Solo,Data Scientist
+812,27,Non-binary,3.19,"Arts, Literature","Data Analysis, Networking",Debate Club,Extroverted,Solo,Data Scientist
+813,20,Female,3.68,"Physics, Math","JavaScript, Data Analysis",Debate Club,Analytical,Team,Software Engineer
+814,19,Male,3.1,"Biology, Arts","Python, JavaScript",Robotics Club,Analytical,Hybrid,Software Engineer
+815,22,Male,2.86,"Math, Computer Science","JavaScript, Writing",Theater Club,Introverted,Solo,Software Engineer
+816,20,Female,3.44,"Chemistry, Computer Science","Python, Graphic Design",Robotics Club,Logical,Solo,Writer
+817,18,Non-binary,3.49,"Economics, Physics","Python, Machine Learning",Hackathons,Detail-Oriented,Hybrid,Graphic Designer
+818,24,Male,3.06,"Economics, Physics","Networking, Python",Robotics Club,Extroverted,Solo,Data Scientist
+819,27,Male,3.03,"Chemistry, Economics","Python, Public Speaking",Theater Club,Introverted,Solo,Writer
+820,18,Female,2.55,"Physics, Economics","Machine Learning, Writing",Robotics Club,Creative,Team,Data Scientist
+821,29,Male,2.87,"Physics, Economics","Python, Writing",Sports Team,Creative,Hybrid,Network Engineer
+822,19,Female,3.39,"Literature, Math","Public Speaking, Machine Learning",Debate Club,Detail-Oriented,Hybrid,Software Engineer
+823,22,Male,3.63,"Arts, Math","Networking, Writing",Theater Club,Extroverted,Team,Network Engineer
+824,22,Non-binary,3.93,"Literature, Physics","JavaScript, Writing",Hackathons,Introverted,Solo,Doctor
+825,27,Female,3.87,"History, Arts","Lab Research, Data Analysis",Hackathons,Logical,Team,Software Engineer
+826,21,Non-binary,3.09,"Chemistry, Literature","Graphic Design, Lab Research",Science Club,Detail-Oriented,Team,Economist
+827,26,Non-binary,3.36,"Chemistry, Physics","Writing, Machine Learning",Sports Team,Introverted,Hybrid,Data Scientist
+828,28,Non-binary,3.82,"Biology, Physics","Networking, Public Speaking",Sports Team,Introverted,Solo,Writer
+829,22,Non-binary,3.78,"Economics, Literature","Graphic Design, JavaScript",Science Club,Analytical,Hybrid,Writer
+830,30,Female,3.38,"Biology, Computer Science","Public Speaking, Machine Learning",Sports Team,Analytical,Team,Writer
+831,18,Male,3.14,"Literature, Arts","Lab Research, Python",Science Club,Extroverted,Hybrid,Software Engineer
+832,21,Non-binary,3.85,"Literature, Biology","JavaScript, Networking",Debate Club,Logical,Solo,Data Scientist
+833,26,Male,2.52,"Math, Literature","Machine Learning, JavaScript",Hackathons,Introverted,Solo,Network Engineer
+834,27,Female,2.78,"History, Arts","Graphic Design, Machine Learning",Debate Club,Detail-Oriented,Hybrid,Research Scientist
+835,19,Male,3.48,"Literature, History","Networking, Data Analysis",Robotics Club,Logical,Hybrid,Graphic Designer
+836,18,Non-binary,3.23,"Economics, Math","Data Analysis, Networking",Hackathons,Analytical,Team,Economist
+837,22,Male,2.73,"Physics, Arts","Data Analysis, Public Speaking",Debate Club,Introverted,Team,Doctor
+838,19,Non-binary,3.67,"Physics, Economics","Data Analysis, Machine Learning",Science Club,Detail-Oriented,Team,Software Engineer
+839,22,Male,3.38,"Literature, Computer Science","Networking, Machine Learning",Debate Club,Introverted,Solo,Software Engineer
+840,18,Female,3.01,"Literature, Arts","Lab Research, JavaScript",Hackathons,Creative,Solo,Network Engineer
+841,18,Male,2.63,"Chemistry, Arts","Networking, Writing",Hackathons,Creative,Solo,Data Scientist
+842,26,Female,3.36,"Computer Science, Economics","Machine Learning, JavaScript",Sports Team,Creative,Solo,Software Engineer
+843,26,Male,3.92,"Arts, Physics","Public Speaking, Machine Learning",Science Club,Detail-Oriented,Hybrid,Doctor
+844,26,Female,3.1,"Arts, Physics","Public Speaking, Writing",Theater Club,Extroverted,Team,Economist
+845,23,Male,2.94,"Literature, Math","Data Analysis, Machine Learning",Theater Club,Creative,Team,Economist
+846,21,Non-binary,3.67,"Chemistry, Math","JavaScript, Python",Hackathons,Creative,Solo,Writer
+847,19,Female,3.01,"Literature, Math","Data Analysis, JavaScript",Hackathons,Analytical,Hybrid,Software Engineer
+848,29,Female,2.76,"Chemistry, Arts","Python, Graphic Design",Science Club,Creative,Team,Data Scientist
+849,30,Male,2.54,"Physics, Economics","Lab Research, JavaScript",Robotics Club,Detail-Oriented,Solo,Software Engineer
+850,25,Female,3.09,"Computer Science, Literature","JavaScript, Graphic Design",Hackathons,Introverted,Hybrid,Writer
+851,23,Non-binary,2.63,"Biology, Computer Science","Lab Research, JavaScript",Science Club,Analytical,Solo,Graphic Designer
+852,21,Non-binary,3.1,"Physics, Math","Graphic Design, Public Speaking",Robotics Club,Analytical,Team,Doctor
+853,23,Female,3.26,"Physics, Biology","Machine Learning, Networking",Sports Team,Logical,Hybrid,Graphic Designer
+854,21,Male,3.19,"Physics, Arts","Writing, Python",Sports Team,Creative,Hybrid,Doctor
+855,28,Female,3.57,"Arts, Biology","Lab Research, JavaScript",Theater Club,Detail-Oriented,Team,Economist
+856,23,Female,3.48,"Chemistry, History","Data Analysis, Python",Theater Club,Detail-Oriented,Hybrid,Economist
+857,21,Male,2.62,"Math, Arts","Graphic Design, Networking",Theater Club,Analytical,Solo,Network Engineer
+858,30,Male,3.46,"Math, Computer Science","Machine Learning, Writing",Debate Club,Logical,Solo,Writer
+859,29,Male,2.9,"Math, Chemistry","Data Analysis, Machine Learning",Debate Club,Detail-Oriented,Hybrid,Data Scientist
+860,25,Male,2.57,"Literature, Biology","Graphic Design, Data Analysis",Sports Team,Introverted,Hybrid,Graphic Designer
+861,25,Female,2.97,"Economics, Math","Machine Learning, JavaScript",Robotics Club,Extroverted,Solo,Research Scientist
+862,18,Male,2.83,"Math, Computer Science","Python, JavaScript",Robotics Club,Introverted,Solo,Research Scientist
+863,18,Male,2.79,"Arts, Chemistry","JavaScript, Writing",Debate Club,Analytical,Solo,Research Scientist
+864,18,Male,3.5,"Physics, Economics","Data Analysis, JavaScript",Hackathons,Logical,Hybrid,Research Scientist
+865,22,Female,3.26,"Biology, Economics","Python, Lab Research",Debate Club,Extroverted,Team,Doctor
+866,25,Non-binary,3.92,"Economics, History","Writing, Networking",Science Club,Detail-Oriented,Hybrid,Data Scientist
+867,18,Female,3.82,"Computer Science, History","Lab Research, Writing",Hackathons,Introverted,Team,Network Engineer
+868,25,Female,2.58,"History, Literature","JavaScript, Graphic Design",Sports Team,Logical,Hybrid,Doctor
+869,29,Non-binary,2.78,"Literature, Math","Machine Learning, Writing",Hackathons,Introverted,Solo,Software Engineer
+870,26,Male,3.12,"Computer Science, Literature","Graphic Design, Python",Science Club,Extroverted,Team,Software Engineer
+871,20,Female,3.21,"Math, Physics","Data Analysis, Networking",Theater Club,Creative,Team,Graphic Designer
+872,23,Male,3.53,"Math, Literature","JavaScript, Writing",Science Club,Extroverted,Team,Doctor
+873,21,Non-binary,3.79,"Arts, Math","Data Analysis, Networking",Theater Club,Logical,Hybrid,Graphic Designer
+874,28,Non-binary,3.95,"History, Physics","Networking, Machine Learning",Hackathons,Extroverted,Team,Doctor
+875,19,Female,3.71,"Literature, Physics","Python, Machine Learning",Theater Club,Logical,Hybrid,Graphic Designer
+876,18,Female,2.7,"Computer Science, History","JavaScript, Data Analysis",Science Club,Detail-Oriented,Solo,Network Engineer
+877,30,Female,3.11,"Math, Literature","Lab Research, Python",Hackathons,Logical,Hybrid,Graphic Designer
+878,26,Female,2.78,"Math, Arts","Networking, Writing",Hackathons,Extroverted,Solo,Network Engineer
+879,28,Female,3.13,"Economics, History","Public Speaking, Data Analysis",Science Club,Analytical,Solo,Graphic Designer
+880,21,Female,2.95,"Biology, Economics","Public Speaking, Lab Research",Robotics Club,Logical,Hybrid,Economist
+881,21,Non-binary,3.26,"Math, Arts","Data Analysis, Public Speaking",Sports Team,Analytical,Team,Network Engineer
+882,27,Female,2.53,"Chemistry, Math","JavaScript, Networking",Sports Team,Analytical,Hybrid,Research Scientist
+883,28,Male,2.52,"History, Arts","Public Speaking, Machine Learning",Sports Team,Detail-Oriented,Team,Data Scientist
+884,20,Female,3.62,"Economics, Computer Science","Public Speaking, Networking",Sports Team,Introverted,Team,Graphic Designer
+885,21,Non-binary,3.36,"History, Biology","Networking, Writing",Theater Club,Introverted,Team,Research Scientist
+886,20,Male,2.9,"Chemistry, Literature","Data Analysis, Public Speaking",Debate Club,Detail-Oriented,Team,Writer
+887,22,Non-binary,3.33,"Math, Literature","Networking, Machine Learning",Science Club,Detail-Oriented,Hybrid,Graphic Designer
+888,28,Male,2.64,"Math, Economics","Networking, Graphic Design",Robotics Club,Extroverted,Hybrid,Software Engineer
+889,20,Male,3.62,"Biology, Physics","Networking, Public Speaking",Hackathons,Analytical,Team,Network Engineer
+890,23,Male,3.43,"Computer Science, Physics","Lab Research, Python",Hackathons,Introverted,Solo,Doctor
+891,19,Non-binary,3.24,"Math, Literature","Public Speaking, Writing",Theater Club,Introverted,Hybrid,Doctor
+892,26,Female,3.28,"Biology, Computer Science","Data Analysis, Networking",Debate Club,Detail-Oriented,Solo,Doctor
+893,18,Male,3.44,"Economics, Literature","Graphic Design, Writing",Hackathons,Logical,Team,Network Engineer
+894,28,Non-binary,3.82,"History, Computer Science","Python, Networking",Robotics Club,Extroverted,Hybrid,Research Scientist
+895,22,Non-binary,2.88,"Biology, Arts","Data Analysis, JavaScript",Science Club,Detail-Oriented,Hybrid,Research Scientist
+896,28,Female,3.36,"History, Physics","JavaScript, Lab Research",Sports Team,Logical,Team,Data Scientist
+897,23,Non-binary,2.56,"Arts, Math","Public Speaking, Machine Learning",Hackathons,Detail-Oriented,Hybrid,Software Engineer
+898,25,Male,3.29,"Biology, Economics","Graphic Design, Data Analysis",Sports Team,Extroverted,Hybrid,Graphic Designer
+899,30,Female,2.77,"Computer Science, Biology","Graphic Design, Networking",Robotics Club,Logical,Team,Network Engineer
+900,24,Non-binary,3.7,"Biology, Arts","Python, Graphic Design",Debate Club,Extroverted,Solo,Data Scientist
+901,21,Male,3.47,"Math, History","JavaScript, Machine Learning",Science Club,Detail-Oriented,Hybrid,Network Engineer
+902,25,Female,3.75,"Biology, Literature","Writing, Lab Research",Debate Club,Extroverted,Solo,Economist
+903,19,Non-binary,2.99,"Physics, Literature","Lab Research, Python",Sports Team,Introverted,Team,Writer
+904,19,Female,3.95,"History, Physics","Python, Machine Learning",Debate Club,Analytical,Hybrid,Software Engineer
+905,28,Female,3.39,"Physics, Computer Science","Public Speaking, JavaScript",Science Club,Extroverted,Solo,Research Scientist
+906,29,Non-binary,3.23,"Arts, Economics","Networking, Public Speaking",Debate Club,Extroverted,Solo,Doctor
+907,26,Male,3.76,"Physics, Chemistry","Writing, Machine Learning",Debate Club,Introverted,Hybrid,Software Engineer
+908,30,Non-binary,3.31,"Math, Economics","Graphic Design, Public Speaking",Hackathons,Creative,Solo,Doctor
+909,24,Non-binary,3.34,"Literature, Chemistry","Python, Writing",Hackathons,Creative,Solo,Doctor
+910,22,Male,3.92,"Computer Science, History","Public Speaking, Lab Research",Hackathons,Extroverted,Hybrid,Software Engineer
+911,30,Non-binary,3.92,"Physics, Computer Science","Data Analysis, Networking",Debate Club,Detail-Oriented,Team,Software Engineer
+912,22,Non-binary,2.51,"Biology, Physics","Networking, Writing",Theater Club,Introverted,Hybrid,Writer
+913,22,Male,3.5,"Economics, Computer Science","Machine Learning, Data Analysis",Robotics Club,Detail-Oriented,Hybrid,Economist
+914,30,Non-binary,2.69,"Computer Science, Math","Lab Research, Data Analysis",Theater Club,Detail-Oriented,Solo,Network Engineer
+915,28,Male,3.84,"Computer Science, History","JavaScript, Machine Learning",Debate Club,Extroverted,Solo,Software Engineer
+916,19,Male,3.66,"History, Math","Data Analysis, Machine Learning",Science Club,Extroverted,Hybrid,Graphic Designer
+917,22,Female,2.67,"Computer Science, Chemistry","Data Analysis, Machine Learning",Sports Team,Creative,Hybrid,Writer
+918,18,Non-binary,2.5,"Literature, Economics","Python, Graphic Design",Theater Club,Analytical,Solo,Graphic Designer
+919,21,Non-binary,2.86,"Economics, Physics","Data Analysis, Public Speaking",Sports Team,Extroverted,Hybrid,Economist
+920,23,Non-binary,2.53,"Biology, Math","Machine Learning, Public Speaking",Hackathons,Detail-Oriented,Solo,Doctor
+921,20,Female,2.82,"Chemistry, Computer Science","Networking, Graphic Design",Debate Club,Creative,Solo,Network Engineer
+922,18,Non-binary,3.03,"Literature, Biology","Data Analysis, Public Speaking",Theater Club,Analytical,Team,Graphic Designer
+923,22,Male,3.76,"Computer Science, Economics","Data Analysis, Networking",Debate Club,Introverted,Solo,Network Engineer
+924,29,Female,3.25,"Physics, Literature","Graphic Design, Data Analysis",Hackathons,Logical,Hybrid,Data Scientist
+925,24,Male,3.57,"Computer Science, Biology","Python, Data Analysis",Theater Club,Extroverted,Solo,Graphic Designer
+926,28,Male,3.09,"Arts, Biology","Python, Networking",Sports Team,Analytical,Solo,Software Engineer
+927,22,Non-binary,3.62,"Biology, Economics","Machine Learning, Data Analysis",Sports Team,Creative,Hybrid,Writer
+928,20,Male,3.47,"Literature, Chemistry","Lab Research, Graphic Design",Debate Club,Introverted,Solo,Software Engineer
+929,30,Non-binary,2.87,"Biology, Arts","Python, Lab Research",Science Club,Extroverted,Solo,Network Engineer
+930,19,Male,3.28,"Chemistry, History","Graphic Design, Writing",Debate Club,Extroverted,Solo,Graphic Designer
+931,18,Non-binary,3.02,"Economics, Literature","Graphic Design, Lab Research",Robotics Club,Logical,Hybrid,Research Scientist
+932,23,Male,3.2,"Literature, History","Writing, Lab Research",Theater Club,Logical,Team,Software Engineer
+933,24,Non-binary,3.94,"Literature, Economics","Graphic Design, Networking",Robotics Club,Creative,Solo,Doctor
+934,24,Non-binary,3.24,"Computer Science, Arts","Data Analysis, Writing",Hackathons,Creative,Team,Software Engineer
+935,21,Non-binary,3.85,"Physics, Math","Python, Machine Learning",Hackathons,Creative,Solo,Economist
+936,21,Non-binary,3.72,"Physics, Chemistry","Lab Research, Writing",Sports Team,Extroverted,Team,Graphic Designer
+937,18,Non-binary,3.9,"Math, Chemistry","Data Analysis, Networking",Robotics Club,Extroverted,Team,Graphic Designer
+938,27,Female,3.59,"History, Biology","Python, Public Speaking",Theater Club,Introverted,Hybrid,Network Engineer
+939,28,Non-binary,3.5,"Computer Science, Economics","Graphic Design, Data Analysis",Debate Club,Logical,Hybrid,Network Engineer
+940,29,Non-binary,3.08,"Computer Science, Economics","Graphic Design, Lab Research",Theater Club,Logical,Solo,Network Engineer
+941,23,Female,3.69,"Chemistry, History","Networking, Lab Research",Debate Club,Extroverted,Hybrid,Network Engineer
+942,24,Non-binary,3.75,"Math, Arts","Public Speaking, Writing",Science Club,Extroverted,Solo,Graphic Designer
+943,23,Female,3.92,"Computer Science, Literature","Data Analysis, Writing",Debate Club,Extroverted,Team,Doctor
+944,30,Female,2.74,"Arts, Economics","Lab Research, Writing",Debate Club,Extroverted,Solo,Doctor
+945,27,Female,2.8,"Math, Chemistry","Lab Research, Machine Learning",Robotics Club,Introverted,Hybrid,Research Scientist
+946,30,Male,3.68,"Math, Chemistry","Python, Lab Research",Robotics Club,Analytical,Hybrid,Research Scientist
+947,22,Female,3.38,"Chemistry, Biology","JavaScript, Graphic Design",Hackathons,Extroverted,Team,Research Scientist
+948,23,Male,3.02,"Literature, Economics","Lab Research, Python",Theater Club,Introverted,Team,Economist
+949,22,Female,3.81,"Computer Science, Math","Writing, Data Analysis",Robotics Club,Analytical,Team,Economist
+950,25,Female,2.66,"Biology, Computer Science","Machine Learning, Lab Research",Robotics Club,Creative,Solo,Software Engineer
+951,25,Female,2.56,"Economics, Chemistry","Python, Public Speaking",Sports Team,Creative,Solo,Network Engineer
+952,25,Non-binary,2.86,"History, Chemistry","Python, JavaScript",Hackathons,Creative,Hybrid,Research Scientist
+953,24,Female,3.36,"Biology, Economics","Networking, Graphic Design",Hackathons,Introverted,Team,Data Scientist
+954,29,Male,2.52,"History, Math","Graphic Design, JavaScript",Robotics Club,Creative,Solo,Data Scientist
+955,18,Male,3.02,"Physics, Computer Science","JavaScript, Writing",Science Club,Creative,Solo,Research Scientist
+956,27,Non-binary,3.29,"Physics, Arts","Networking, JavaScript",Science Club,Introverted,Team,Network Engineer
+957,28,Male,3.08,"Biology, Economics","Lab Research, JavaScript",Theater Club,Extroverted,Hybrid,Research Scientist
+958,27,Female,3.51,"Chemistry, Arts","Machine Learning, JavaScript",Robotics Club,Introverted,Hybrid,Doctor
+959,21,Non-binary,3.21,"Chemistry, Math","Python, JavaScript",Debate Club,Creative,Team,Software Engineer
+960,29,Non-binary,3.43,"Math, Physics","Data Analysis, Lab Research",Debate Club,Creative,Hybrid,Graphic Designer
+961,23,Male,3.52,"Economics, Physics","Data Analysis, Graphic Design",Hackathons,Detail-Oriented,Hybrid,Graphic Designer
+962,18,Female,3.86,"Literature, Computer Science","Graphic Design, Lab Research",Sports Team,Logical,Hybrid,Data Scientist
+963,24,Female,3.9,"Biology, History","Writing, Lab Research",Hackathons,Introverted,Solo,Data Scientist
+964,19,Female,2.91,"Arts, Biology","JavaScript, Writing",Theater Club,Creative,Solo,Doctor
+965,22,Non-binary,3.69,"Computer Science, Economics","Machine Learning, Python",Sports Team,Logical,Solo,Doctor
+966,29,Female,3.54,"Economics, Biology","Lab Research, Python",Sports Team,Detail-Oriented,Team,Research Scientist
+967,30,Non-binary,3.08,"Math, Physics","Machine Learning, Lab Research",Science Club,Logical,Team,Doctor
+968,21,Male,3.53,"History, Computer Science","Writing, Public Speaking",Science Club,Detail-Oriented,Solo,Doctor
+969,28,Non-binary,3.9,"Computer Science, Physics","Networking, JavaScript",Science Club,Analytical,Hybrid,Data Scientist
+970,25,Male,2.77,"Arts, Biology","Machine Learning, Data Analysis",Robotics Club,Detail-Oriented,Solo,Doctor
+971,25,Male,3.9,"Economics, Arts","Writing, Data Analysis",Theater Club,Introverted,Team,Research Scientist
+972,30,Male,3.98,"Arts, Math","Machine Learning, Data Analysis",Theater Club,Extroverted,Solo,Network Engineer
+973,30,Female,3.02,"History, Computer Science","Writing, Lab Research",Theater Club,Detail-Oriented,Hybrid,Writer
+974,18,Non-binary,3.17,"Physics, Math","Writing, Public Speaking",Debate Club,Extroverted,Solo,Data Scientist
+975,19,Non-binary,3.33,"Physics, Computer Science","JavaScript, Python",Hackathons,Creative,Team,Network Engineer
+976,22,Female,3.66,"Literature, Chemistry","Machine Learning, Public Speaking",Theater Club,Logical,Team,Software Engineer
+977,26,Non-binary,2.58,"Computer Science, Chemistry","Python, Public Speaking",Hackathons,Creative,Team,Graphic Designer
+978,29,Non-binary,3.3,"Literature, Computer Science","Python, Writing",Debate Club,Detail-Oriented,Hybrid,Network Engineer
+979,18,Male,3.32,"Literature, Biology","Python, JavaScript",Debate Club,Analytical,Team,Doctor
+980,24,Female,2.64,"Physics, Chemistry","Lab Research, Writing",Theater Club,Introverted,Hybrid,Data Scientist
+981,25,Male,3.75,"Computer Science, Arts","Data Analysis, Python",Debate Club,Creative,Solo,Economist
+982,20,Female,3.36,"Math, Physics","Graphic Design, Writing",Hackathons,Extroverted,Solo,Economist
+983,24,Female,3.03,"Economics, Math","Machine Learning, Data Analysis",Debate Club,Logical,Team,Software Engineer
+984,29,Male,3.83,"History, Literature","Python, Data Analysis",Hackathons,Extroverted,Team,Data Scientist
+985,28,Female,3.75,"Computer Science, Economics","Public Speaking, Machine Learning",Debate Club,Analytical,Solo,Doctor
+986,25,Male,3.13,"Biology, Literature","Networking, Public Speaking",Science Club,Extroverted,Solo,Research Scientist
+987,23,Female,2.62,"Chemistry, Economics","Python, Data Analysis",Hackathons,Detail-Oriented,Team,Network Engineer
+988,26,Male,2.99,"Biology, Literature","Data Analysis, Writing",Sports Team,Analytical,Hybrid,Doctor
+989,27,Female,3.23,"Literature, Physics","Python, JavaScript",Sports Team,Creative,Solo,Data Scientist
+990,29,Non-binary,3.77,"Physics, Economics","Networking, Machine Learning",Hackathons,Detail-Oriented,Hybrid,Writer
+991,25,Female,3.87,"Computer Science, Biology","JavaScript, Machine Learning",Science Club,Creative,Team,Economist
+992,23,Non-binary,2.82,"Literature, Math","Graphic Design, Networking",Debate Club,Logical,Solo,Data Scientist
+993,20,Female,2.82,"History, Economics","Lab Research, Writing",Theater Club,Creative,Hybrid,Software Engineer
+994,18,Non-binary,3.89,"Physics, History","Public Speaking, Data Analysis",Hackathons,Logical,Hybrid,Data Scientist
+995,21,Non-binary,3.03,"Math, Computer Science","JavaScript, Graphic Design",Hackathons,Analytical,Team,Software Engineer
+996,30,Male,3.63,"Biology, Arts","Writing, Lab Research",Robotics Club,Extroverted,Team,Software Engineer
+997,25,Non-binary,3.38,"Arts, Computer Science","Graphic Design, Lab Research",Theater Club,Introverted,Solo,Software Engineer
+998,21,Male,3.3,"Chemistry, History","Networking, Lab Research",Hackathons,Introverted,Team,Data Scientist
+999,24,Female,3.64,"Arts, Chemistry","Graphic Design, Python",Sports Team,Extroverted,Solo,Doctor
+1000,20,Male,3.05,"Arts, History","Python, Networking",Debate Club,Logical,Hybrid,Data Scientist
